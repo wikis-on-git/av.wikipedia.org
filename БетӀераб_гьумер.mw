@@ -5,20 +5,19 @@
 ''This wiki is reserved for the creation of a Wikipedia in the [[:en:Avar_language|Avar]] ('''Авар''') language. There are currently [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles, with minimal content.''
 
 *[[:Category:Wikipedia|Wikipedia]]:
-**[[Avaria]]
-**[[Avar maðh]]
-**[[Ķudutļa Muħammad]] 
-**[[Batasuna]]
+**[[Магlарул мацl]]
+**[[Магlарулал]]
+**[[Батасуна]]
 
 '''Вы тоже можете принять участие в расширении Википедии на аварском языке!''' В верхней части каждой статьи есть ссылка "править": дополняете статью и сохраняете её, вот и вся премудрость. Обязательно регистрируйтесь (ссылка справа вверху)! Это необходимо, чтобы с вами можно было связаться!
 
 Если вы не уверены в своём владении письменным аварским языком, '''попробуйте обработать материалы сайта [http://www.tsumada.ru/index.php?f=publ2&idp=53 "ЦIумада"].'''
 
-This wiki is presently unattended and has no one to clean up the mess left by spammers and others. If you come across pages that shouldn't be here, replace their content with <span style="font-family:monospace"><nowiki>{{</nowiki>[[Template:Db|db]]|reasonfordeletion<nowiki>}}</nowiki></span> so that when someone who speaks the language "adopts" the Avar Wikipedia they can weed out the spam.
+If you come across pages that shouldn't be here, replace their content with <span style="font-family:monospace"><nowiki>{{</nowiki>[[Template:Db|db]]|reasonfordeletion<nowiki>}}</nowiki></span> so that when someone who speaks the language "adopts" the Avar Wikipedia they can weed out the spam.
 
 ---------
 == The use of palochka / Использование палочки ==
 
-Though it's not quite right, the users have come to an agreement to use l (Latin letter as in '''l'''ingua) instead of palochka. A later automatic recoding can be done, when more fonts will show palochka and not a square, as it occurs now in most cases. '''Please, keep that in mind when helping the Avar wikipedia.'''
+Though it's not quite right, the users have come to an agreement to use l (Latin letter as in '''l'''ingua) instead of palochka. A later automatic recoding can be done, when more fonts will show palochka and not a square, as it occurs now in most cases. '''Please, keep that in mind when helping the Avar wikipedia.''' This policy may be changed later by decision of the users to the use of a more popular surrogate I (as in "'''I'''ndia") or a real Unicode character for palochka.
 
-Хотя это не вполне правильно, пользователи пришли к временному соглашению пользоваться латинской буквой l (как в '''l'''ingua) вместо кириллической "палочки". Позже можно будет провести автоматическую замену латинской буквы на "правильную палочку", когда больше шрифтов будут правильно отображать палочку. Пожалуйста, учитывайте это соглашение при работе с аварской Википедией.
+Хотя это не вполне правильно, пользователи пришли к временному соглашению пользоваться латинской буквой l (как в '''l'''ingua) вместо кириллической "палочки". Позже можно будет провести автоматическую замену латинской буквы на "правильную палочку", когда больше шрифтов будут правильно отображать палочку. '''Пожалуйста, учитывайте это соглашение при работе с аварской Википедией.''' Со временем участники аварской Википедии смогут договориться и изменить это соглашение на использование другого суррогата (более популярной в этой роли латинской буквы I, как в '''I'''ndia) или настоящего кириллического символа из уникодовых шрифтов.
