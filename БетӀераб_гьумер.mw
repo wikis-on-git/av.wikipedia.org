@@ -5,8 +5,8 @@
 ''This wiki is reserved for the creation of a Wikipedia in the [[:en:Avar_language|Avar]] ('''Авар''') language. There are currently [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles, with minimal content.''
 
 *[[:Category:Wikipedia|Wikipedia]]:
-**[[Магlарул мацl]]
-**[[Магlарулал]]
+**[[МагӀарул мацӀ]]
+**[[МагIарулал]]
 **[[Батасуна]]
 
 '''Вы тоже можете принять участие в расширении Википедии на аварском языке!''' В верхней части каждой статьи есть ссылка "править": дополняете статью и сохраняете её, вот и вся премудрость. Обязательно регистрируйтесь (ссылка справа вверху)! Это необходимо, чтобы с вами можно было связаться!
@@ -16,6 +16,7 @@
 If you come across pages that shouldn't be here, replace their content with <span style="font-family:monospace"><nowiki>{{</nowiki>[[Template:Db|db]]|reasonfordeletion<nowiki>}}</nowiki></span> so that when someone who speaks the language "adopts" the Avar Wikipedia they can weed out the spam.
 
 ---------
+
 == The use of palochka / Использование палочки ==
 
 Though it's not quite right, the users have come to an agreement to use l (Latin letter as in '''l'''ingua) instead of palochka. A later automatic recoding can be done, when more fonts will show palochka and not a square, as it occurs now in most cases. '''Please, keep that in mind when helping the Avar wikipedia.''' This policy may be changed later by decision of the users to the use of a more popular surrogate I (as in "'''I'''ndia") or a real Unicode character for palochka.
