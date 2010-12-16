@@ -97,6 +97,18 @@ Though it's not quite right, the users have come to an agreement to use I (Latin
 
 Хотя это не вполне правильно, пользователи пришли к временному соглашению пользоваться латинской буквой I (как в '''I'''ndia) вместо кириллической «палочки». Позже можно будет провести автоматическую замену латинской буквы на «правильную палочку», когда больше шрифтов будут правильно отображать палочку. '''Пожалуйста, учитывайте это соглашение при работе с аварской Википедией.''' Со временем участники аварской Википедии смогут договориться и изменить это соглашение на использование настоящего кириллического символа из юникодовых шрифтов.
 
+<td>
+<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
+<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
+{{Wikipedialang}}
+</div>
+</td>
+</tr>
+</table>
+
+==Родственные проекты==
+<center>[http://meta.wikipedia.org Meta-Wikipedia] | [http://www.wiktionary.org Wikitonary] | [http://www.wikibooks.org Wikibooks] | [http://www.wikinews.org Wikinews] | [http://www.wikiquote.org Wikiquote] | [http://www.wikisource.org Wikisource] </center>
+
 [[ab:]]
 [[ar:]]
 [[de:]]
