@@ -1,137 +1,63 @@
-__NOTOC__
-__NOEDITSECTION__
-[[Image:Wiki.png|right]]
-== Википедия: нижеца бакIарулеб буго лъай ==
-=== Гьелда гъорлъ нужерабги! ===
-Нуж магIарул мацIалда кIалъалел ратани, '''гьабе кумек тIоцебесеб магIарул электронияб энциклопедия цебетIеялъе'''.
-
-''This wiki is reserved for the creation of a Wikipedia in the [[:en:Avar_language|Avar]] ('''Авар''') language. There are currently [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles (mostly stubs).''
-
-[[Special:Allpages|Все страницы / All pages]]
-
-
-{|width="100%" border="0" cellspacing="0" cellpadding="5" 
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;text-align: center;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:Artalt.png|44px|]]</div>
-|width="50%" style="font-size:85%;"|<big>'''[["Искусство"]]'''</big><br />
-[[Адабият]]
-· [[МагIарулазул кицаби ва абиял]]
-· [[ХIамзатил Расул]]
-· [[МагIарул мацI]] 
-· [[ГІурус мацI]]
-· [[МагIарулал]]
-· [[Театр]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:Sciences exactes.svg|44px|]]</div>
-|width="50%" style="font-size:85%"|<big>'''[[xxx]]'''</big><br />
-[[Физика]]
-· [[Химия]]
-· [[Астрономия]] 
-· [[ЛъагIалил заманаби]]
-· [[Математика]]
-· [[Медицина]]
-· [[ТIабигIат]]
-· [[Биология]]
-· [[РухI-чIаголъи]]
-· [[Хурма]]
-· [[ХIур-хер]] 
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:Gnome-globe.svg|44px|Jéografie]]</div>
-|width="50%" style="font-size:85%; border-top:2px dotted #DDDDF7;"|<big>'''[[География]]'''</big><br />
-[[Дагъистан]]
-· [[Россиялъул Федерация]]
-· [[Азарбижан]]
-· [[Истамбул]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:ReligiousSymbols.svg|44px|Relijyons pi croéyanches]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Дин]]'''</big><br />
-[[Ислам]]
-· [[Аллагьасул берцинал цIарал]]
-· [[МухIаммад авараг]]
-· [[Таяммум]]
-· [[Как]]
-· [[Къуръан]]
-· [[Инжил]]
-· [[Таврат]]
-· [[Забур]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:P_Football.png|44px|Sports]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Спорт]]'''</big><br />
-[[Футбол]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:Musical notes.svg|44px|]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Музыка]]'''</big><br />
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Файл:Sciences humaines.svg|44px|Syinches humènes pi sociales]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[["sosyal bilimler"]]'''</big><br />
-[[МацI|МацIал]]
-· [[Тарих]]
-· [[Имам Шамил]]
-· [[ХIоцоса Нажмудин]]
-· [[Батасуна]]
-· [[Философия]]
-· [[Экономика]]
-<!-- ________________________________________ -->
+{{ТІадехунисеб рахъ}}
+<!---------------------------------------------------------->
+{| style="margin-top:10px; background:none;"
+| style="width:50%; vertical-align:top;" |
+{| cellpadding="0" cellspacing="0" style="width:100%;"
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=0 | БетІер = ТІасарищарал <span  style="color:Gold;font-size:110%;text-decoration:">&#10031;</span>| ХІасил=
+<div id="mp-tfa">{{ТІасарищарал}}</div>
+<!--<br style="clear:both;" />-->
+ |[[Template:ТІасарищарал|Бӣхьизе]]
+ }}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=0 | БетІер = ЛъикІал | ХІасил=
+{{ЛъикІал}}
+ |[[Template:ЛъикІал|Бӣхьизе]]
+ }}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=0 | БетІер = ТІасарищарал сияхІ | ХІасил=
+{{ТІасарищарал сияхІ}}
+ |[[Template:ТІасарищарал сияхІ|Бӣхьизе]]
+ }}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=0 | БетІер = Сурат {{CURRENTDAY}} {{CURRENTMONTH}} {{CURRENTYEAR}} | ХІасил=
+<div style="text-align:center;">
+[[File:{{Template:Сурат/{{CURRENTYEAR}}-{{CURRENTMONTH}}|сурат={{#expr: {{CURRENTDAY}}}}-сурат}}|<includeonly>{{{width}}}</includeonly><noinclude>250</noinclude>px|]]
+{{Template:Сурат/{{CURRENTYEAR}}-{{CURRENTMONTH}}|сурат={{#expr: {{CURRENTDAY}}}}-тексталда}}
+ |[[Template:Сурат/{{CURRENTYEAR}}-{{CURRENTMONTH}}|Бӣхьизе]]
+ }}</div>
 |}
+|<!-- 2 COLONNES --> style="border:3px solid transparent;" |
+<!---------------------------------------------------------->
+| style="width:50%; vertical-align:top;"|
+{| cellpadding="0" cellspacing="0" style="width:100%;"
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=1 | БетІер = Абги лъаларев мун кинав?… | ХІасил=
+<div id="mp-dyk">{{Абги лъаларев мун кинав}}</div>
+ |[[Template:Абги лъаларев мун кинав|Бӣхьизе]]
+ }}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=1 | БетІер = Гьеб къоялъ — {{CURRENTDAY}} {{CURRENTMONTH}} {{CURRENTYEAR}} | ХІасил=
+{{Гьеб къоялъ}}
+ |[[Template:Гьеб къоялъ|Бӣхьизе]]
+ }}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=1 | БетІер = ХІалтІизе анкьил | ХІасил=
+{{ХІалтІизе анкьил}}
+ |[[Template:ХІалтІизе анкьил|Бӣхьизе]]
+ }}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=1 | БетІер = РагІи билълъарав | ХІасил=
+{{РагІи билълъарав}}
+ |[[Template:РагІи билълъарав|Бӣхьизе]]
+ }}
+|}
+|}
+<!---------------------------------------------------------->
+{{ТІохьол баб | x=2 | БетІер = БатІӣяб къагІида проекта | ХІасил=
+{{БатІӣяб къагІида проекта}}
+}}
 
-
-'''Нужедаги кIола магIарул мацIалда Википедия цебетIезабиялда гъорлъ гIахьаллъизе!'''Щибаб гьумералда тIад буго "хисизабе" ссылка: макъалаялда тIаде жо жубала ва цIунула, Гьелдалъун тIубала. Вореха нужерго цIар бицине кIочонге(ссылка буго тIад кваранида)! Гьеб хIажалъула нужергун бухьен гьабизе!
-
-Нужедаго хъвавул магIарул мацI лъаялда шаклъи батани, хIалбихье [http://www.tsumada.ru/index.php?f=publ2&idp=53 "ЦIумада"] сайталъул материалазда тIад хIалтIи гьабизе.
-
-
-If you come across pages that shouldn't be here, replace their content with <span style="font-family:monospace"><nowiki>{{</nowiki>[[Template:Db|db]]|reasonfordeletion<nowiki>}}</nowiki></span> so that when someone who speaks the language "adopts" the Avar Wikipedia they can weed out the spam.
-
----------
-
-== The use of palochka / Использование палочки ==
-
-Though it's not quite right, the users have come to an agreement to use I (Latin letter as in '''I'''ndia) instead of palochka. A later automatic recoding can be done (by a bot), when more fonts will show palochka and not a square, as it occurs now in most cases. '''Please, keep that in mind when helping the Avar wikipedia.''' This policy may be changed later by decision of the users to the use of a real Unicode character for palochka.
-
-Хотя это не вполне правильно, пользователи пришли к временному соглашению пользоваться латинской буквой I (как в '''I'''ndia) вместо кириллической «палочки». Позже можно будет провести автоматическую замену латинской буквы на «правильную палочку», когда больше шрифтов будут правильно отображать палочку. '''Пожалуйста, учитывайте это соглашение при работе с аварской Википедией.''' Со временем участники аварской Википедии смогут договориться и изменить это соглашение на использование настоящего кириллического символа из юникодовых шрифтов.
-
-<td>
-<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
-<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
-{{Wikipedialang}}
 </div>
-</td>
-</tr>
-</table>
-
-==Родственные проекты==
-<center>[http://meta.wikipedia.org Meta-Wikipedia] | [http://www.wiktionary.org Wikitonary] | [http://www.wikibooks.org Wikibooks] | [http://www.wikinews.org Wikinews] | [http://www.wikiquote.org Wikiquote] | [http://www.wikisource.org Wikisource] </center>
-
-[[ab:]]
-[[ar:]]
-[[az:]]
-[[be:]]
-[[bg:]]
-[[ce:]]
-[[de:]]
-[[el:]]
-[[en:]]
-[[eo:]]
-[[es:]]
-[[fa:]]
-[[it:]]
-[[ja:]]
-[[ka:]]
-[[lbe:]]
-[[os:]]
-[[ru:]]
-[[tr:]]
-[[tt:]]
-[[uk:]]
+__NOTOC__ __NOEDITSECTION__
+{{nobots}}
