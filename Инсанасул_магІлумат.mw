@@ -1,6 +1,6 @@
 <includeonly>{{#if:{{NAMESPACE}}||[[Категория:Алфавиталда рекъон гІадамазул сияхІ]]}}</includeonly>
 {{Карточка
-|стиль_тела        = width:23em;
+|стиль_тела        = width:23em; {{float right}}; text-align:left; border:1px solid #BBBBBB; background:#ffffff; cellpadding=1
 |класс_тела        = vcard
 |название          = 
 |стиль_названия    = 
