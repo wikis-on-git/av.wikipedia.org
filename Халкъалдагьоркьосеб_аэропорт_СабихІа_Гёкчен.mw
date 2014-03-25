@@ -6,7 +6,7 @@
 |image2=Sabiha Gökçen Airport.JPG
 |image2-width=250
 |caption2=
-|namestate=Туркия
+|namestate=Турция
 |nameregion=Истамбул
 |type=гІадамал роржунеб
 |hub=
@@ -19,6 +19,12 @@
 |IATA= SAW
 |altitude=+95 м.
 |coordinates={{coord|40|53|54|N|29|18|33|E|type:airport_region:TR}}
+<center>{{Location map|Турция|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=SAW|position=bottom
+|lat_deg=40|lat_min=53|lat_sec=54|lat_dir=N
+|lon_deg=29|lon_min=18|lon_sec=33|lon_dir=E
+}}</center>
 |region=TR
 |CoordScale=
 |time= +2
