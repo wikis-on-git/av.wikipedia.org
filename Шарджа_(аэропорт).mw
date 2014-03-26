@@ -2,7 +2,7 @@
 | магІарулалъ цІар        = Халкъалдагьоркьосеб Аэропорт Шарджа 
 | аслияб цІар             = مطار الشارقة الدولي
 | сурат                   = Sharjah-20.jpg
-| сураталъул размер       = 318
+| сураталъул размер       = 250
 | гъоркьхъвай             = 
 | IATA                    = SHJ
 | ICAO                    = OMSJ
@@ -13,6 +13,12 @@
   |lon_dir = E|lon_deg = 55|lon_min = 31|lon_sec = 02
   |region     =   
   |CoordScale =  
+<center>{{Location map|ГIарабазул Цолъарал Имаратал|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=SHJ|position=bottom
+|lat_deg=25|lat_min=19|lat_sec=43|lat_dir=N
+|lon_deg=55|lon_min=31|lon_sec=02|lon_dir=E
+}}</center>
 | площадь                 = 
 | бана                    = 
 | веб-сайт                = [http://www.sharjahairport.ae/ Расмияб сайт]
