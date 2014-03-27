@@ -25,12 +25,10 @@
  |[[Шаблон:ТІасарищарал сияхІ|Балахьизе]]
  }}
 <!---------------------------------------------------------->
-{{ТІохьол баб | x=0 | БетІер = Сурат {{CURRENTDAY}} {{CURRENTMONTH}} {{CURRENTYEAR}} | ХІасил=
-<div style="text-align:center;">
-[[Файл:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|300x300px|{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (av)}}]]
-{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (av)}}</center>
- |[[Википедия:Сурат|Балахьизе]]
- }}</div>
+{{ТІохьол баб | x=0 | БетІер = Анкьил сурат | ХІасил=
+{{Анкьил сурат}}
+ |[[Шаблон:Анкьил сурат|Балахьизе]]
+ }}
 <!---------------------------------------------------------->
 |    
 |style="width:50%" valign="top"|
