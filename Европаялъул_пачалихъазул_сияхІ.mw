@@ -689,7 +689,7 @@ desc none
 ! style="background-color: width="10%" {{ЕПЦРРС|Б}};" |Валюта
 ! style="background-color: width="10%" {{ЕПЦРРС|Б}};" |Площадь<br /><small>БакI дунялалда</small>
 ! style="background-color: width="10%" {{ЕПЦРРС|Б}};" |Халкъалъул къадар<br /><small>Гъунки</small>
-! style="background-color: width="10%" {{ЕПЦРРС|Б}};" |ГIЖП<sup>[[Паритет покупательной способности|ппс]]</sup><br /><small>ВВП на душу населения</small>
+! style="background-color: width="10%" {{ЕПЦРРС|Б}};" |ГIЖП<sup>[[Бича-хисиялъул бажариялъул бащалъи|ббб]]</sup><br /><small>ГIЖП халкъалдаса цо чиясе</small>
 ! style="background-color: width="10%" {{ЕПЦРРС|Б}};" |Карта
 |- style="background-color:{{ЕПЦРРС|РБ}};" |
 | style="background-color:{{ЕПЦРРС|ПР}};" |'''[[Хъазахъистан]]'''<br /><small>''(Хъазахъистан Жумгьурият)''</small>
@@ -718,42 +718,28 @@ desc none
 | align=center| {{nts|71158647}}<hr />{{nts|93}}
 | align=center| {{nts|1026<ref name="cia_tr">[https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html The World Factbook, Turkey, 2011]</ref>}}<hr />{{nts|14600<ref name="cia_tr" />}}
 | [[Файл:LocationTurkey.png|border|120px]]
-|}
-
-Страны, бо́льшая часть территории которых не относится к географической Европе, согласно вариантам прохождения границ частей света по [[Кавказ]]у; согласно варианту прохождения границы Европы и Азии по [[Кумо-Манычская впадина|Кумо-Манычской впадине]] эти государства целиком расположены в Азии.
-{| class="wikitable" width="100%"
-|-
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" | Название<br /><small>''(Официальное название)''</small>
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Флаг
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Столица
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Язык
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Валюта
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Площадь<br /><small>Место в мире</small>
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Население<br /><small>Плотность</small>
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |ВВП<sup>[[Паритет покупательной способности|ппс]]</sup><br /><small>ВВП на душу населения</small>
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Карта
-|- style="background-color:{{ЕПЦРРС|В}};" |
-| style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Азербайджан]]'''<br /><small>''(Азербайджанская Республика)''</small>
+|- style="background-color:{{ЕПЦРРС|Р}};" |
+| style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Азарбижан]]'''<br /><small>''(Азарбижан Жумгьурият)''</small>
 | style="background-color:{{ЕПЦРРС|ПАР}};" |<imagemap> Image:Flag_of_Azerbaijan.svg|border|85px
-default [[Флаг Азербайджана]]
+default [[Азарижаналъул байрахъ]]
 desc none
 </imagemap>
 | [[Баку]]
-| [[Азербайджанский язык|Азербайджанский]]
-| [[Азербайджанский манат]]
+| [[Къажар мацІ|Къажар]]
+| [[Азарбижаналъул манат]]
 | align=center| {{nts|86 600}}<hr />112
 | align=center| {{nts|9 235 000}}<hr />{{nts|105}}
 | align=center| {{nts|93.02<ref name="cia_aj">[https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html The World Factbook, Azerbaijan, 2011]</ref>}}<hr />{{nts|10200<ref name="cia_aj" />}}
 | [[Файл:LocationAzerbaijan.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|П}};" |
-| style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Грузия]]'''<br /><small>''(Грузия)''</small>
+|- style="background-color:{{ЕПЦРРС|Р}};" |
+| style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Гуржи]]'''<br /><small>''(Гуржи)''</small>
 | style="background-color:{{ЕПЦРРС|ПАР}};" |<imagemap> Image:Flag_of_Georgia.svg|border|85px
-default [[Флаг Грузии]]
+default [[Гуржиялъул байрахъ]]
 desc none
 </imagemap>
-| [[Тбилиси]]
-| [[Грузинский язык|Грузинский]]
-| [[Грузинский лари]]
+| [[Тулпис]]
+| [[Гуржи мацІ|Гуржи]]
+| [[Гуржиялъул лари]]
 | align=center| {{nts|69 700 }}<hr />118
 | align=center| {{nts|4 385 400}}<hr />{{nts|63}}
 | align=center| {{nts|24.51<ref name="cia_gg">[https://www.cia.gov/library/publications/the-world-factbook/geos/gg.html The World Factbook, Georgia, 2011]</ref>}}<hr />{{nts|5400<ref name="cia_gg" /><hr />}}
