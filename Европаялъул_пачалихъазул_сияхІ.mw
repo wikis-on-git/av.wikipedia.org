@@ -27,10 +27,10 @@
 ! style="background-color: width="10%" {{ЕПЦРРС|З}};" |ГӀарац
 ! style="background-color: width="10%"};" |Площад, км²<br /><small>Ракьалда бакӀ</small>
 ! style="background-color: width="10%" {{ЕПЦРРС|З}};" |ГӀадамазул къадар<br /><small>Плотность</small>
-! style="background-color: width="10%" {{ЕПЦРРС|З}};" |ВВП<sup>[[Паритет покупательной способности|ппс]]</sup><br /><small>ВВП на душу населения</small>
+! style="background-color: width="10%" {{ЕПЦРРС|З}};" |ГІЖП<sup>[[Бича-хисиялъул бажариялъул бащалъи|ббб]]</sup><br /><small>ГІЖП халкъалдаса цо чиясе</small>
 ! style="background-color: width="10%" {{ЕПЦРРС|З}};" |Карта
-|- style="background-color:{{ЕПЦРРС|В}};" |
-| style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Австрия]]'''<br /><small>''(Австрия жумхӀурият)''</small>
+|- style="background-color:{{ЕПЦРРС|РБ}};" |
+| style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Австрия]]'''<br /><small>''(Австрия жумгьурият)''</small>
 | style="background-color:{{ЕПЦРРС|ПАР}};" |<imagemap> Image:Flag_of_Austria.svg|border|border|85px
 default Австриялъул байрахъ
 desc none
@@ -42,7 +42,7 @@ desc none
 | align=center| {{nts|8206524}}<hr />{{nts|91}}
 | align=center| {{nts|279.5}}<hr />{{nts|36000}}
 | [[Файл:LocationAustria.png|border|border|120px]]
-|- style="background-color:{{ЕПЦРРС|П}};"
+|- style="background-color:{{ЕПЦРРС|Р}};"
 | style="background-color:{{ЕПЦРРС|КМ}};" |'''[[Бельгия]]'''<br /><small>''(Королевство Бельгия)''</small>
 | style="background-color:{{ЕПЦРРС|КМ}};" |<imagemap> Image:Flag_of_Belgium.svg|border|border|85px
 default [[Флаг Бельгии]]
@@ -55,7 +55,7 @@ desc none
 | align=center| {{nts|10511000}}<hr />{{nts|318}}
 | align=center| {{nts|309.01}}<hr />{{nts|29.814}}
 | [[Файл:LocationBelgium.png|border|border|120px]]
-|- style="background-color:{{ЕПЦРРС|О}};"
+|- style="background-color:{{ЕПЦРРС|ЧI}};"
 | style="background-color:{{ЕПЦРРС|КМ}};" |'''[[Великобритания]]'''<ref name="ENG-IRL">Великобританию и Ирландию относят одновременно к Западной и к Северной Европе.</ref><br /><small>''(Соединённое Королевство <br />Великобритании и <br />Северной Ирландии)''</small>
 | style="background-color:{{ЕПЦРРС|КМ}};" |<imagemap> Image:Flag_of_the_United_Kingdom.svg|border|border|85px
 default [[Флаг Великобритании]]
@@ -68,7 +68,7 @@ desc none
 | align=center| {{nts|60776238}}<hr />{{nts|247}}
 | align=center| {{nts|1736.377}}<hr />{{nts|30900}}
 | [[Файл:LocationUnitedKingdom.png|border|border|120px]]
-|- style="background-color:{{ЕПЦРРС|П}};" |
+|- style="background-color:{{ЕПЦРРС|Р}};" |
 | style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Германия]]'''<br /><small>''(Федеративная Республика Германия)''</small>
 | style="background-color:{{ЕПЦРРС|ПАР}};" |<imagemap> Image:Flag_of_Germany.svg|border|85px
 default [[Флаг Германии]]
@@ -81,7 +81,7 @@ desc none
 | align=center| {{nts|82310000}}<hr />{{nts|231}}
 | align=center| {{nts|2609}}<hr />{{nts|31472}}
 | [[Файл:LocationGermany.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|О}};"
+|- style="background-color:{{ЕПЦРРС|ЧI}};"
 | style="background-color:{{ЕПЦРРС|ПР}};" |'''[[Ирландия]]'''<ref name="ENG-IRL"/><br /><small>''(Ирландская Республика)''</small>
 | style="background-color:{{ЕПЦРРС|ПР}};" |<imagemap> Image:Flag_of_Ireland.svg|border|85px
 default [[Флаг Ирландии]]
@@ -94,7 +94,7 @@ desc none
 | align=center| {{nts|4240000}}<hr />{{nts|60.3}}
 | align=center| {{nts|177.2}}<hr />{{nts|43600}}
 | [[Файл:LocationIreland.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|В}};" |
+|- style="background-color:{{ЕПЦРРС|РБ}};" |
 | style="background-color:{{ЕПЦРРС|КМ}};" |'''[[Лихтенштейн]]'''<br /><small>''(Княжество Лихтенштейн)''</small>
 | style="background-color:{{ЕПЦРРС|КМ}};" |<imagemap> Image:Flag_of_Liechtenstein.svg|border|85px
 default [[Флаг Лихтенштейна]]
@@ -107,7 +107,7 @@ desc none
 | align=center| {{nts|34905}}<hr />{{nts|217}}
 | align=center| {{nts|0.825}}<hr />{{nts|25000}}
 | [[Файл:LocationLiechtenstein.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|В}};"
+|- style="background-color:{{ЕПЦРРС|РБ}};"
 | style="background-color:{{ЕПЦРРС|КМ}};" | '''[[Люксембург]]'''<br /><small>''(Великое Герцогство Люксембург)''</small>
 | style="background-color:{{ЕПЦРРС|КМ}};" |<imagemap> Image:Flag_of_Luxembourg.svg|border|85px
 default [[Флаг Люксембурга]]
@@ -120,7 +120,7 @@ desc none
 | align=center| {{nts|473000}}<hr />{{nts|183}}
 | align=center| {{nts|33.87}}<hr />{{nts|71400}}
 | [[Файл:LocationLuxembourg.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|П}};" |
+|- style="background-color:{{ЕПЦРРС|Р}};" |
 | style="background-color:{{ЕПЦРРС|КМ}};" |'''[[Монако]]'''<br /><small>''(Княжество Монако)''</small>
 | style="background-color:{{ЕПЦРРС|КМ}};" |<imagemap> Image:Flag_of_Monaco.svg|border|85px
 default [[Флаг Монако]]
@@ -133,7 +133,7 @@ desc none
 | align=center| {{nts|35656}}<hr />{{nts|18285}}
 | align=center| {{nts|0.870}}<hr />{{nts|27000}}
 | [[Файл:LocationMonaco.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|П}};"
+|- style="background-color:{{ЕПЦРРС|Р}};"
 | style="background-color:{{ЕПЦРРС|КМ}};" |'''[[Нидерланды]]'''<br /><small>''(Королевство Нидерланды)''</small>
 | style="background-color:{{ЕПЦРРС|КМ}};" |<imagemap> Image:Flag of the Netherlands.svg|border|85px
 default [[Флаг Нидерландов]]
@@ -146,9 +146,9 @@ desc none
 | align=center| {{nts|16440133}}<hr />{{nts|396}}
 | align=center| {{nts|477.4}}<hr />{{nts|26096}}
 | [[Файл:LocationNetherlands.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|П}};"
-| style="background-color:{{ЕПЦРРС|СР}};" |'''[[Франция]]'''<br /><small>''(Французская Республика)''</small>
-| style="background-color:{{ЕПЦРРС|СР}};" |<imagemap> Image:Flag_of_France.svg|border|85px
+|- style="background-color:{{ЕПЦРРС|Р}};"
+| style="background-color:{{ЕПЦРРС|ЖР}};" |'''[[Франция]]'''<br /><small>''(Французская Республика)''</small>
+| style="background-color:{{ЕПЦРРС|ЖР}};" |<imagemap> Image:Flag_of_France.svg|border|85px
 default [[Флаг Франции]]
 desc none
 </imagemap>
@@ -159,7 +159,7 @@ desc none
 | align=center| {{nts|61875822}}<hr />{{nts|114}}
 | align=center| {{nts|2230}}<hr />{{nts|28647}}
 | [[Файл:LocationFrance.png|border|120px]]
-|- style="background-color:{{ЕПЦРРС|В}};" |
+|- style="background-color:{{ЕПЦРРС|РБ}};" |
 | style="background-color:{{ЕПЦРРС|ПАР}};" |'''[[Швейцария]]'''<br /><small>''(Швейцарская Конфедерация)''</small>
 | style="background-color:{{ЕПЦРРС|ПАР}};" |<imagemap> Image:Flag_of_Switzerland.svg|border|85px
 default [[Флаг Швейцарии]]
