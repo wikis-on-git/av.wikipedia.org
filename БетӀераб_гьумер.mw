@@ -1,69 +1,77 @@
-{| style="border-collapse:collapse; background:green; width:100%; border:0; color:white; text-align:center; margin-bottom:20px;"
-|-
-| style="vertical-align:middle; padding:0px 0px;" | [[Файл:Portal-Dagestan.jpg|700px|j]]
-| style="vertical-align:middle; width:100%; font-size:300%; font-family:times;" | Ракке [[Портал:Дагъистан|«Дагъистан» порталалде!]] 
-| style="vertical-align:middle; padding:0px 0px;" | [[Файл:Flag of Dagestan Republic.png|115px|Дагъистаналъул байрахъ]]
-| style="vertical-align:middle; padding:0px 0px;" | 
-|}
+{| id="mp-columns" class="radius" cellspacing="7" style=" width:100%; background:none "
+|width=65% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .5em .5em 0em .5em; color: #000; background: #F8F8F8;" colspan=2|
 {{ТІадехунисеб рахъ}}
-<!----------------------------------------------------------> 
-{|style="width:100%" cellspacing="0" cellpadding="0"
-|style="width:50%" valign="top"|
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=0 | БетІер = Гьабе кумек <span  style="color:Red;font-size:110%;text-decoration:">&#10031;</span>| ХІасил=
-<div id="mp-tfa">{{Гьабе кумек}}</div>
-<!--<br style="clear:both;" />-->
- |[[Шаблон:Гьабе кумек|Балагьизе]]
- }}
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=0 | БетІер = ТІасарищарал <span  style="color:Gold;font-size:110%;text-decoration:">&#10031;</span>| ХІасил=
-<div id="mp-tfa">{{ТІасарищарал}}</div>
-<!--<br style="clear:both;" />-->
- |[[Шаблон:ТІасарищарал|Балагьизе]]
- }}
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=0 | БетІер = ЛъикІал | ХІасил=
+|-
+|width=65% valign="top" style="border:1px solid #c6c9ff;  border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Жакъа тІаса бищараб макъала |Изображение=HSutvald3.svg}}
+<div id="mf-fa" style="margin-bottom: auto;" title="Жакъа тІаса бищараб макъала">{{ТІасарищарал}}</div>
+| rowspan=6  valign="top" style="border:1px solid #c6c9ff; border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Жакъасел лъугьа-бахъинал|Изображение=HSAktuell.svg}}
+<div id="mf-fb" style="margin-bottom: auto;" title="Жакъасел лъугьа-бахъинал"><div>{{Жакъасел лъугьа-бахъинал}}</div></div>
+{{КвегІиса рачІчІ|[[2015 соналъ хваразул сияхІ|Исана хварал]] '''•''' [[БетІераб гьумер|Викихарбал]]}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;"/>
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Википедиялъул ракІалде щвезабиялдаса|Изображение=HSDagensdatum.svg}}
+<div id="mf-mw" style="margin-bottom: auto;" title="Википедиялъул ракІалде щвезаби">{{Википедиялъул ракІалде щвезаби}}</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;"/>
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Лъалищ дуда?|Изображение=HS Emblem-question.png}}
+{{Гьабги лъаларев мун кинав}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;"/>
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Цитата|Изображение=HSBook.svg}}
+{{БетІераб гьумералда цитата}}
+{{КвегІиса рачІчІ|[[q:|Викицитата]] '''•''' [[Википедия:Жакъасел цитатаязул сияхІ|Цитатабазул сияхІ]]}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;"/>
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=МацІалда битІунхъвай|Изображение=HS Korganizer.svg}}
+{{МацІалда битІунхъвай}}
+{{КвегІиса рачІчІ|[[wikt:|Викикъамус]] '''•''' [[Википедия:Жакъасел битІунхъваязул сияхІ|БитІунхъваязул сияхІ]]}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;"/>
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Щиб жо кколеб Википедия?|Изображение=HSWPedia.svg}}
+{{Щиб жо кколеб Википедия?}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;"/>
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Щай хъвалареб цІияб макъала?|Изображение=HSEditor.svg}}
+{{Хъвай цІияб макъала}}
+{{КвегІиса рачІчІ|[[Кумек:Малъа-хъваязул видеоял|Балагье цо-цо малъа-хъваязул видеоязухъ]]}}
+|-
+|width=65% valign="top" style="border:1px solid #c6c9ff;  border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Жакъа къойил лъикІаб макъала|Изображение=HSUtvaldgrey.png}}
 {{ЛъикІал}}
- |[[Шаблон:ЛъикІал|Балагьизе]]
- }}
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=0 | БетІер = ТІасарищарал сияхІ | ХІасил=
+|-
+|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Жакъа тІасарищарал сияхІал|Изображение=HS Liste.svg}}
 {{ТІасарищарал сияхІ}}
- |[[Шаблон:ТІасарищарал сияхІ|Балагьизе]]
- }}
-<!---------------------------------------------------------->
-|    
-|style="width:50%" valign="top"|
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=1 | БетІер = Гьабги лъаларев мун кинав?… | ХІасил=
-<div id="mp-dyk">{{Гьабги лъаларев мун кинав}}</div>
- |[[Шаблон:Абги лъаларев мун кинав|Балагьизе]]
- }}
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=1 | БетІер = <!--Гьаб къоялъ — {{CURRENTDAY}} {{CURRENTMONTH}}-->РукӀине кколел макъалаби | ХІасил=
-{{Гьеб къоялъ}}
- |[[Шаблон:Гьеб къоялъ|Балагьизе]]
- }}
+|-
+|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
 
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=1 | БетІер = ЦIиял макъалаби | ХІасил=
-{{РагІи билълъарав}}
- |[[Шаблон:РагІи билълъарав|Балагьизе]]
- }}
-<!---------------------------------------------------------->
-{{ТІохьол баб | x=1 | БетІер = Къойил сурат | ХІасил=
-<div style="text-align:center;">
-[[Файл:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|300x300px|{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (av)}}]]
-{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (av)}}</center>
- |[[Википедия:Къойил сурат|Балагьизе]]
- }}
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Жакъа тІаса бищараб сурат|Изображение=HSBild.svg}}
+{{ТІаса бищараб сурат}}
+{{КвегІиса рачІчІ|[[Википедия:ТІаса бищараб сурат|Суртазул альбом]] '''•''' [[Википедия:Къойил_сурат|Дурго сурат кье, тІаса бищараблъун букІине]]}}
+|-
+|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Жакъа тІаса бищараб портал|Изображение=HSHome.svg}}
+{{ملون|النص=بوابة اليوم المخُتارة هي...|الحجم=2}}{{ТІаса бищараб портал}}
+|-
+|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+
+{{БетІераб гьумер/рамабазул кьерал |Адрес=Хъирщаде энциклопедиялда|Изображение=HSCategory.svg}}
+{{Хъирще энциклопедия}}
+|-
 |}
-<!----------------------------------------------------------->
-{{ТІохьол баб | x=2 | БетІер = ГІагарал проектал | ХІасил=
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top; background:#F8F8F8; border:1px solid #c6c9ff; border-radius:5px; color:#000;"
+|{{БетІераб гьумер/рамабазул кьерал |Адрес=ГІагарал проектал|Изображение=Wikimedia-logo-circle.svg}}
 {{Википедиялъул машругІал}}
-}}
+|}
+{{noexternallanglinks}}
 
-<div style="text-align:center">{{s|[[Википедия:Вакиллъи|Вакиллъи / Embassy]] —}} {{s|{{p|[http://av.m.wikipedia.org/wiki/БетIераб_гьумер Бигьаяб версия]}} —}} {{s|[[:wikimedia:Global Support/av|Кумек гьаби]] — [[Фонд Викимедиа]] —}} {{s|[[:ru:ВП:Контакты|Контактал]] —}} {{s|[[Википедия:Википедиязул сияхІ|Цоги мацІазул бутІаби]]}}</div>
+<div style="text-align:center">{{s|[[Википедия:Вакиллъи|Вакиллъи / Embassy]] —}} {{s|{{p|[http://av.m.wikipedia.org/wiki/БетIераб_гьумер Бигьаяб версия]}} —}} {{s|[[:wikimedia:Global Support/av|Кумек гьаби]] — [[Фонд Викимедиа]] —}} {{s|[[:ru:ВП:Контакты|Контактал]] —}} {{s|[[Википедия:Википедиязул сияхІ|Цоги мацІазул бутІаби]]}}</div>
 __NOTOC__ __NOEDITSECTION__
 {{Interwiki}}
 {{nobots}}
