@@ -1,26 +1,26 @@
 {{Index box|border=#aaaaaa}}
-{{Проект:Порталал/Закладки}}
+{{Проект:Порталал/Закладкаби}}
 {{/intro-box-header}}
 Гьаб гьумералда бакӀарун буго Википедиялъул [[ВП:Порталал|порталазул]] сияхӀ.
 {{box-footer|}}
 
 <div style="float:left; width:64%;">
-{{/box-header|Порталы русской Википедии|{{FULLPAGENAME}}/Обзор}}
-{{{{FULLPAGENAME}}/Обзор}}
+{{{{FULLPAGENAME}}/box-header|Авар Википедиялъул порталал|{{FULLPAGENAME}}/Хал-кӀач}}
+{{{{FULLPAGENAME}}/Хал-кӀач}}
 {{box-footer|}}
 </div>
 
 <div style="float:right; width:35%">
-{{/box-header|Последний избранный портал|{{FULLPAGENAME}}/Последний избранный портал|bg=#c0ffa7}}
-<center>{{{{FULLPAGENAME}}/Последний избранный портал}}</center>
-{{box-footer|[[Википедия:Кандидаты в избранные списки и порталы|Кандидатуры]]}}
+{{{{FULLPAGENAME}}/box-header|Ахирисеб тӀасабищараб портал|{{FULLPAGENAME}}/Ахирисеб тӀасабищараб портал|bg=#c0ffa7}}
+<center>{{{{FULLPAGENAME}}/Ахирисеб тӀасабищараб портал}}</center>
+{{box-footer|[[Википедия:ТӀасарищарал сияхӀазда ва порталазда кондидатал|Кандидатураби]]}}
 
-{{/box-header|Внимание участников|{{FULLPAGENAME}}/Внимание участников}}
-{{{{FULLPAGENAME}}/Внимание участников}}
+{{{{FULLPAGENAME}}/box-header|ГӀахьалчагӀазе ххал гьибиялъе|{{FULLPAGENAME}}/ГӀахьалчагӀазе ххал гьибиялъе}}
+{{{{FULLPAGENAME}}/ГӀахьалчагӀазе ххал гьибиялъе}}
 {{box-footer|}}
 
-{{/box-header|Новые порталы|{{FULLPAGENAME}}/Новые порталы|bg=#c0ffa7}}
-{{{{FULLPAGENAME}}/Новые порталы}}
+{{{{FULLPAGENAME}}/box-header|ЦӀиял порталал|{{FULLPAGENAME}}/ЦӀиял порталал|bg=#c0ffa7}}
+{{{{FULLPAGENAME}}/ЦӀиял порталал}}
 {{box-footer|}}
 </div>
 
