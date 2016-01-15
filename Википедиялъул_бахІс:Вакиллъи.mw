@@ -1,0 +1,15 @@
+== <span id="crowdcontribution" />a crowdcontribution to Wikipedias 15th birthday ==
+
+: <sup><span dir "ltr" class="plainlinks" >'''PAGEID:'''&nbsp;{{PAGEID}}&nbsp;· [https:{{SERVER}}/?curid={{PAGEID}}#crowdcontribution links&nbsp;'''here''']&nbsp;· <sup>[https:{{SERVER}}/?curid={{PAGEID}}&action=purge# purge&nbsp;↺]&nbsp;· [https:{{SERVER}}/?curid={{PAGEID}}&action=edit&section=0# section=0]</sup>&nbsp;· '''REVISIONID:'''&nbsp;{{REVISIONID}}&nbsp;· [https:{{SERVER}}/?oldid={{REVISIONID}}# permanent&nbsp;link]</span></sup>
+<div dir="ltr" >
+Dear friends! '''[[d:Wikidata:Database reports/Wikipedia versions|Wikipedia versions]]''' is a Wikidata approach to display additional information to [[special:SiteMatrix]]. Nevertheless the titles and descriptions of the Wikidata items need translations in many languages. Maybe you can spend some minutes to add a few translations today. Best regards [[Участник:I18n|I18n]] ([[Обсуждение участника:I18n|обсуждение]]) 10:32, 15 Январ 2016 (UTC)  
+</div>
+=== <span id="WMF_projects" />WMF projects - translation of Wikidata labels and descriptions ===
+<div dir="ltr" >
+: https://av.wikipedia.org/?curid={{PAGEID}}#WMF_projects  links here
+: lang='''av''' : [http://tools.wmflabs.org/autolist/autolist1.html?lang=av&props=31,218,219,220,506,1406&q=claim%5B1800%5D <nowiki>?lang=</nowiki>'''av'''<nowiki>&props=31,218,219,220,506,1406&q=claim[1800]</nowiki>] – [{{fullurl:w:av:{{FULLPAGENAME}}|uselang=av}}#<span dir="ltr" LANG="av" >{{#LANGUAGE:av}}</span>]
+Dear friends! Today is Wikipedias 15th birthday. I want to let you know that the number of '''[[d:Wikidata:Database reports/WMF projects]]''' <sup>there is also the  page '''[[d:Wikidata:Database reports/Wikipedia versions|Wikipedia versions]]'''</sup> has increased to more then 409. The list contains pages from Wikibook project pages to Wikiversity and Wiktionary project pages. You may be interested in adding Wikidata labels and descriptions in your language. '''Only a few, maybe five.''' Please follow also the discussion at '''[[d:property talk:P218]]''' and comment there.<br />
+Maybe you can translate this and use it somewhere:
+If this is your first edit at wikidata: First go to [https://www.wikidata.org/wiki/Wikidata:Database_reports/Wikipedia_versions?setlang=av Wikipedia_versions?setlang=av]. This will select the interface language for you. Then open the label links you want to translate in a new browser tab for each link. You should see an edit button and you should be able to insert the label in the corresponding field using a click/doubleklick. Same for the description and alias. Save your changes and go to another label link from the main list. Good luck!<br />
+Best regards [[user:Gangleri|Gangleri]] also aka [[Участник:I18n|I18n]] ([[Обсуждение участника:I18n|обсуждение]]) 10:32, 15 Январ 2016 (UTC)
+</div>
