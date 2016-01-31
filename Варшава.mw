@@ -1,1 +1,99 @@
-Полшаялъул тахшагьар.
+{{ГІБ+
+|пачалихъ                = Польша
+|статус                  = 
+|магІарул мацІалъ цІар   = {{PAGENAME}}
+|эбелаб мацІалъ цІар     = Warszawa
+|герб                    = POL Warszawa COA.svg
+|байрахъ                 = Flag of Warsaw.svg
+|гербалъул гІеблъи       = 128
+|байрахъалъул гІеблъи    = 128
+|сурат                   = 
+|размер                  = <!--300px-->
+|хъвай-хъвагІай          = 
+  |lat_dir = N|lat_deg = 52|lat_min = 14|lat_sec = 
+  |lon_dir = E|lon_deg = 21|lon_min = 01|lon_sec = 
+  |CoordAddon            = 
+  |CoordScale            = 
+|Яндекскарта             = 
+|ХІукумат                = Польша
+|карта                   = {{PAGENAME}}
+|пачалихъалъул картаялъул размер = 300
+|икълималъул картаялъул размер   = 300
+|мухъалъул картаялъул размер     = 300
+|икълим                   = 
+|икълим таблицаялда       = 
+|икълималъул тайпа        = 
+|мухъ таблицаялда         = 
+|хІукуматалъул карта      = Польша
+|икълималъул карта        = 
+|мухъалъул карта          = 
+|жанисеб бикьи            = 
+|бетІерасул тайпа         = мэр
+|бетІер                   = Hanna Gronkiewicz-Waltz 
+|кьучІ лъураб къо         =
+|цебе букІараб цІар       =
+|площад                   = 517,24
+|гьава-бакъ               = 
+|майданалъул борхалъи     = 
+|расмияб мацІ             = 
+|халкъалъул къадар        = 1 735 442 
+|хъвай-хъвагІай гьабураб сон   = 2014
+|гъунки                   = 3355
+|агломерация              = 
+|миллатал                 = 
+|динал                    = 
+|этнохороним              = 
+|сагІтил рачел            = 
+|DST                      = 
+|телефоналъул код         = 22
+|почалъул индексал        = 00-xxx,..., 04-xxx
+|автомашинаялъул код      = WA,..., WY
+|идентификаторалъул тайпа = Официалияб код TERYT
+|цифровой идентификатор   = 1465011
+|категория Commons алда   = Warszawa
+|сайт                     = http://www.um.warszawa.pl
+|сайталъул мацІ           = 
+}}
+
+[[Файл:Warsaw montage.JPG|thumb|right|330px|Варшава]]
+[[Польша|Полшаялъул]] тахшагьар. [[2014]] соналъ гьабураб хъвай-хъвагӀаязда рекъон росулъ гӀумру гьабула 1 735 000 чияс.
+== Халкъалъул къадар ==
+[[Файл:Piramida wieku Warszawa.png|400x480px]]
+<timeline>
+ImageSize = width:420 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:2000000
+ScaleMajor = unit:year increment:500000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1500 from:0 till:6500  
+  bar:1624 from:0 till:48000 
+  bar:1800 from:0 till:63400  
+  bar:1939 from:0 till:1289000 
+  bar:1945 from:0 till:422000 
+  bar:1960 from:0 till:1139189
+  bar:2000 from:0 till:1610471 
+  bar:2014 from:0 till:1732707 
+PlotData=
+  textcolor:black fontsize:S
+  bar:1500 at: 6500 text: 6500 shift:(0)
+  bar:1624 at: 48000 text: 48000 shift:(0)
+  bar:1800 at: 63400 text: 63400 shift:(0)
+  bar:1939 at: 1289000 text: 1289000  shift:(0)
+  bar:1945 at: 422000 text: 422000 shift:(0)
+  bar:1960 at: 1139189 text: 1139189 shift:(0)
+  bar:2000 at: 1610471 text: 1610471 shift:(0)
+  bar:2014 at: 1732707 text: 1732707 shift:(0)
+  </timeline>
+== Internet ==
+* [http://www.um.warszawa.pl ''www.um.warszawa.pl/'']
+[[Категория:Польша]]
