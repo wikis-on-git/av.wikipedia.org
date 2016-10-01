@@ -3,51 +3,82 @@
 Лезги алфавит:
 {| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
 | style="width:3em; text-align:center; padding: 3px;" | А а
+| style="width:3em; text-align:center; padding: 3px;" | Аь аь
+| style="width:3em; text-align:center; padding: 3px;" | Ао ао
 | style="width:3em; text-align:center; padding: 3px;" | Б б
 | style="width:3em; text-align:center; padding: 3px;" | В в
 | style="width:3em; text-align:center; padding: 3px;" | Г г
+| style="width:3em; text-align:center; padding: 3px;" | ГI гI
 | style="width:3em; text-align:center; padding: 3px;" | Гъ гъ
 | style="width:3em; text-align:center; padding: 3px;" | Гь гь
+|-
 | style="width:3em; text-align:center; padding: 3px;" | Д д
 | style="width:3em; text-align:center; padding: 3px;" | Е е
-|-
-| style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | Ё ё
+| style="width:3em; text-align:center; padding: 3px;" | Ё ё
 | style="width:3em; text-align:center; padding: 3px;" | Ж ж
+| style="width:3em; text-align:center; padding: 3px;" | ЖI жI
 | style="width:3em; text-align:center; padding: 3px;" | З з
+| style="width:3em; text-align:center; padding: 3px;" | ЗI зI
 | style="width:3em; text-align:center; padding: 3px;" | И и
+
 | style="width:3em; text-align:center; padding: 3px;" | Й й
 | style="width:3em; text-align:center; padding: 3px;" | К к
+| style="width:3em; text-align:center; padding: 3px;" | Кв кв
+| style="width:3em; text-align:center; padding: 3px;" | Кк кк
+| style="width:3em; text-align:center; padding: 3px;" | Ккв ккв
 | style="width:3em; text-align:center; padding: 3px;" | Къ къ
+| style="width:3em; text-align:center; padding: 3px;" | Къв къв
 | style="width:3em; text-align:center; padding: 3px;" | Кь кь
+| style="width:3em; text-align:center; padding: 3px;" | Кьв кьв
 |-
 | style="width:3em; text-align:center; padding: 3px;" | КӀ кӀ
+| style="width:3em; text-align:center; padding: 3px;" | КӀв кӀв
 | style="width:3em; text-align:center; padding: 3px;" | Л л
 | style="width:3em; text-align:center; padding: 3px;" | М м
 | style="width:3em; text-align:center; padding: 3px;" | Н н
-| style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | О о
+| style="width:3em; text-align:center; padding: 3px;" | О о
+| style="width:3em; text-align:center; padding: 3px;" | Оь оь
 | style="width:3em; text-align:center; padding: 3px;" | П п
+| style="width:3em; text-align:center; padding: 3px;" | Пп пп
 | style="width:3em; text-align:center; padding: 3px;" | ПӀ пӀ
 | style="width:3em; text-align:center; padding: 3px;" | Р р
 |-
 | style="width:3em; text-align:center; padding: 3px;" | С с
 | style="width:3em; text-align:center; padding: 3px;" | Т т
+| style="width:3em; text-align:center; padding: 3px;" | Тв тв
+| style="width:3em; text-align:center; padding: 3px;" | Тт тт
+| style="width:3em; text-align:center; padding: 3px;" | Ттв ттв
 | style="width:3em; text-align:center; padding: 3px;" | ТӀ тӀ
+| style="width:3em; text-align:center; padding: 3px;" | ТӀв тӀв
 | style="width:3em; text-align:center; padding: 3px;" | У у
 | style="width:3em; text-align:center; padding: 3px;" | Уь уь
 | style="width:3em; text-align:center; padding: 3px;" | Ф ф
 | style="width:3em; text-align:center; padding: 3px;" | Х х
+| style="width:3em; text-align:center; padding: 3px;" | Хв хв
 | style="width:3em; text-align:center; padding: 3px;" | Хъ хъ
+| style="width:3em; text-align:center; padding: 3px;" | Хъв хъв
+| style="width:3em; text-align:center; padding: 3px;" | ХI хI
 |-
 | style="width:3em; text-align:center; padding: 3px;" | Хь хь
+| style="width:3em; text-align:center; padding: 3px;" | Хьв хьв
+
 | style="width:3em; text-align:center; padding: 3px;" | Ц ц
+| style="width:3em; text-align:center; padding: 3px;" | Цв цв
+| style="width:3em; text-align:center; padding: 3px;" | Цц цц
+| style="width:3em; text-align:center; padding: 3px;" | Ццв ццв
 | style="width:3em; text-align:center; padding: 3px;" | ЦӀ цӀ
+| style="width:3em; text-align:center; padding: 3px;" | ЦӀв цӀв
 | style="width:3em; text-align:center; padding: 3px;" | Ч ч
+| style="width:3em; text-align:center; padding: 3px;" | Чв чв
+| style="width:3em; text-align:center; padding: 3px;" | Чч чч
+| style="width:3em; text-align:center; padding: 3px;" | Ччв ччв
 | style="width:3em; text-align:center; padding: 3px;" | ЧӀ чӀ
+| style="width:3em; text-align:center; padding: 3px;" | ЧӀв чӀв
 | style="width:3em; text-align:center; padding: 3px;" | Ш ш
 | style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | Щ щ
 | style="width:3em; text-align:center; padding: 3px;" | Ъ ъ
 |-
-| style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | Ы ы
+| style="width:3em; text-align:center; padding: 3px;"  | Ы ы
 | style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | Ь ь
 | style="width:3em; text-align:center; padding: 3px;" | Э э
 | style="width:3em; text-align:center; padding: 3px;" | Ю ю
