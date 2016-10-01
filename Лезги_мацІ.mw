@@ -20,8 +20,8 @@
 | style="width:3em; text-align:center; padding: 3px;" | З з
 | style="width:3em; text-align:center; padding: 3px;" | ЗI зI
 | style="width:3em; text-align:center; padding: 3px;" | И и
-
 | style="width:3em; text-align:center; padding: 3px;" | Й й
+|-
 | style="width:3em; text-align:center; padding: 3px;" | К к
 | style="width:3em; text-align:center; padding: 3px;" | Кв кв
 | style="width:3em; text-align:center; padding: 3px;" | Кк кк
@@ -30,8 +30,8 @@
 | style="width:3em; text-align:center; padding: 3px;" | Къв къв
 | style="width:3em; text-align:center; padding: 3px;" | Кь кь
 | style="width:3em; text-align:center; padding: 3px;" | Кьв кьв
-|-
 | style="width:3em; text-align:center; padding: 3px;" | КӀ кӀ
+|-
 | style="width:3em; text-align:center; padding: 3px;" | КӀв кӀв
 | style="width:3em; text-align:center; padding: 3px;" | Л л
 | style="width:3em; text-align:center; padding: 3px;" | М м
@@ -41,8 +41,8 @@
 | style="width:3em; text-align:center; padding: 3px;" | П п
 | style="width:3em; text-align:center; padding: 3px;" | Пп пп
 | style="width:3em; text-align:center; padding: 3px;" | ПӀ пӀ
-| style="width:3em; text-align:center; padding: 3px;" | Р р
 |-
+| style="width:3em; text-align:center; padding: 3px;" | Р р
 | style="width:3em; text-align:center; padding: 3px;" | С с
 | style="width:3em; text-align:center; padding: 3px;" | Т т
 | style="width:3em; text-align:center; padding: 3px;" | Тв тв
@@ -51,6 +51,7 @@
 | style="width:3em; text-align:center; padding: 3px;" | ТӀ тӀ
 | style="width:3em; text-align:center; padding: 3px;" | ТӀв тӀв
 | style="width:3em; text-align:center; padding: 3px;" | У у
+|-
 | style="width:3em; text-align:center; padding: 3px;" | Уь уь
 | style="width:3em; text-align:center; padding: 3px;" | Ф ф
 | style="width:3em; text-align:center; padding: 3px;" | Х х
@@ -58,10 +59,9 @@
 | style="width:3em; text-align:center; padding: 3px;" | Хъ хъ
 | style="width:3em; text-align:center; padding: 3px;" | Хъв хъв
 | style="width:3em; text-align:center; padding: 3px;" | ХI хI
-|-
 | style="width:3em; text-align:center; padding: 3px;" | Хь хь
 | style="width:3em; text-align:center; padding: 3px;" | Хьв хьв
-
+|-
 | style="width:3em; text-align:center; padding: 3px;" | Ц ц
 | style="width:3em; text-align:center; padding: 3px;" | Цв цв
 | style="width:3em; text-align:center; padding: 3px;" | Цц цц
@@ -71,16 +71,17 @@
 | style="width:3em; text-align:center; padding: 3px;" | Ч ч
 | style="width:3em; text-align:center; padding: 3px;" | Чв чв
 | style="width:3em; text-align:center; padding: 3px;" | Чч чч
+|-
 | style="width:3em; text-align:center; padding: 3px;" | Ччв ччв
 | style="width:3em; text-align:center; padding: 3px;" | ЧӀ чӀ
 | style="width:3em; text-align:center; padding: 3px;" | ЧӀв чӀв
 | style="width:3em; text-align:center; padding: 3px;" | Ш ш
 | style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | Щ щ
 | style="width:3em; text-align:center; padding: 3px;" | Ъ ъ
-|-
 | style="width:3em; text-align:center; padding: 3px;"  | Ы ы
 | style="width:3em; text-align:center; padding: 3px;background:#FFCC00" | Ь ь
 | style="width:3em; text-align:center; padding: 3px;" | Э э
+|-
 | style="width:3em; text-align:center; padding: 3px;" | Ю ю
 | style="width:3em; text-align:center; padding: 3px;" | Я я
 | style="width:3em; text-align:center; padding: 3px;" |
