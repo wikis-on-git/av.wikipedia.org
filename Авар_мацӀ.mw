@@ -2173,7 +2173,7 @@
 |''—''
 |}
 Суалиял цІарубакІал
-{| class="wikitable"
+{| class="wikitable mw-collapsible mw-collapsed"
 ! colspan="2" rowspan="2" |Падеж
 ! colspan="3" |Цолъул форма
 ! rowspan="2" |ГІемерлъул форма
@@ -2215,12 +2215,12 @@
 | style="text-align:center;" |''лъихъ''
 |-
 !<small>жиндилъ падеж</small>
-| colspan="2" style="text-align:center;" |''сундулъ''
+| colspan="2" style="text-align:center;" |''лъилъ''
 | style="text-align:center;" |''сундулъ''
 | style="text-align:center;" |''сундулъ''
 |-
 !<small>жиндикь падеж</small>
-| colspan="2" style="text-align:center;" |''сундукь''
+| colspan="2" style="text-align:center;" |''лъикь''
 | style="text-align:center;" |''сундукь''
 | style="text-align:center;" |''сундукь''
 |-
@@ -2281,7 +2281,359 @@
 | style="text-align:center;" |''—''
 | style="text-align:center;" |''—''
 |}
-==== Глагол ====
+Баяналъул цІарубакІал
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="2" |Падеж
+! colspan="6" |Цолъул форма
+! colspan="2" |ГІемерлъул форма
+|-
+! colspan="2" |Аслияб
+|щибав
+| style="text-align:center;" |щибай
+| style="text-align:center;" |щибаб
+| style="text-align:center;" |кинавго
+|кинайго
+|кинабго
+| style="text-align:center;" |щибал
+|киналго
+|-
+! colspan="2" |Актив
+|щибас
+| colspan="2" style="text-align:center;" |щибалъ
+| style="text-align:center;" |кинасго
+| colspan="2" |киналъго
+| style="text-align:center;" |щибаз
+|киназго
+|-
+! colspan="2" |Хаслъул
+|щибасул
+| colspan="2" style="text-align:center;" |щибалъул
+| style="text-align:center;" |кинасулго
+| colspan="2" |киналъулго
+| style="text-align:center;" |щибазул
+|киназулго
+|-
+! colspan="2" |Кьовул
+|щибасе
+| colspan="2" style="text-align:center;" |щибалъе
+| style="text-align:center;" |кинасего
+| colspan="2" |киналъего
+| style="text-align:center;" |щибазе
+|киназего
+|-
+! rowspan="5" |ЧІовул
+!<small>жинда падеж</small>
+|щибасда
+| colspan="2" style="text-align:center;" |щибалда
+| style="text-align:center;" |кинасдаго
+| colspan="2" |киналдаго
+| style="text-align:center;" |щибазда
+|киназдаго
+|-
+!<small>жиндихъ падеж</small>
+|щибасухъ
+| colspan="2" style="text-align:center;" |щибалъухъ
+| style="text-align:center;" |кинасухъго
+| colspan="2" |киналъухъго
+| style="text-align:center;" |щибазухъ
+|киназухъго
+|-
+!<small>жиндилъ падеж</small>
+|щибасулъ
+| colspan="2" style="text-align:center;" |щибалъулъ
+| style="text-align:center;" |кинасулъго
+| colspan="2" |киналъулъго
+| style="text-align:center;" |щибазулъ
+|киназулъго
+|-
+!<small>жиндикь падеж</small>
+|щибасукь
+| colspan="2" style="text-align:center;" |щибалъукь
+| style="text-align:center;" |кинасукьго
+| colspan="2" |киналъукьго
+| style="text-align:center;" |щибазукь
+|киназукьго
+|-
+!<small>жаниб падеж</small>
+|
+| colspan="2" style="text-align:center;" |
+| style="text-align:center;" |''—''
+| colspan="2" |
+| style="text-align:center;" |
+|''—''
+|-
+! rowspan="5" |РачІул
+!<small>жинде падеж</small>
+|щибасде
+| colspan="2" style="text-align:center;" |щибалде
+| style="text-align:center;" |кинасдего
+| colspan="2" |киналдего
+| style="text-align:center;" |щибазде
+|киназдего
+|-
+!<small>жиндихъе падеж</small>
+|щибасухъе
+| colspan="2" style="text-align:center;" |щибалъухъе
+| style="text-align:center;" |кинасухъего
+| colspan="2" |киналъухъего
+| style="text-align:center;" |щибазухъе
+|киназухъего
+|-
+!<small>жиндилъе падеж</small>
+|щибасулъе
+| colspan="2" style="text-align:center;" |щибалъулъе
+| style="text-align:center;" |кинасулъего
+| colspan="2" |киналъулъего
+| style="text-align:center;" |щибазулъе
+|киназулъего
+|-
+!<small>жиндикье падеж</small>
+|щибасукье
+| colspan="2" style="text-align:center;" |щибалъукье
+| style="text-align:center;" |кинасукьего
+| colspan="2" |киналъукьего
+| style="text-align:center;" |щибазукье
+|киназукьего
+|-
+!<small>жанибе падеж</small>
+|
+| colspan="2" style="text-align:center;" |
+| style="text-align:center;" |''—''
+| colspan="2" |''—''
+| style="text-align:center;" |
+|''—''
+|-
+! rowspan="5" |РатІлъул
+!<small>жиндаса(н) падеж</small>
+|щибасдаса(н)
+| colspan="2" style="text-align:center;" |щибалдаса(н)
+| style="text-align:center;" |кинасдаса(н)го
+| colspan="2" |киналдаса(н)го
+| style="text-align:center;" |щибаздаса(н)
+|киназдаса(н)го
+|-
+!<small>жиндихъа(н) падеж</small>
+|щибасухъа(н)
+| colspan="2" style="text-align:center;" |щибалъухъа(н)
+| style="text-align:center;" |кинасухъа(н)го
+| colspan="2" |киналъухъа(н)го
+| style="text-align:center;" |щибазухъа(н)
+|киназухъа(н)го
+|-
+!<small>жиндилъа(н) падеж</small>
+|щибасулъа(н)
+| colspan="2" style="text-align:center;" |щибалъулъа(н)
+| style="text-align:center;" |кинасулъа(н)го
+| colspan="2" |киналъулъа(н)го
+| style="text-align:center;" |щибазулъа(н)
+|киназулъа(н)го
+|-
+!<small>жиндикьа(н) падеж</small>
+|щибасукьа(н)
+| colspan="2" style="text-align:center;" |щибалъукьа(н)
+| style="text-align:center;" |кинасукьа(н)го
+| colspan="2" |киналъукьа(н)го
+| style="text-align:center;" |щибазукьа(н)
+|киназукьа(н)го
+|-
+!<small>жаниса(н) падеж</small>
+|
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+| colspan="2" |
+| style="text-align:center;" |
+|''—''
+|}
+Баянлъи гьечІел цІарубакІал
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="2" rowspan="2" |Падеж
+! colspan="3" |Цолъул форма
+! rowspan="2" |ГІемерлъул форма
+|-
+!ч. ж.
+!чІ. ж.
+!гь. ж.
+|-
+! colspan="2" |Аслияб
+| style="text-align:center;" |щивалиго
+| style="text-align:center;" |щиялиго
+| style="text-align:center;" |''щибалиго''
+| rowspan="19" style="text-align:center;" |<small>Баянлъи гьечІел цІарубакІал</small>
+<small>гІемерлъул формаялде падежазде цолъул</small>
+
+<small>формаялда релъун сверула.</small>
+|-
+! colspan="2" |Актив
+| colspan="2" style="text-align:center;" |''лъицаялиго''
+| style="text-align:center;" |''сунцаялиго''
+|-
+! colspan="2" |Хаслъул
+| colspan="2" style="text-align:center;" |''лъилалиго''
+| style="text-align:center;" |''сундулалиго''
+|-
+! colspan="2" |Кьовул
+| colspan="2" style="text-align:center;" |''лъиеялиго''
+| style="text-align:center;" |''сундуеялиго''
+|-
+! rowspan="5" |ЧІовул
+!<small>жинда падеж</small>
+| colspan="2" style="text-align:center;" |''лъидаялиго''
+| style="text-align:center;" |''сундаялиго''
+|-
+!<small>жиндихъ падеж</small>
+| colspan="2" style="text-align:center;" |''лъихъалиго''
+| style="text-align:center;" |''сундухъалиго''
+|-
+!<small>жиндилъ падеж</small>
+| colspan="2" style="text-align:center;" |''лъилъалиго''
+| style="text-align:center;" |''сундулъалиго''
+|-
+!<small>жиндикь падеж</small>
+| colspan="2" style="text-align:center;" |''лъикьалиго''
+| style="text-align:center;" |''сундукьалиго''
+|-
+!<small>жаниб падеж</small>
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+|-
+! rowspan="5" |РачІул
+!<small>жинде падеж</small>
+| colspan="2" style="text-align:center;" |''лъидеялиго''
+| style="text-align:center;" |''сундеялиго''
+|-
+!<small>жиндихъе падеж</small>
+| colspan="2" style="text-align:center;" |''лъихъеялиго''
+| style="text-align:center;" |''сундухъеялиго''
+|-
+!<small>жиндилъе падеж</small>
+| colspan="2" style="text-align:center;" |''лъилъеялиго''
+| style="text-align:center;" |''сундулъеялиго''
+|-
+!<small>жиндикье падеж</small>
+| colspan="2" style="text-align:center;" |''лъикьеялиго''
+| style="text-align:center;" |''сундукьеялиго''
+|-
+!<small>жанибе падеж</small>
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+|-
+! rowspan="5" |РатІлъул
+!<small>жиндаса(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъидасаялиго (лъидасаналиго)''
+| style="text-align:center;" |''сундасаялиго (сундасаналиго)''
+|-
+!<small>жиндихъа(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъихъаялиго (лъихъаналиго)''
+| style="text-align:center;" |''сундухъаялиго (сундухъаналиго)''
+|-
+!<small>жиндилъа(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъилъаялиго (лъилъаналиго)''
+| style="text-align:center;" |''сундулъаялиго (сундулъаналиго)''
+|-
+!<small>жиндикьа(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъикьаялиго (лъикьаналиго)''
+| style="text-align:center;" |''сундукьаялиго (сундукьаналиго)''
+|-
+!<small>жаниса(н) падеж</small>
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+|}
+Абсолютиял цІарубакІал
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="2" rowspan="2" |Падеж
+! colspan="3" |Цолъул форма
+! rowspan="2" |ГІемерлъул форма
+|-
+!ч. ж.
+!чІ. ж.
+!гь. ж.
+|-
+! colspan="2" |Аслияб
+| style="text-align:center;" |''щивниги''
+| style="text-align:center;" |''щийниги''
+| style="text-align:center;" |''щивниги''
+| rowspan="19" style="text-align:center;" |<small>Абсолютиял цІарубакІал</small>
+<small>гІемерлъул формаялде падежазде цолъул</small>
+
+<small>формаялда релъун сверула.</small>
+|-
+! colspan="2" |Актив
+| colspan="2" style="text-align:center;" |''лъицаниги''
+| style="text-align:center;" |''сунцаниги''
+|-
+! colspan="2" |Хаслъул
+| colspan="2" style="text-align:center;" |''лъилниги''
+| style="text-align:center;" |''сундулниги''
+|-
+! colspan="2" |Кьовул
+| colspan="2" style="text-align:center;" |''лъиениги''
+| style="text-align:center;" |''сундуениги''
+|-
+! rowspan="5" |ЧІовул
+!<small>жинда падеж</small>
+| colspan="2" style="text-align:center;" |''лъиданиги''
+| style="text-align:center;" |''сунданиги''
+|-
+!<small>жиндихъ падеж</small>
+| colspan="2" style="text-align:center;" |''лъихъниги''
+| style="text-align:center;" |''сундухъниги''
+|-
+!<small>жиндилъ падеж</small>
+| colspan="2" style="text-align:center;" |''лъилъниги''
+| style="text-align:center;" |''сундулъниги''
+|-
+!<small>жиндикь падеж</small>
+| colspan="2" style="text-align:center;" |''лъикьниги''
+| style="text-align:center;" |''сундукьниги''
+|-
+!<small>жаниб падеж</small>
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+|-
+! rowspan="5" |РачІул
+!<small>жинде падеж</small>
+| colspan="2" style="text-align:center;" |''лъидениги''
+| style="text-align:center;" |''сундениги''
+|-
+!<small>жиндихъе падеж</small>
+| colspan="2" style="text-align:center;" |''лъихъениги''
+| style="text-align:center;" |''сундухъениги''
+|-
+!<small>жиндилъе падеж</small>
+| colspan="2" style="text-align:center;" |''лъилъениги''
+| style="text-align:center;" |''сундулъениги''
+|-
+!<small>жиндикье падеж</small>
+| colspan="2" style="text-align:center;" |''лъикьениги''
+| style="text-align:center;" |''сундукьениги''
+|-
+!<small>жанибе падеж</small>
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+|-
+! rowspan="5" |РатІлъул
+!<small>жиндаса(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъидасаги (лъидасаниги)''
+| style="text-align:center;" |''сундасаги (сундасаниги)''
+|-
+!<small>жиндихъа(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъихъаги (лъихъаниги)''
+| style="text-align:center;" |''сундухъаги (сундухъаниги)''
+|-
+!<small>жиндилъа(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъилъаги (лъилъаниги)''
+| style="text-align:center;" |''сундулъаги (сундулъаниги)''
+|-
+!<small>жиндикьа(н) падеж</small>
+| colspan="2" style="text-align:center;" |''лъикьаги (лъикьаниги)''
+| style="text-align:center;" |''сундукьаги (сундукьаниги)''
+|-
+!<small>жаниса(н) падеж</small>
+| colspan="2" style="text-align:center;" |''—''
+| style="text-align:center;" |''—''
+|}
+
+==== Гагол ====
 ==== Наречие ====
 Наречиялъ авар мацІалда глаголалъ бихьизабулеб иш лъугьараб куц, заман, бакІ ва гьеб лъугьиналъе гІилла-мурад баян гьабула. Жумлаялда жаниб наречие букІуна хІаллъун, ва гьеб примыкание бухьеналдалъун сказуемоялда бухьцн букІуна: ''жакъа дун цудунго вахъана'' - гьаниб '''''цудунго''''' абураб наречиялъ бихьизабун буго иш лъугьараб заман ва '''''вахъана''''' абураб сказуемоегун бухьараб буго. Наречие жаваблъун бачІуна кин? кибе? киб? кисан? щай? щиб гІиллаялъе гІоло? щиб мурадалда? ва гь. ц. Авар мацІалда наречие бикьула кІиго тІелалде: асляздеги лъугьараздеги. 
 
