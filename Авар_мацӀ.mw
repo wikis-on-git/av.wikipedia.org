@@ -1344,25 +1344,25 @@
 !Гьоркьохъеб
 |-
 |Аслияб
-|цо-яв
-|цо-яй
-|цо-яб
-|цо-ял
+|style="text-align:center;" |цо-яв
+|style="text-align:center;" |цо-яй
+|style="text-align:center;" |цо-яб
+|style="text-align:center;" |цо-ял
 |-
 |Актив
-|цо-яс
-| colspan="2" |цо-ялъ
-|цо-яз
+|style="text-align:center;" |цо-яс
+| colspan="2" style="text-align:center;" | цо-ялъ
+|style="text-align:center;" |цо-яз
 |-
 |Хаслъул
-|цо-ясул
-| colspan="2" |цо-ялъул
-|цо-язул
+|style="text-align:center;" |цо-ясул
+| colspan="2" style="text-align:center;" | цо-ялъул
+|style="text-align:center;" |цо-язул
 |-
 |Кьовул
-|цо-ясе
-| colspan="2" |цо-ялъе
-|цо-язе
+|style="text-align:center;" |цо-ясе
+| colspan="2" style="text-align:center;" | цо-ялъе
+|style="text-align:center;" |цо-язе
 |}
 {| class="wikitable"
 |+
@@ -1375,25 +1375,25 @@
 !гь
 |-
 |Аслияб
-|лъабго-яв
-|лъабго-яй
-|лъабго-яб
-|лъабго-ял
+|style="text-align:center;" |лъабго-яв
+|style="text-align:center;" |лъабго-яй
+|style="text-align:center;" |лъабго-яб
+|style="text-align:center;" |лъабго-ял
 |-
 |Актив
-|лъабго-яс
-| colspan="2" |лъабго-ялъ
-|лъабго-яз
+|style="text-align:center;" |лъабго-яс
+| colspan="2" style="text-align:center;" | лъабго-ялъ
+|style="text-align:center;" |лъабго-яз
 |-
 |Хаслъул
-|лъабго-ясул
-| colspan="2" |лъабго-ялъул
-|лъабго-язул
+|style="text-align:center;" |лъабго-ясул
+| colspan="2" style="text-align:center;" | лъабго-ялъул
+|style="text-align:center;" |лъабго-язул
 |-
 |Кьовул
-|лъабго-ясе
-| colspan="2" |лъабго-ялъе
-|лъабго-язе
+|style="text-align:center;" |лъабго-ясе
+| colspan="2" style="text-align:center;" | лъабго-ялъе
+|style="text-align:center;" |лъабго-язе
 |}
 {| class="wikitable"
 ! colspan="2" rowspan="2" |Падеж
@@ -1515,17 +1515,17 @@
 |-
 |Актив
 |лъабасго
-| colspan="2" |лъабалъго
+| colspan="2" style="text-align:center;" | лъабалъго
 |лъабазго
 |-
 |Хаслъул
 |лъабасулго
-| colspan="2" |лъабалъулго
+| colspan="2" style="text-align:center;" | |лъабалъулго
 |лъабазулго
 |-
 |Кьовул
 |лъабасего
-| colspan="2" |лъабалъего
+| colspan="2" style="text-align:center;" | лъабалъего
 |лъабазего
 |}
 Иргадулаб рикІкІен падежазде сверула прилагательноял гІадин предметияб цІаргун гьечІеб мехалъ:
@@ -1546,17 +1546,17 @@
 |-
 |Актив
 |лъабабилес
-| colspan="2" |лъабабилелъ
+| colspan="2" style="text-align:center;" | лъабабилелъ
 |лъабабилез
 |-
 |Хаслъул
 |лъабабилесул
-| colspan="2" |лъабабилелъул
+| colspan="2" style="text-align:center;" | лъабабилелъул
 |лъабабилезул
 |-
 |Кьовул
 |лъабабилесе
-| colspan="2" |лъабабилелъе
+| colspan="2" style="text-align:center;" | |лъабабилелъе
 |лъабабилезе
 |}
 {| class="wikitable"
@@ -1661,6 +1661,7 @@
 |
 |
 |}
+
 ===== Глагол =====
 ===== Наречие =====
 
