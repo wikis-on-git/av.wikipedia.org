@@ -2355,11 +2355,11 @@
 |киназукьго
 |-
 !<small>жаниб падеж</small>
-|
-| colspan="2" style="text-align:center;" |
+|—
+| colspan="2" style="text-align:center;" |—
 | style="text-align:center;" |''—''
-| colspan="2" |
-| style="text-align:center;" |
+| colspan="2" |—
+| style="text-align:center;" |—
 |''—''
 |-
 ! rowspan="5" |РачІул
@@ -2396,11 +2396,11 @@
 |киназукьего
 |-
 !<small>жанибе падеж</small>
-|
-| colspan="2" style="text-align:center;" |
+|—
+| colspan="2" style="text-align:center;" |—
 | style="text-align:center;" |''—''
 | colspan="2" |''—''
-| style="text-align:center;" |
+| style="text-align:center;" |—
 |''—''
 |-
 ! rowspan="5" |РатІлъул
@@ -2437,11 +2437,11 @@
 |киназукьа(н)го
 |-
 !<small>жаниса(н) падеж</small>
-|
+|—
 | colspan="2" style="text-align:center;" |''—''
 | style="text-align:center;" |''—''
-| colspan="2" |
-| style="text-align:center;" |
+| colspan="2" |—
+| style="text-align:center;" |—
 |''—''
 |}
 Баянлъи гьечІел цІарубакІал
@@ -2632,7 +2632,92 @@
 | colspan="2" style="text-align:center;" |''—''
 | style="text-align:center;" |''—''
 |}
-
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="2" |Падеж
+! colspan="3" |Цолъул форма
+!ГІемерлъул форма
+|-
+! colspan="2" |Аслияб
+|жив
+| style="text-align:center;" |жий
+| style="text-align:center;" |жиб
+| style="text-align:center;" |жал
+|-
+! colspan="2" |Актив
+| colspan="3" |жи-нди-ца
+| style="text-align:center;" |жи-де-ца
+|-
+! colspan="2" |Хаслъул
+| colspan="3" |жи-нди-р
+| style="text-align:center;" |жи-де-р
+|-
+! colspan="2" |Кьовул
+| colspan="3" |жи-нди-е
+| style="text-align:center;" |жи-де-е
+|-
+! rowspan="5" |ЧІовул
+!<small>жинда падеж</small>
+| colspan="3" |жинда
+| style="text-align:center;" |жидеда
+|-
+!<small>жиндихъ падеж</small>
+| colspan="3" |жиндихъ
+| style="text-align:center;" |жидехъ
+|-
+!<small>жиндилъ падеж</small>
+| colspan="3" |жиндилъ
+| style="text-align:center;" |жиделъ
+|-
+!<small>жиндикь падеж</small>
+| colspan="3" |жиндикь
+| style="text-align:center;" |жидекь
+|-
+!<small>жаниб падеж</small>
+| colspan="3" |—
+| style="text-align:center;" |—
+|-
+! rowspan="5" |РачІул
+!<small>жинде падеж</small>
+| colspan="3" |жинде
+| style="text-align:center;" |жидеде
+|-
+!<small>жиндихъе падеж</small>
+| colspan="3" |жиндихъе
+| style="text-align:center;" |жидехъе
+|-
+!<small>жиндилъе падеж</small>
+| colspan="3" |жиндилъе
+| style="text-align:center;" |жиделъе
+|-
+!<small>жиндикье падеж</small>
+| colspan="3" |жиндикье
+| style="text-align:center;" |жидекье
+|-
+!<small>жанибе падеж</small>
+| colspan="3" |—
+| style="text-align:center;" |—
+|-
+! rowspan="5" |РатІлъул
+!<small>жиндаса(н) падеж</small>
+| colspan="3" |жиндаса(н)
+| style="text-align:center;" |жидедаса(н)
+|-
+!<small>жиндихъа(н) падеж</small>
+| colspan="3" |жиндихъа(н)
+| style="text-align:center;" |жидехъа(н)
+|-
+!<small>жиндилъа(н) падеж</small>
+| colspan="3" |жиндилъа(н)
+| style="text-align:center;" |жиделъа(н)
+|-
+!<small>жиндикьа(н) падеж</small>
+| colspan="3" |жиндикьа(н)
+| style="text-align:center;" |жидекьа(н)
+|-
+!<small>жаниса(н) падеж</small>
+| colspan="3" |—
+| style="text-align:center;" |—
+|}
 ==== Гагол ====
 ==== Наречие ====
 Наречиялъ авар мацІалда глаголалъ бихьизабулеб иш лъугьараб куц, заман, бакІ ва гьеб лъугьиналъе гІилла-мурад баян гьабула. Жумлаялда жаниб наречие букІуна хІаллъун, ва гьеб примыкание бухьеналдалъун сказуемоялда бухьцн букІуна: ''жакъа дун цудунго вахъана'' - гьаниб '''''цудунго''''' абураб наречиялъ бихьизабун буго иш лъугьараб заман ва '''''вахъана''''' абураб сказуемоегун бухьараб буго. Наречие жаваблъун бачІуна кин? кибе? киб? кисан? щай? щиб гІиллаялъе гІоло? щиб мурадалда? ва гь. ц. Авар мацІалда наречие бикьула кІиго тІелалде: асляздеги лъугьараздеги. 
