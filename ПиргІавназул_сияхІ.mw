@@ -317,62 +317,62 @@
 | 
 |-
 | [[Ранеб|Хор-ранеб]]<ref>Dietrich Wildung: ''Die Rolle ägyptischer Könige im Bewußtsein ihrer Nachwelt. Teil I. Posthume Quellen über die Könige der ersten vier Dynastien.'' In: ''Münchener Ägyptologische Studien'', vol. 17. [[Deutscher Kunstverlag]], Munich/Berlin 1969, p. 31–33.</ref>
-| 
+| {{ПиргІавн/Серех|ХІорус=<hiero>N5:V30</hiero>}}<br><hiero>M23:X1-L2:X1-G16-N5:V30</hiero> 
 | <center>[[File:Nebra Hotepsekhemwy vase.png|100px]]</center>
 | <center>14 сон</center>
 |
 |-
 | [[Нинечер]]<ref>Wilkinson (1999) p. 79</ref>
-|
+| {{ПиргІавн/Серех|ХІорус=<hiero>R8-n</hiero>}}<br><hiero>V10A-W10A-E11-R8-N35-V11A</hiero>
 | <center>[[File:Nynetjer 2.jpg|100px]]</center>
 | <center>43–45 сон</center>
 |
 |-
 | [[Венег|Венег-небти]]<ref>Wilkinson (1999) pp. 87–88</ref>
-|
+| {{ПиргІавн/Номен|Номен=<hiero>hiero>M23:X1-L2:X1-G16</hiero>}}
 | <center>[[File:Weneg.png|100px]]</center>
 | <center>ГІ.-ш. 2740 н. щ.</center>
 |
 |-
 | [[Сенеди]]<ref>Pascal Vernus, Jean Yoyotte, ''The Book of the Pharaohs'', Cornell University Press 2003, p.27</ref>
-|
+| <hiero>M23:X1-L2:X1-s-n:d</hiero><br>{{ПиргІавн/Номен|Номен=<hiero>V10A-s-n:d-i-V11A</hiero>}}
 | <center>[[File:Abydos KL 02-05 n13.jpg|110px]]</center>
 | <center>47 сон</center>
 |
 |-
 | [[Сет-Перибсен]]
-|
+| {{ПиргІавн/Серех|ХІорус=<hiero>O1:F34-S29-n</hiero>||prefix=[[File:Seth-gehend.png|x48px]]}}<br>{{ПиргІавн/Номен|Номен=<hiero>M23:X1-L2:X1-G16-O1:F34-S29-n</hiero>}}
 | <center>[[File:Peribsen.jpg|100px]]</center>
 | <center>ГІ.-ш. 2890–2686 н. щ.</center>
 |
 |-
 | [[Сехемиб-Перенмаат]]
-|
+| {{ПиргІавн/Серех|ХІорус=<hiero>S29-S42-F34</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Преномен|Преномен=<hiero>M23:t-L2:t-S29-S42-F34</hiero>}}
 | <center>[[File:CalciteVesselFragmentNameOfSekhemibPerenmmat-BritishMuseum-August21-08 retouched.jpg|100px]]</center>
 | <center>ГІ. ш. 2720 н. щ.</center>
 |
 |-
 | [[Неферкара I]]
-| 
+| <hiero>V10A-N5-F35-D28-V11A</hiero>
 | <center>[[File:Abydos KL 03-05 n19.jpg|100px]]</center>
 | <center>25сон ([[Манефон]]ида рекъон)</center>
 |
 |-
 | [[Неферкасокар]]
-| 
+| <hiero>V10A-O34:k:r-F35-D28-V11A</hiero>
 | <center>[[File:Neferkasokar-inscription.png|100px]]</center>
 | <center>8 сон</center>
 |
 |-
 | [[Худжефа I]]
-|
-| <center>[[File:Hudjefasaqqara.png|110px]]</center>
+| <hiero>V10A-V28-I10:I9-G1-G41:G37-V11A-G7</hiero>
+| <center>[[File:Hudjefasaqqara.png|100px]]</center>
 | <center>11 сон ([[Туриналъул сияхІ]]алда рекъон)</center>
 |
 |-
 | [[Хасехемуи]]<ref>[http://www.digitalegypt.ucl.ac.uk/chronology/kingkhasekhem.html] King Khasekhem</ref><ref>[http://www.digitalegypt.ucl.ac.uk/chronology/kingkhasekhemwy.html] King Khasekhemwy</ref>
-|
-| <center>[[File:Khasekhem oxford2.jpg|110px]]</center>
+| {{ПиргІавн/Серех|ХІорус=<hiero>N28-sxm-sxm</hiero>||prefix=<hiero>G5</hiero>}}
+| <center>[[File:Khasekhem oxford2.jpg|100px]]</center>
 | <center>18 сон</center>
 |
 |}
