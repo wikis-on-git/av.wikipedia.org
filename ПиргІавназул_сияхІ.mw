@@ -241,43 +241,50 @@
 | РикІкІуна Нармер ва Менес цого чи вугин ва гьес кІиябго Египет цолъизабунин.
 |-
 | [[Хор-Аха|Хор-Аха Тети]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>D34</hiero>}}<br>{{ПиргІавн/Номен|Номен=<hiero>t:t-i</hiero>}}
+| {{ПиргІавн/Серех|ХІорус=<hiero>D34</hiero>}}
+{{ПиргІавн/Номен|Номен=<hiero>t:t-i</hiero>}}
 | <center>[[File:GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg|100px]]</center>
 | <center>гІ.-ш. 3050 н. щ.</center>
 |
 |-
 | [[Джер|Джер Ити]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>:M37</hiero>||prefix=<hiero>G5</hiero>}}<br><hiero>V10A-M17-X1-U33-V11A</hiero>
+| {{ПиргІавн/Серех|ХІорус=<hiero>:M37</hiero>||prefix=<hiero>G5</hiero>}}
+<hiero>V10A-M17-X1-U33-V11A</hiero>
 | <center>[[File:Djer stela retouched.jpg|100px]]</center>
 | <center>54 сон<ref>Wolfgang Helck: ''Untersuchungen zur Thinitenzeit'' (= ''Ägyptologische Abhandlungen (ÄA)'', Vol. 45). Harrassowitz, Wiesbaden 1987, {{ISBN|3-447-02677-4}}, p. 124.</ref></center>
 |Гьесул цІар ва титул буго Палермалъул ганчІида. Гьесул хоб-рукъ хадусеб заманалда рикІкІунаан биценазулъ бугеб Усирил хоб-рукълъун.
 |-
 | [[Джет|Джет Ита]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>M13-I10</hiero>||prefix=<hiero>G5</hiero>}}<br><hiero><-M17-X1-G1-></hiero>
+| {{ПиргІавн/Серех|ХІорус=<hiero>M13-I10</hiero>||prefix=<hiero>G5</hiero>}}
+<hiero><-M17-X1-G1-></hiero>
 | <center>[[File:Egypte louvre 290.jpg|100px]]</center>
 |<center>10 сон<ref name="helck">[[Wolfgang Helck]]: ''Untersuchungen zur Thinitenzeit (Agyptologische Abhandlungen)'', {{ISBN|3-447-02677-4}}, O. Harrassowitz (1987), p. 124</ref></center>
 |
 |-
 | [[Ден|Den]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>D46:n</hiero>||prefix=<hiero>G5</hiero>}}<br><hiero><-N24:N24-></hiero>
+| {{ПиргІавн/Серех|ХІорус=<hiero>D46:n</hiero>||prefix=<hiero>G5</hiero>}}
+<hiero><-N24:N24-></hiero>
 | <center>[[File:Den label.jpg|100px]]</center>
 | <center>42 сон<ref name="helck"/></center>
 | ТІоцевесев кІиябго Египеталъул таж тІад лъун жиндир сурат бихьизабурав ва тІубарат «нисут-бити» цІар бугев пиргІавн.
 |-
 | [[Аджиб]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>V27:F34</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Номен|Номен=<hiero>G5:O38-G5:O38-U6-N42:p</hiero>}}
+| {{ПиргІавн/Серех|ХІорус=<hiero>V27:F34</hiero>||prefix=<hiero>G5</hiero>}}
+{{ПиргІавн/Номен|Номен=<hiero>G5:O38-G5:O38-U6-N42:p</hiero>}}
 | <center>[[File:Anedjib Closeup.jpg|100px]]</center>
 | <center>10 сон</center>
 |
 |-
 | [[Семерхет]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>S29*U23-F32</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Преномен|Преномен=<hiero>M23:t-L2:t-G16-A21A</hiero>}}
+| {{ПиргІавн/Серех|ХІорус=<hiero>S29*U23-F32</hiero>||prefix=<hiero>G5</hiero>}}
+{{ПиргІавн/Преномен|Преномен=<hiero>M23:t-L2:t-G16-A21A</hiero>}}
 | <center>[[File:PotterySherdWithNameOfSemerkhet-PetrieMuseum-August21-08.jpg|100px]]</center>
 | <center>8½ сон<ref name="helck"/></center>
 |
 |-
 | [[Къаа]]
-| {{ПиргІавн/Серех|ХІорус=<hiero>X7:D36</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Преномен|Преномен=<hiero>M23:t-L2:t-G16-T22*D20:N35</hiero>}}
+| {{ПиргІавн/Серех|ХІорус=<hiero>X7:D36</hiero>||prefix=<hiero>G5</hiero>}}
+{{ПиргІавн/Преномен|Преномен=<hiero>M23:t-L2:t-G16-T22*D20:N35</hiero>}}
 | <center>[[File:CroppedStelaOfQaa.JPG|100px]]</center>
 | <center>34 сон</center>
 |
@@ -453,13 +460,55 @@
 ! width="15%" | Ханлъиялъул заман
 ! width="20%" | Коментариял
 |-
-| 1
-| 2
-|3
-|4
-| 5
+| [[Сенефру]]
+| {{ПиргІавн/Серех|ХІорус=<hiero>V30:U5-X1</hiero>|prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Преномен|Преномен=<hiero>S29-F35-D21-G43</hiero>}}
+| <center> [[File:Snofru Eg Mus Kairo 2002.png|100px]] </center>
+| <center>2613–2589 н. щ.</center>
+|<small>Жиндир ханлъиялъул 48 соналда жаниб бана Медумалда бугеб пирамида, гьетІараб ва багІараб пирамидаби. Цо-цо гІалимзабаз рикІкІуна гьев БагІараб пирамидалъув вукъун вукІун вугилан. НекІсиял Египеталъул документазда Сенефру рехсон вуго лъикІав ва квербиччарав пиргІавн хІисабалда</small><ref>Thomas Schneider: ''Lexikon der Pharaonen''. Albatros, Düsseldorf 2002, {{ISBN|3-491-96053-3}}, S. 278–279.</ref>.
+|-
+| [[Хуфу]]
+| {{ПиргІавн/Серех|ХІорус=<hiero>Aa24-G43</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Номен|Номен=<hiero>Aa1-G43-I9-G43</hiero>}}
+| <center>[[File:Khufu CEM.jpg|100px]]</center>
+| <center>2589–2566 н. щ. </center>
+|<small>Бана Джизаялда бугеб КІудияб пирамида. НекІсияб Египеталъул иццазда Хуфу рехсон вуго лъикІав ва квербиччарав пиргІавн хІисабалда. Вескарил папирусалда Хуфу вуго бетІерав геройлъун.</small>
+|-
+| [[Джедефра]]
+| {{ПиргІавн/Серех|ХІорус=<hiero>L1</hiero>||prefix=<hiero>G5</hiero>}}
+{{ПиргІавн/Номен|Номен=<hiero>N5-R11-f</hiero>}}
+| <center>[[File:Djedefre-head.jpg|100px]] </center>
+| <center>2566–2558 н. щ. </center>
+|<small>Цо-цо гІалимзабаз рикІкІуна гьес  КІудияб Сфинкс банилан. Гьес гьединго бана Абу-Равашалда пирамида, жиндир хутІелал румаз материалазде биччараб.</small>
+|-
+| [[Хафра]]
+| {{ПиргІавн/Серех|ХІорус=<hiero>F12-F34</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Номен|Номен=<hiero>N5-N28-f</hiero>}}
+| <center>[[File:Khafre statue.jpg|100px]]</center>
+| <center>2558–2532 н. щ.</center>
+|<small>Бана Джизаялда бугеб кІиабилеб кІудияб пирамида. Цо-цо гІалимзабаз рикІкІуна КІудияб Сфинксги гьес банилан.</small>
+|-
+| |[[Бихерис|Бака/Бауфра]]
+| <hiero>V10A-N5-G29-D28-V11A</hiero><br ><hiero>V10A-E10-D28-Z1-V11A</hiero>
+| <center>[[File:Vue-grande-excavation.jpg|100px]]</center>
+| <center>ГІ.-ш. 2570 н. ш.</center>
+|<small>Ватизе бегьула Ал-Арйаналда буггеб бан лъугІичІибе Шималияб пирамидаялъу бетІергьанлъун.</small>
+|-
+| [[Минкаура]] 
+| {{ПиргІавн/Серех|ХІорус=<hiero>D28-D52:F32</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Номен|Номен=<hiero>N5:Y5-D28*D28:D28</hiero>}}
+| <center>[[File:MenkauraAndQueen-CloseUpOfKingsFace MuseumOfFineArtsBoston.png|100px]]</center> 
+| <center>2532–2503 н. щ.</center>
+|<small>Бана Джизаялда бугеб лъабабилеб ва бищун гьитІинаб пирамида.</small>
+|-
+| [[Шепсескаф]] 
+| {{ПиргІавн/Серех|ХІорус=<hiero>A50-F32</hiero>||prefix=<hiero>G5</hiero>}}<br>{{ПиргІавн/Преномен|Преномен=<hiero>A50-S29-S29-D28:I9</hiero>}}
+| <center>[[File:Abydos KL 04-06 n25.jpg|100px]]</center>
+| <center>2503–2498 н. щ.</center>
+|<small>Ал-ФиргІавн мастабаялъул бетІергьан.</small>
+|-
+| [[Тамфтис]]/ДжедефптахІ<ref name="Hayes">{{книга|автор=Hayes William C. |заглавие= The Scepter of Egypt |seite=53—54, 180}}</ref>
+| <hiero>V10A-HASH-HASH-HASH-V11A</hiero><br><hiero>HASH-HASH-HASH-G7-HASH-M4-X1:N33-Z1-Z1</hiero><ref>[[Alan H. Gardiner]]: ''The royal canon of Turin.'' Griffith Institute, Oxford (UK) 1997, {{ISBN|0-900416-48-3}}, p. 16; table II.</ref>
+| <center>—</center>
+| <center>ГІ.-ш. 2500 н. щ.</center>
+|<small>Манефонида рекъон, гьев ккола IV наслуялъул ахирисев пиргІавн, амма гьелъие цониги археологияб далил гьечІо.</small>
 |}
-
 === Щуабилеб Наслу ===
 Ханлъиялъул заман: 2498–2345 н. щ.
 
