@@ -25,7 +25,7 @@ XVIII Наслуялъул заманалда рарал руго Лукъсур
 
 ==Тарих==
 ==Генетика==
-==ПиргІанал==
+==ПиргІавнал==
 ===Хронограмма===
 <timeline>
 ImageSize = width:800 height:auto barincrement:12
@@ -52,20 +52,21 @@ PlotData=
   width:5 align:left fontsize:S shift:(5,-4) anchor:till
   barset:Rulers
 
-  from: -1550 till: -1525 color:PA text:"[[АхІмос I]]"
-  from: -1525 till: -1504 color:PA text:"[[АменхІотеп I]]"
-  from: -1504 till: -1492 color:PA text:"[[Тутмос I]]"
-  from: -1492 till: -1479 color:PA text:"[[Тутмос II]]"
-  from: -1479 till: -1457 color:PA text:"[[Хатшепсут]]"
-  from: -1479 till: -1425 color:PA text:"[[Тутмос III ТІадегІанав]]"
-  from: -1427 till: -1400 color:PA text:"[[АменхІотеп II]]"
-  from: -1400 till: -1390 color:PA text:"[[Тутмос IV]]"
-  from: -1390 till: -1352 color:PA text:"[[АменхІотеп III]]"
-  from: -1354 till: -1337 color:PA text:"[[Ахенатон]]"
-  from: -1340 till: -1336 color:PA text:"[[Сменхкара]]"
-  from: -1336 till: -1327 color:PA text:"[[Тутанхамон]]"
-  from: -1327 till: -1323 color:PA text:"[[Ай]]"
-  from: -1323 till: -1295 color:PA text:"[[Хоремхеб]]"
+  from: -1550 till: -1525 color:PA text:"[[АхІмос I]] (1550–1525 н. щ.)"
+  from: -1525 till: -1504 color:PA text:"[[АменхІотеп I]] (1525–1504 н. щ.)"
+  from: -1504 till: -1492 color:PA text:"[[Тутмос I]] (1504–1492 н. щ.)"
+  from: -1492 till: -1479 color:PA text:"[[Тутмос II]] (1492–1479 н. щ.)"
+  from: -1479 till: -1457 color:PA text:"[[Hatshepsut]] (1479–1457 н. щ.)"
+  from: -1479 till: -1425 color:PA text:"[[Тутмос III ТІадегІанав]] (1479–1425 н. щ.)"
+  from: -1427 till: -1401 color:PA text:"[[АменхІотеп II]]" (1427–1401 н. щ.)
+  from: -1401 till: -1391 color:PA text:"[[Тутмос IV]]" (1401–1391 н. щ.)
+  from: -1391 till: -1353 color:PA text:"[[АменхІотеп III]]" (1391–1353 н. щ.)
+  from: -1353 till: -1335 color:PA text:"[[Ахенатен]]" (1353–1335 н. щ.)
+  from: -1336 till: -1335 color:PA text:"[[Сменхкара]] ?" (1336–1335 н. щ.?)
+  from: -1335 till: -1333 color:PA text:"[[Нефернеферуатен]]?" (1335–1333 н. щ.?)
+  from: -1333 till: -1323 color:PA text:"[[Тутанхамун]] (1333–1323 н. щ.)"
+  from: -1323 till: -1319 color:PA text:"[[Ай]] (1323–1319 н. щ.)"
+  from: -1319 till: -1292 color:PA text:"[[Хоремхеб]] (1319–1292 н. щ.)"
   barset:skip
 </timeline>
 
