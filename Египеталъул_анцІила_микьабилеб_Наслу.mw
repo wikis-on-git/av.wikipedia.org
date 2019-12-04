@@ -52,7 +52,7 @@ PlotData=
   width:5 align:left fontsize:S shift:(5,-4) anchor:till
   barset:Rulers
 
-  from: -1550 till: -1525 color:PA text:"[[АхІиос I]]"
+  from: -1550 till: -1525 color:PA text:"[[АхІмос I]]"
   from: -1525 till: -1504 color:PA text:"[[АменхІотеп I]]"
   from: -1504 till: -1492 color:PA text:"[[Тутмос I]]"
   from: -1492 till: -1479 color:PA text:"[[Тутмос II]]"
@@ -68,6 +68,7 @@ PlotData=
   from: -1323 till: -1295 color:PA text:"[[Хоремхеб]]"
   barset:skip
 </timeline>
+
 ==ХІужжаби==
 ==Адабият==
 ==КъватІисел линкал==
