@@ -1,0 +1,64 @@
+{{НекІсияб Египеталъул пиргІавназул наслаби
+|Период                 = Цебесеб ханлъи
+|ЦІар                 = I Наслу
+|Иллюстрирование                 =
+|Иллюстрациялда гъоркьхъвай                 =
+|Цогидал цІарал                 =
+|Тахшагьар                 = [[Тинис]]
+|БетІерлъи гьабураб заман                 = 3218–3035 сонал н. щ.
+|Халалъи                 = 183
+|Наслуялъул тІоцевесев                 =[[Нармер]]
+|БетІрлъи гьабуразул къадар                 = 10 пиргІавн
+|Наслуялъул ахирисев                 = [[Каа]]
+|Бищун машгьурал                 =
+|Цебесеб наслу                 = Наслабазда цебесеб заман
+|ЦІар2                 = I Наслу
+|Хадусеб наслу                 = II Наслу
+|Викигъамас                 =1st dynasty of Egypt
+}}
+
+'''ТІоцебесеб наслу''' '''(I Наслу)'''<ref>{{Книга|автор=Amélie Kuhrt|заглавие=The Ancient Near East, C. 3000-330 BC|ссылка=https://books.google.com/books?id=K-wOAAAAQAAJ|ответственный=|издание=|место=|издательство=Routledge|год=1995|страницы=118|страниц=424|isbn=9780415013536|isbn2=}}</ref> — НекІсияб Египеталъул пиргІаназул наслу, II Наслуялда цадахъ Цебесеб ханлъиялъул заманалде гъорлъе кколеб.  Гьеб заманалда Египеталъул тахшагьар букІана [[Тинис]]({{lang-egy|Tjene}}). РикІкІуна Нармерица [[ТІасияб Египет|ТІасиябги]] [[Гъоркьияб Египет|Гъоркьиябги Египет]] цолъизабунин абун.
+
+===Хронограмма===
+<timeline>
+ImageSize = width:800 height:auto barincrement:15
+PlotArea = top:10 bottom:30 right:130 left:20
+AlignBars = early
+
+DateFormat = yyyy
+Period = from:-3050 till:-2800
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:25 start:-3050
+
+Colors =
+  id:canvas      value:rgb(0.97,0.97,0.97)
+  id:PA   value:green
+  id:GP   value:red
+
+Backgroundcolors = canvas:canvas
+
+BarData =
+  barset:Rulers
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+  barset:Rulers
+
+  from: -3050 till: -3007 color:PA text:"[[Нармер]]"
+  from: -3007 till: -2975 color:PA text:"[[Хор Аха]]"
+  from: -2974 till: -2974 color:PA text:"[[НейтхІотеп]]"
+  from: -2974 till: -2927 color:PA text:"[[Джер]]"
+  from: -2927 till: -2927 color:PA text:"[[Мернейт]]"
+  from: -2927 till: -2914 color:PA text:"[[Джет]]"
+  from: -2914 till: -2867 color:PA text:"[[Ден]]"
+  from: -2867 till: -2861 color:PA text:"[[Аджиб]]"
+  from: -2861 till: -2853 color:PA text:"[[Семерхет]]"
+  from: -2853 till: -2828 color:PA text:"[[Каа (пиргІавн)|Каа]]"
+  barset:skip
+</timeline>
+
+==ХІужжаби==
+{{ХІужаби}}
+
+[[Категория:НекІсияб Египет]]
+[[Категория:НекІсияб Египеталъул наслаби]]
