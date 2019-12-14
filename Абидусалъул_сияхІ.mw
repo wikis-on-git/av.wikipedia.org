@@ -38,44 +38,53 @@
 [[Image:AbydosKinglistDrawing.png|700px|centre|thumb|Абидосалъул сияхІалъул картушазул сурат.]]
 
 === I Наслу ===
-{| class="wikitable" style="width: 100%; border: 2px solid gray;"
+{| class="wikitable" style="width: 100%; border: 2px solid gray;
 |+ [[Image:Abydos Koenigsliste 1-8.jpg|thumb|mini|center|600px|1–8 картушал]]
 |-
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 |<center>1</center>
-|Мени
+|{{Hiero/картуш|<hiero>Y5:N35-M17</hiero>}}
+|Мени (Mn.j)
 |[[Менес]]
 |-
 |<center>2</center>
-|Тети. ''Гьабго цІар буго Туриналъул сияхІалдаги.''
+|{{Hiero/картуш|<hiero>t-t-M17</hiero>}}
+|Тети (Ttj). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
 |[[ХІор-АхІа]]
 |-
 |<center>3</center>
-|Ити<ref name="Schneider">Thomas Schneider: ''Lexikon der Pharaonen.'' Zürch 1994.</ref>. ''Гьабго цІар буго Туриналъул сияхІалдаги.''
+|{{Hiero/картуш|<hiero>M17-t-M17</hiero>}}
+|Ити (Jtj)<ref name="Schneider">Thomas Schneider: ''Lexikon der Pharaonen.'' Zürch 1994.</ref>. ''Гьабго цІар буго Туриналъул сияхІалдаги.''
 |[[Джер]]
 |-
 |<center>4</center>
-|Ита. ''Туриналъул сияхІалда — Итуй.''
+|{{Hiero/картуш|<hiero>M17-t-G1</hiero>}}
+|Ита (Jtȝ). ''Туриналъул сияхІалда — Итуй.''
 |[[Уаджи]], Джет
 |-
 |<center>5</center>
-|Сепати. ''Туриналъул сияхІалда — Кенти.''
+|{{Hiero/картуш|<hiero>N24:N24</hiero>}}
+|Сепати (Spȝt.j). ''Туриналъул сияхІалда — Къененти.''
 |[[Ден]], Семти, Удиму<ref name="Stadelmann">[[Rainer Stadelmann]]: ''Die ägyptischen Pyramiden. Vom Ziegelbau zum Weltwunder'' (= ''[[Kulturgeschichte der Antiken Welt]].'' Band 30). 3., aktualisierte und erweiterte Auflage. Philipp von Zabern, Mainz 1997, ISBN 3-8053-1142-7.</ref>
 |-
 |<center>6</center>
-|Мерибиап. Ту''риналъул сияхІалда — Мерибиапен.''
+|{{Hiero/картуш|<hiero>U7:r-N42-p</hiero>}}
+|Мерибиап (Mr-bjȝ-p). ''Туриналъул сияхІалда — Мерибиапен.''
 |[[Анеджиб]], Аджиб
 |-
 |<center>7</center>
-|Семсу. Т''уриналъул сияхІалда — Семсем.''
+|{{Hiero/картуш|<hiero>A21A</hiero>}}
+|Семсу (Iry?/Smsw?). ''Туриналъул сияхІалда — Семсем.''
 |[[Семерхет]]
 |-
 |<center>8</center>
-|КъибехІ(у). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
-|[[Каа]]
+|{{Hiero/картуш|<hiero>q-b-H</hiero>}}
+|КъибехІ(у) (Qbḥ). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
+|[[КъагІ]]
 |}
 
 === II Наслу ===
@@ -83,23 +92,42 @@
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+ [[Файл:Abydos Koenigsliste 9-14.jpg|thumb|mini|center|600px|9–14 картуш]]
 |-
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
-| style="text-align:center;" |  9 || Беджау. ''Туриналъул сияхІалда — Баунечер.''||[[ХІотепсехемуи]],
+| style="text-align:center;" |  9 
+| {{Hiero/картуш|<hiero>b-U28-w-P11</hiero>}}
+| Беджау (Bḏȝ.w). ''Туриналъул сияхІалда — Баунечер.''
+|[[ХІотепсехемуи]],
 |-
-| style="text-align:center;" | 10 || Какау. ''Гьабго цІар буго Туриналъул сияхІалдаги.''||[[Небра]], Ранеб<ref name="Stadelmann" />, ''Kechoôs''
+| style="text-align:center;" | 10 
+| {{Hiero/картуш|<hiero>D28-D52:D52:D52</hiero>}}
+| Какау (Kȝ-kȝ.w). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
+|[[Небра]], Ранеб<ref name="Stadelmann" />, ''Kechoôs''
 |-
-| style="text-align:center;" | 11 || Бенечер. ''Гьабго цІар буго Туриналъул сияхІалдаги.''||[[Нинечер]], ''Binothris''
+| style="text-align:center;" | 11 
+| {{Hiero/картуш|<hiero>W10A-E11-R8-N35</hiero>}}
+| Бенечер (Bȝ-nṯr). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
+|[[Нинечер]], ''Binothris''
 |-
-| style="text-align:center;" | 12 || Ваджнес. ''Туриналъул сияхІалда цІар хун буго.''||[[Венег]], ''Ougotlas''
+| style="text-align:center;" | 12 
+| {{Hiero/картуш|<hiero>M13-n-s</hiero>}}
+| Ваджнес (Wȝḏns). ''Туриналъул сияхІалда цІар хун буго.''
+|[[Венег]], ''Ougotlas''
 |-
-| style="text-align:center;" | 13 ||[[Сенеди]]. ''Туриналъул сияхІалда — Сенедж''||Сенедж
+| style="text-align:center;" | 13 
+| {{Hiero/картуш|<hiero>s-n:d-i</hiero>}}
+|[[Сенеди]] (Snd.j). ''Туриналъул сияхІалда — Сенедж''
+|Сенедж
 |-
-| style="text-align:center;" | 14 || Джаджаи. ''Туриналъул сияхІалда — Бабти''||[[Хасехемуи]], ''Sesochris''
+| style="text-align:center;" | 14 
+| {{Hiero/картуш|<hiero>U28*U28 D1 i*i</hiero>}}
+| Джаджаи (Ḏȝḏȝj). ''Туриналъул сияхІалда — Бабти''
+|[[Хасехемуи]], ''Sesochris''
 |-
-| colspan="3" |''Абидусалъул сияхІалда гьечІо II  Наслуялъул ахиралъул цо-цо пиргІавнал, жидеда гьоркьоб къец букІун батизе бегьулел.''
+| colspan="4" |''Абидусалъул сияхІалда гьечІо II  Наслуялъул ахиралъул цо-цо пиргІавнал, жидеда гьоркьоб къец букІун батизе бегьулел.''
 |}
 
 <br />
@@ -107,59 +135,72 @@
 === III Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 15-19.jpg|thumb|mini|center|450px|15–19 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |15
-|Небка. ''Гьабго цІар буго Туриналъул сияхІалдаги.''
+| {{Hiero/картуш|<hiero>V30-D28-Z1</hiero>}}
+|[[Небка]] (Nb-kȝ). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
 |[[Санахт]], ''Necherophes''
 |-
 | style="text-align:center;" |16
-|Джосер-Са. ''Туриналъул сияхІалда — Джосер''
+| {{Hiero/картуш|<hiero>HASH-D45-V17</hiero>}}
+|Джосер-Са (...-ḏsr-sȝ){{Комментария|СияхІалда бугеб цІаралъул тІоцебесеб иероглиф цІализе бажарулареб хІалалъ тІаса ун буго}}. ''Туриналъул сияхІалда — Джосер''
 |[[Джосер]], ХІор-нечери-хет ''Tosorthos''
 |-
 | style="text-align:center;" |17
-|Тети. ''Туриналъул сияхІалда — Джосер-ти''
+| {{Hiero/картуш|<hiero>t:t-M17</hiero>}}
+|Тети (Ttj). ''Туриналъул сияхІалда — Джосер-ти''
 |[[Сехемхет]], ''Tyreis''
 |-
 | style="text-align:center;" |18
-|Седжес. ''Туриналъул сияхІалда — ХІуджефа.''
+| {{Hiero/картуш|<hiero>O34-I10-S29</hiero>}}
+|Седжес (Sḏṣ). ''Туриналъул сияхІалда — ХІуджефа.''
 |[[Хаба]], ХІуджефа II, ''Sephuris''
 |-
 | style="text-align:center;" |19
-|Неферкара. ''Туриналъул сияхІалда — ХІуни.''
+| {{Hiero/картуш|<hiero>nfr-kA-ra</hiero>}}
+|Неферкара (Nfr-kȝ Rˁ). ''Туриналъул сияхІалда — ХІуни.''
 |[[ХІуни]], ''Mesochris''
 |}
 
 === IV Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 20-25.jpg|thumb|mini|center|500px|20–25 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |20
+|
 |[[Снеферу]]. ''Туриналъул сияхІалда — Сенефер''
 |''Sôris''
 |-
 | style="text-align:center;" |21
+|
 |[[Хуфу]]. ''Туриналъул сияхІалда цІар гьечІо.''
 |''Хеопс''
 |-
 | style="text-align:center;" |22
+|
 |[[Джедефра]]. ''Туриналъул сияхІалда цІар гьечІо.''
 |Раджедеф, ''Ratoises''
 |-
 | style="text-align:center;" |23
+|
 |[[Хафра]]. ''Туриналъул сияхІалда бащдаб цІар гурони гьечІо.''
 |Хауфра, ''Chephren''
 |-
 | style="text-align:center;" |24
+|
 |[[Менкаура]]. ''Туриналъул сияхІалда цІар гьечІо.''
 |''Mykerinos''
 |-
 | style="text-align:center;" |25
+|
 |[[Шепсескаф]]. ''Туриналъул сияхІалда цІар гьечІо.''
 |''Serberchêres''
 |}
@@ -167,157 +208,192 @@
 === V Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 26-33.jpg|thumb|mini|center|600px|26–33 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |26
+|
 |[[Усиркаф]]. ''Туриналъул сияхІалда цІаралъул бащдаб тІагІараб буго.''
 |Усиркара
 |-
 | style="text-align:center;" |27
+|
 |[[СахІура]]. Туриналъул сияхІалда букІараб цІар тІагІун буго.
 |Небхау
 |-
 | style="text-align:center;" |28
+|
 |Какаи
 |[[Неферкара Какаи]], ''Nephercheres''
 |-
 | style="text-align:center;" |29
+|
 |Ранефереф (Неферефра)
 |[[Неферефра]], ''Cheres''
 |-
 | style="text-align:center;" |30
+|
 |Ниусирра
 |[[Ниусирра Ини]]
 |-
 | style="text-align:center;" |31
+|
 |МинкаухІор
 |[[МинкаухІор Каиу]], ''Mencheres''
 |-
 | style="text-align:center;" |32
+|
 |Джедкара. ''Туриналъул сияхІалда — Джед.''
 |[[Джедкара Исеси]], ''Tancheres''
 |-
 | style="text-align:center;" |33
+|
 |Унис. ''Гьабго цІар буго Туриналъул сияхІалдаги.''
 |[[Унас]], ХІор-ваджи-тави, ''Onnos''
 |-
-| colspan="3" |''28-б номералдаса хадув гьечІо пиргІавн Шепескара''
+| colspan="4" |''28-б номералдаса хадув гьечІо пиргІавн Шепескара''
 |}
 
 === VI Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 34-39.jpg|thumb|mini|center|484px|34–39 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |34
+|
 |[[Тети]]
 |Тети II, СихІотеп-тауи
 |-
 | style="text-align:center;" |35
+|
 |Усиркара
 |
 |-
 | style="text-align:center;" |36
+|
 |Мерира
 |[[Пепи I]], Мери-тауи
 |-
 | style="text-align:center;" |37
+|
 |Меренра
 |[[Немтиемсаф Меринра I]]
 |-
 | style="text-align:center;" |38
+|
 |Неферкара
 |[[Пепи II]], ''Phiops II.''
 |-
 | style="text-align:center;" |39
+|
 |Меринра Саемсаф
 |[[Немтиемсаф Меринра II]]
 |-
-| colspan="3" |''Лъеберал ичІабилеб картушалдаса байбихьула кІиабилеб кьер. ТІоцебесеб хиси ккараб заманалъул VII наслуялъул цониги пиргІавн рехсон гьечІо сияхІалда.''
+| colspan="4" |''Лъеберал ичІабилеб картушалдаса байбихьула кІиабилеб кьер. ТІоцебесеб хиси ккараб заманалъул VII наслуялъул цониги пиргІавн рехсон гьечІо сияхІалда.''
 |}
 
 === VIII Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 40-47.jpg|thumb|mini|center|700px|40–47 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |40
+|
 |[[Нечеркара]]
 |
 |-
 | style="text-align:center;" |41
+|
 |Менкара
 |
 |-
 | style="text-align:center;" |42
+|
 |Неферкара
 |[[Неферкара II]]
 |-
 | style="text-align:center;" |43
+|
 |[[Неферкара Неби]]
 |
 |-
 | style="text-align:center;" |44
+|
 |[[Джедкара Шемаи]]
 |
 |-
 | style="text-align:center;" |45
+|
 |[[Неферкара Хенду]]
 |
 |-
 | style="text-align:center;" |46
+|
 |МеринхІор
 |
 |-
 | style="text-align:center;" |47
+|
 |Синеферка
 |[[Неферками]]
 |}
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 48-56.jpg|thumb|mini|center|700px|48–56 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |48
+|
 |[[Никара]]
 |
 |-
 | style="text-align:center;" |49
+|
 |[[Неферкара Тереру]]
 |
 |-
 | style="text-align:center;" |50
+|
 |[[НеферкахІор]]
 |
 |-
 | style="text-align:center;" |51
+|
 |[[Неферкара Пеписенеб]]
 |
 |-
 | style="text-align:center;" |52
+|
 |Синеферка Ану
 |[[Неферками Ану]]
 |-
 | style="text-align:center;" |53
+|
 |Къакаура
 |[[Къакара Иби]]
 |-
 | style="text-align:center;" |54
+|
 |Неферкаура
 |[[Неферкаура II]]
 |-
 | style="text-align:center;" |55
+|
 |[[НеферкаухІор]]
 |
 |-
 | style="text-align:center;" |56
+|
 |[[Нефериркара]]
 |
 |}
@@ -325,49 +401,60 @@
 === XI–XII Наслаби ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 57-61.jpg|thumb|mini|center|452px|57–61 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |57
+|
 |НебхІапетра
 |[[МентухІотеп II]]
 |-
 | style="text-align:center;" |58
+|
 |Санхкара
 |[[МентухІотеп III]]
 |-
 | style="text-align:center;" |59
+|
 |СихІотепибра
 |[[АменемхІат I]], ''Amenemes''
 |-
 | style="text-align:center;" |60
+|
 |Хеперкара
 |[[Сенусрет I]], ''Sesonchosis''
 |-
 | style="text-align:center;" |61
+|
 |Небкаура
 |[[АменемхІат II]]
 |}
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 62-65.jpg|thumb|mini|center|300px|62–65 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |62
+|
 |Хахеперра
 |[[Сенусрет II]]
 |-
 | style="text-align:center;" |63
+|
 |Хаикаура
 |[[Сенусрет III]]
 |-
 | style="text-align:center;" |64
+|
 |Нимаатра
 |[[АменемхІат III]], ''Ammenemes,'' ''Lamares''
 |-
 | style="text-align:center;" |65
+|
 |Маахерура
 |[[АменемхІат IV]], ''Ammenemes''
 |}
@@ -375,43 +462,53 @@
 === XVIII Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 66-74.jpg|thumb|mini|center|740px|66–74 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |66
+|
 |НебпехІтира
 |[[АхІмос I]], ''Amosis''
 |-
 | style="text-align:center;" |67
+|
 |Джесеркара
 |АменхІотеп I, ''Amenopis''
 |-
 | style="text-align:center;" |68
+|
 |Аахеперкара
 |[[Тутмос I]]
 |-
 | style="text-align:center;" |69
+|
 |Аахеперинраа
 |[[Тутмос II]]
 |-
 | style="text-align:center;" |70
+|
 |Менхеперра
 |[[Тутмос III ТІадегІанав]]
 |-
 | style="text-align:center;" |71
+|
 |Аахеперура
 |[[АменхІотеп II]], ''Amenopis II''
 |-
 | style="text-align:center;" |72
+|
 |Менхеперура
 |[[Тутмос IV]]
 |-
 | style="text-align:center;" |73
+|
 |Небмаатра
 |[[АменхІотеп III]], ''Amenopis III''
 |-
 | style="text-align:center;" |74
+|
 |Джесерхеперура-Сетепенра
 |[[ХІоремхІеб]]
 |}
@@ -419,15 +516,18 @@
 === XIX Наслу ===
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 75-76.jpg|thumb|mini|center|150px|75–76 картушал]]
-!width="5%" |№
-!width="40%" |СияхІалда бугеб цІар
-!width="40%" |Цойги цІар/''грек мацІалда цІар''
+!width="5%" style="background-color: #ffe39b" |№
+!width="20%" style="background-color: #ffe39b" |Картуш
+!width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+!width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |75
+|
 |МенпехІтира
 |[[Рамсес I]]
 |-
 | style="text-align:center;" |76
+|
 |Менмаатра
 |[[Сети I]], ''Sethos''
 |}
