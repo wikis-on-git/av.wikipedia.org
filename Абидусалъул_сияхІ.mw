@@ -52,7 +52,7 @@
 |[[Менес]]
 |-
 |<center>2</center>
-|{{Hiero/картуш|<hiero>t-t-M17</hiero>}}
+|{{Hiero/картуш|<hiero>t:t-M17</hiero>}}
 |Тети (Ttj). ''Гьабго цІар буго Туриналъул сияхІалдаги.''
 |[[ХІор-АхІа]]
 |-
@@ -245,7 +245,7 @@
 |-
 | style="text-align:center;" |32
 | {{Hiero/картуш|<hiero>ra-Dd-kA</hiero>}}
-|Джедкара (Ḏd-k3-Rˁ). ''Туриналъул сияхІалда — Джед.''
+|Джедкара (Ḏd-kȝ-Rˁ). ''Туриналъул сияхІалда — Джед.''
 |[[Джедкара Исеси]], ''Tancheres''
 |-
 | style="text-align:center;" |33
@@ -265,33 +265,33 @@
 !width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |34
-|
-|[[Тети]]
+| {{Hiero/картуш|<hiero>t:t-i</hiero>}}
+|[[Тети]] (Ttj)
 |Тети II, СихІотеп-тауи
 |-
 | style="text-align:center;" |35
-|
-|Усиркара
+| {{Hiero/картуш|<hiero>ra-wsr-s-kA</hiero>}}
+|Усиркара (Wsr-kȝ-Rˁ)
 |
 |-
 | style="text-align:center;" |36
-|
-|Мерира
-|[[Пепи I]], Мери-тауи
+|  {{Hiero/картуш|<hiero>ra-U7:r-i-i</hiero>}}
+|Мерира (Mry Rˁ)
+|[[Пипи I]], Мери-тауи
 |-
 | style="text-align:center;" |37
-|
-|Меренра
+|{{Hiero/картуш|<hiero>ra-U6-r:n</hiero>}}
+|Меринра (Mry.n-Rˁ)
 |[[Немтиемсаф Меринра I]]
 |-
 | style="text-align:center;" |38
-|
-|Неферкара
-|[[Пепи II]], ''Phiops II.''
+|{{Hiero/картуш|<hiero>ra-nfr-kA</hiero>}}
+|Неферкара (Nfr-kȝ-Rˁ)
+|[[Пипи II]], ''Phiops II.''
 |-
 | style="text-align:center;" |39
-|
-|Меринра Саемсаф
+| {{Hiero/картуш|<hiero>N5-U7:n-G42-m-V16:f:</hiero>}}
+|Меринра Саемсаф (Mr-n-Rˁ-Nmti-m-sȝ.f)
 |[[Немтиемсаф Меринра II]]
 |-
 | colspan="4" |''Лъеберал ичІабилеб картушалдаса байбихьула кІиабилеб кьер. ТІоцебесеб хиси ккараб заманалъул VII наслуялъул цониги пиргІавн рехсон гьечІо сияхІалда.''
@@ -306,44 +306,44 @@
 !width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |40
-|
-|[[Нечеркара]]
+| {{Hiero/картуш|<hiero>ra-R8-kA</hiero>}}
+| [[Нечеркара СиптахІ]] (Nṯr-kȝ-Rˁ)
 |
 |-
 | style="text-align:center;" |41
-|
-|Менкара
+| {{Hiero/картуш|<hiero>ra-mn:n-kA</hiero>}}
+| Менкара (Mn kȝ Rˁ)
 |
 |-
 | style="text-align:center;" |42
-|
-|Неферкара
-|[[Неферкара II]]
+| {{Hiero/картуш|<hiero>ra-nfr-kA</hiero>}}
+| Неферкара (Nfr-kȝ-Rˁ)
+| [[Неферкара II]]
 |-
 | style="text-align:center;" |43
-|
-|[[Неферкара Неби]]
-|
+| {{Hiero/картуш|<hiero>N5-nfr-D28-V30-D58-i-i</hiero>}}
+| [[Неферкара Неби]] (Nfr-kȝ-rˁ nbjj)
+| 
 |-
 | style="text-align:center;" |44
-|
-|[[Джедкара Шемаи]]
+| {{Hiero/картуш|<hiero>N5-R11-D28-U4-A33</hiero>}}
+| [[Джедкара Шемаи]] (Ḏd kȝ rˁ šm3j)
 |
 |-
 | style="text-align:center;" |45
-|
-|[[Неферкара Хенду]]
+| {{Hiero/картуш|<hiero>N5-nfr-D28:Aa1-n:d-G43-D56</hiero>}}
+| [[Неферкара Хенду]] (Nfr kȝ rˁ ḫndw)
 |
 |-
 | style="text-align:center;" |46
-|
-|МеринхІор
+| {{Hiero/картуш|<hiero>G5-U7-D21:n</hiero>}}
+| [[МеринхІор]] (Mr n Ḥr)
 |
 |-
 | style="text-align:center;" |47
-|
-|Синеферка
-|[[Неферками]]
+| {{Hiero/картуш|<hiero>O34-nfr-D28</hiero>}}
+| Синеферка (S.nfr kȝ)
+| [[Неферками]]
 |}
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 48-56.jpg|thumb|mini|center|700px|48–56 картушал]]
@@ -353,48 +353,48 @@
 !width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |48
-|
-|[[Никара]]
+| {{Hiero/картуш|<hiero>ra-n:kA</hiero>}}
+| [[Никара]] (N-kȝ-rˁ)
 |
 |-
 | style="text-align:center;" |49
-|
-|[[Неферкара Тереру]]
+| {{Hiero/картуш|<hiero>N5-nfr-D28:X1-r:D21-E23</hiero>}}
+| [[Неферкара Тереру]] (Nfr kȝ rˁ tr(r)rw)
 |
 |-
 | style="text-align:center;" |50
-|
-|[[НеферкахІор]]
+| {{Hiero/картуш|<hiero>G5-nfr-D28</hiero>}}
+| [[НеферкахІор]] (Nfr-kȝ-Ḥr)
 |
 |-
 | style="text-align:center;" |51
-|
-|[[Неферкара Пеписенеб]]
+| {{Hiero/картуш|<hiero>N5-nfr-D28-Q3:Q3-i-i-S29-n:D58</hiero>}}
+| [[Неферкара Пеписенеб]] (Nfr-kȝ-Rˁ pjpj snb)
 |
 |-
 | style="text-align:center;" |52
-|
-|Синеферка Ану
+| {{Hiero/картуш|<hiero>O34-D28*F35-D36:n-W24-G43</hiero>}}
+| Синеферка Ану (Snfr-kȝ ˁnw)
 |[[Неферками Ану]]
 |-
 | style="text-align:center;" |53
-|
-|Къакаура
-|[[Къакара Иби]]
+| {{Hiero/картуш|<hiero>N5-A28-D28:Z2</hiero>}}
+| Къакаура (Qȝj-kȝw-Rˁ)
+| [[Къакара Иби]]
 |-
 | style="text-align:center;" |54
-|
-|Неферкаура
-|[[Неферкаура II]]
+| {{Hiero/картуш|<hiero>N5-nfr-D28:Z2</hiero>}}
+| Неферкаура (Nfr kȝ.w Rˁ)
+| [[Неферкаура II]]
 |-
 | style="text-align:center;" |55
-|
-|[[НеферкаухІор]]
+| {{Hiero/картуш|<hiero>G5-nfr-D28:Z2</hiero>}}
+| [[НеферкаухІор]] (Nfr-kȝ.w Ḥr)
 |
 |-
 | style="text-align:center;" |56
-|
-|[[Нефериркара]]
+| {{Hiero/картуш|<hiero>N5-nfr-ir:D28</hiero>}}
+| [[Неферирикара]] (Nfr-jrj kȝ Rˁ)
 |
 |}
 
