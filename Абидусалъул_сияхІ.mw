@@ -234,7 +234,7 @@
 |[[Неферефра]], ''Cheres''
 |-
 | style="text-align:center;" |30
-| {{Hiero/картуш|<hiero>ra:n-wsr-S29s:r</hiero>}}
+| {{Hiero/картуш|<hiero>ra:n-F12*s:D21</hiero>}}
 |Ниусирра (N.wsr Rˁ)
 |[[Ниусирра Ини]]
 |-
@@ -373,7 +373,7 @@
 |
 |-
 | style="text-align:center;" |52
-| {{Hiero/картуш|<hiero>O34-D28*F35-D36:n-W24-G43</hiero>}}
+| {{Hiero/картуш|<hiero>O34:D28-F35-D36:n-W24-G43</hiero>}}
 | Синеферка Ану (Snfr-kȝ ˁnw)
 |[[Неферками Ану]]
 |-
@@ -407,29 +407,29 @@
 !width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |57
-|
-|НебхІапетра
-|[[МентухІотеп II]]
+| {{Hiero/картуш|<hiero>N5:V30-P8</hiero>}}
+| НебхІапетра (Nb-ḥȝpt-Rˁ)
+| [[МентухІотеп II]]
 |-
 | style="text-align:center;" |58
-|
-|Санхкара
-|[[МентухІотеп III]]
+| {{Hiero/картуш|<hiero>ra-s-S34-D28</hiero>}}
+| Санхкара (S.ˁnḫ-kȝ-Rˁ
+| [[МентухІотеп III]]
 |-
 | style="text-align:center;" |59
-|
-|СихІотепибра
-|[[АменемхІат I]], ''Amenemes''
+| {{Hiero/картуш|<hiero>ra-s-R4:t*p-ib</hiero>}}
+| СихІотепибра (S. ḥtp-jb-Rˁ)
+| [[АменемхІат I]], ''Amenemes''
 |-
 | style="text-align:center;" |60
-|
-|Хеперкара
-|[[Сенусрет I]], ''Sesonchosis''
+| {{Hiero/картуш|<hiero>ra-xpr-kA</hiero>}}
+| Хеперкара (Ḫpr-kȝ-Rˁ)
+| [[Сенусрет I]], ''Sesonchosis''
 |-
 | style="text-align:center;" |61
-|
-|Небкаура
-|[[АменемхІат II]]
+| {{Hiero/картуш|<hiero>N5:S12-D28*D28:D28</hiero>}}
+| Небкаура (Nbw-kȝw-Rˁ)
+| [[АменемхІат II]]
 |}
 {| class="wikitable" style="width: 100%; border: 2px solid gray;"
 |+[[Файл:Abydos Koenigsliste 62-65.jpg|thumb|mini|center|300px|62–65 картушал]]
@@ -439,24 +439,24 @@
 !width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
 | style="text-align:center;" |62
-|
-|Хахеперра
-|[[Сенусрет II]]
+| {{Hiero/картуш|<hiero>N5-N28-L1</hiero>}}
+| Хахеперра (Ḫˁ-ḫpr-Rˁ)
+| [[Сенусрет II]]
 |-
 | style="text-align:center;" |63
-|
-|Хаикаура
+| {{Hiero/картуш|<hiero>ra-N28-D28*D28:D28</hiero>}}
+| Хаикаура (Ḫˁj-kȝw-Rˁ)
 |[[Сенусрет III]]
 |-
 | style="text-align:center;" |64
-|
-|Нимаатра
-|[[АменемхІат III]], ''Ammenemes,'' ''Lamares''
+| {{Hiero/картуш|<hiero>ra:n-U5-a:t</hiero>}}
+ |Нимаатра (Nj-mˁȝt-Rˁ)
+| [[АменемхІат III]], ''Ammenemes,'' ''Lamares''
 |-
 | style="text-align:center;" |65
-|
-|Маахерура
-|[[АменемхІат IV]], ''Ammenemes''
+| {{Hiero/картуш|<hiero>ra-U5:a-xrw-w</hiero>}}
+| Маахерура (Mȝˁ-ḫrw-Rˁ)
+| [[АменемхІат IV]], ''Ammenemes''
 |}
 
 === XVIII Наслу ===
@@ -475,7 +475,7 @@
 | style="text-align:center;" |67
 |
 |Джесеркара
-|АменхІотеп I, ''Amenopis''
+|[[АменхІотеп I]], ''Amenopis''
 |-
 | style="text-align:center;" |68
 |
