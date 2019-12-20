@@ -14,7 +14,7 @@
 ! width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
 ! width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
 |-
-! colspan="4" |XIX Наслу
+! ! colspan="4" style="background-color: #FFFFDE;" |XIX Наслу
 |-
 |1
 | {{Hiero/картуш|<hiero>N5-F12-C10-U21:N35-N5::</hiero>}}
@@ -31,7 +31,7 @@
 |МенпехІтира (Mn-pḥtj-Rˁ)
 |[[Рамсес I]], ''Menophres''
 |-
-! colspan="4" |XVIII Наслу
+! colspan="4" style="background-color: #FFFFDE;" |XVIII Наслу
 |-
 |4
 |{{Hiero/картуш|<hiero>ra:Dsr-xpr:Z2-ra-stp:n</hiero>}}
@@ -68,109 +68,274 @@
 |ГІахеперкара (ˁȝ-ḫpr-kȝ-Rˁ)
 |[[Тутмос I]]
 |-
-|12
+|11
 |{{Hiero/картуш|<hiero>ra-D45-kA</hiero>}}
 |Джесеркара (Ḏsr-kȝ-Rˁ)
 |[[АменхІотеп I]], ''Amenopis''
 |-
-|13
+|12
 |{{Hiero/картуш|<hiero>ra:nb-F9:t*t:</hiero>}}
 |НибпехІтира (Nb-pḥtj-Rˁ)
 |[[АхІмос I]], ''Amosis''
 |-
-! colspan="4" |XI–XII Наслаби
+! colspan="4" style="background-color: #FFFFDE;" |XI–XII Наслаби
 |-
-|57
+|13
 |{{Hiero/картуш|<hiero>N5:V30-P8</hiero>}}
 |НебхІапетра (Nb-ḥȝpt-Rˁ)
 |[[МентухІотеп II]]
 |-
-|58
+|14
 |{{Hiero/картуш|<hiero>ra-s-S34-D28</hiero>}}
 |Санхкара (S.ˁnḫ-kȝ-Rˁ
 |[[МентухІотеп III]]
 |-
-|59
+|15
 |{{Hiero/картуш|<hiero>ra-s-R4:t*p-ib</hiero>}}
 |СихІотепибра (S. ḥtp-jb-Rˁ)
 |[[АменемхІат I]], ''Amenemes''
 |-
-|60
+|16
 |{{Hiero/картуш|<hiero>ra-xpr-kA</hiero>}}
 |Хеперкара (Ḫpr-kȝ-Rˁ)
 |[[Сенусрет I]], ''Sesonchosis''
 |-
-|61
+|17
 |{{Hiero/картуш|<hiero>N5:S12-D28*D28:D28</hiero>}}
 |Небкаура (Nbw-kȝw-Rˁ)
 |[[АменемхІат II]]
 |-
-|62
+|18
 |{{Hiero/картуш|<hiero>N5-N28-L1</hiero>}}
 |Хахеперра (Ḫˁ-ḫpr-Rˁ)
 |[[Сенусрет II]]
 |-
-|63
+|19
 |{{Hiero/картуш|<hiero>ra-N28-D28</hiero>}}
 |Хакара (Ḫˁ-kȝ-Rˁ)
 |[[Сенусрет III]]
 |-
-|64
+|20
 |{{Hiero/картуш|<hiero>ra:n-U5-a:t</hiero>}}
 |Нимаатра (Nj-mˁȝt-Rˁ)
 |[[АменемхІат III]], ''Ammenemes,'' ''Lamares''
 |-
-|65
+|21
 |{{Hiero/картуш|<hiero>ra-U5:a-xrw-w</hiero>}}
 |Маахерура (Mȝˁ-ḫrw-Rˁ)
 |[[АменемхІат IV]], ''Ammenemes''
 |-
-|
+|22
 |{{Hiero/картуш|<hiero>ra-I4-kA</hiero>}}
 |Собек-ка-ра (Sbk-kȝ-Rˁ
 |[[Собекнеферу]]
 |-
-! colspan="4" |VI Наслу
+! colspan="4" style="background-color: #FFFFDE;" |VI Наслу
 |-
-|38
+|23
 |{{Hiero/картуш|<hiero>ra-nfr-kA</hiero>}}
 |Неферкара (Nfr-kȝ-Rˁ)
 |[[Неферкара Пипи II]], ''Phiops II.''
 |-
-|37
+|24
 |{{Hiero/картуш|<hiero>ra-U6-r:n</hiero>}}
 |Меринра (Mry.n-Rˁ)
 |[[Немтиемсаф Меринра I]]
 |-
-|36
-|{{Hiero/картуш|<hiero>p-p-i-i</hiero>}}
+|25
+|{{Hiero/картуш|<hiero>p:p-i-i</hiero>}}
 |[[Мерира Пипи I]] (Ppy)
 |
 |-
-|34
+|26
 |{{Hiero/картуш|<hiero>t:t-i</hiero>}}
 |[[Тети]] (Ttj)
 |Тети III, СихІотеп-тауи
 |-
-! colspan="4" |V Наслу
+! colspan="4" style="background-color: #FFFFDE;" |V Наслу
 |-
-|33
+|27
 |{{Hiero/картуш|<hiero>wn:n-i-s</hiero>}}
 |Унис (Wnjs)
 |[[Унас]], ХІор-ваджи-тави, ''Onnos''
 |-
-|32
+|28
 |{{Hiero/картуш|<hiero>ra-H6-kA</hiero>}}
 |Мааткара (Mȝˁt-kȝ-Rˁ)
 |[[Джедкара Исеси]], ''Tancheres''
 |-
-|31
+|29
 |{{Hiero/картуш|<hiero>G5-mn:kA</hiero>}}
 |МинкахІор (Mn-kȝ-Ḥr)
 |[[МинкаухІор Каиу]], ''Mencheres''
 |}
 
 ===Гъоркьияб кьер===
+{| class="wikitable" style="width: 100%; border: 2px solid gray;"
+! width="5%" style="background-color: #ffe39b" |№
+! width="20%" style="background-color: #ffe39b" |Картуш
+! width="30%" style="background-color: #ffe39b" |СияхІалда бугеб цІар (транслитерация)
+! width="40%" style="background-color: #ffe39b" |Цойги цІар/''грек мацІалда цІар''
+|-
+! colspan="4" style="background-color: #FFFFDE;" |V Наслу
+|-
+|30
+|{{Hiero/картуш|<hiero>ra-N28-nfr</hiero>}}
+|Ханеферра (Ḫˁ-nfr-Rˁ)
+|[[Неферефра]], ''Cheres''
+|-
+|31
+|{{Hiero/картуш|<hiero>N5-A51-S29-S29-D28</hiero>}}
+|[[Шепсескара]] (pss-kȝ-Rˁ)
+)
+|
+|-
+|32
+|{{Hiero/картуш|<hiero>ra-nfr-D4:kA</hiero>}}
+|Нефериркара (Nfr-jr(.w)-kȝ-Rˁ)
+|[[Нефериркара Какаи]], ''Nephercheres'' (Νεφερχέρης)
+|-
+|33
+|{{Hiero/картуш|<hiero>ra-D62-w</hiero>}}
+|[[СахІура]] (Sȝḥ-w-Rˁ)
+|
+|-
+|34
+|{{Hiero/картуш|<hiero>wsr-s-kA:f</hiero>}}
+|[[Усиркаф]] (Wsr-kȝ-f). ''Туриналъул сияхІалда цІаралъул бащдаб тІагІараб буго.''
+|Усиркара
+|-
+! colspan="4" style="background-color: #FFFFDE;" |IV Наслу
+|-
+|35
+|{{Hiero/картуш|<hiero>HASH-HASH-HASH</hiero>}}
+|''сияхІалда цІар хун буго''
+|[[Тамфтис]]?
+|-
+|36
+|{{Hiero/картуш|<hiero>HASH-HASH-HASH</hiero>}}
+|''сияхІалда цІар хун буго''
+|[[Бихерис]]?
+|-
+|37
+|{{Hiero/картуш|<hiero>HASH-HASH-HASH</hiero>}}
+|''сияхІалда цІар хун буго''
+|[[ДжедефптахІ]]
+|-
+|38
+|{{Hiero/картуш|<hiero>HASH-HASH-HASH</hiero>}}
+|''сияхІалда цІар хун буго''
+|[[Шепсескаф]]
+|-
+|39
+|{{Hiero/картуш|<hiero>HASH-HASH-HASH</hiero>}}
+|''сияхІалда цІар хун буго''
+|[[Менкаура]]
+|-
+|40
+|{{Hiero/картуш|<hiero>ra-N28-w-f</hiero>}}
+|[[Хафра]] (Ḫʿj-f-Rʿ)
+|Хауфра, ''Chephren''
+|-
+|41
+|{{Hiero/картуш|<hiero>ra-Dd-Dd-f</hiero>}}
+|[[Джедефра]] (Ḏd.f Rˁ)
+|Раджедеф, ''Ratoises''
+|-
+|42
+|{{Hiero/картуш|<hiero>Aa1:f-w-f</hiero>}}
+|Хуфуф(Ḫ(w)j.f w(j).f)
+|[[Хуфу]]
+|-
+|43
+|{{Hiero/картуш|<hiero>s-nfr-f:r-w</hiero>}}
+|[[Снеферу]] (Snfr-wj)
+|''Sôris''
+|-
+! colspan="4" style="background-color: #FFFFDE;" |III Наслу
+|-
+|44
+|{{Hiero/картуш|<hiero>V28-A25-N35:Z4-D40</hiero>}}
+|[[ХІуни]] (Ḥwnj)
+|
+|-
+|45
+|{{Hiero/картуш|<hiero>ra:nb-kA</hiero>}}
+|Небкара (Nb-kȝ-Rˁ)
+|[[Небка]] (Nb-kȝ)
+|-
+|46
+|{{Hiero/картуш|<hiero>D45-t:t-M17</hiero>}}
+|Джосертети (Ḏsr-ttj)
+|[[Сехемхет]], ''Tyreis''
+|-
+|47
+|{{Hiero/картуш|<hiero>D45-r</hiero>}}
+|[[Джосер]] (Ḏsr)
+|
+|-
+|48
+|{{Hiero/картуш|<hiero>HASH-HASH-HASH</hiero>}}
+|''ХІуджифа*''
+|?
+|-
+| colspan="4" |<small>'''''*ХІуджифа''' абулеб рагІи ккола НекІсияб Египеталъул къаламчагІаз цІар лъаларев пиргІавнасул бакІалда тІокІцІар хІисабалда хъвалеб букІараб рагІи, жиндир магІнаги "гьечІо", "бацІцІун буго" абураб.''</small>
+|-
+! colspan="4" style="background-color: #FFFFDE;" |II наслу
+|-
+|49
+|{{Hiero/картуш|<hiero>b*b N21 i*i</hiero>}}
+|Бабти (Bbtj)
+|[[Хасехемуи]], ''Sesochris''
+|-
+|50
+|{{Hiero/картуш|<hiero>z:k:r:-nfr-kA</hiero>}}
+|Неферкасокар (Nfr-kȝ-Skr)
+|[[Сехемиб-Перенмаат]]?
+|-
+|51
+|{{Hiero/картуш|<hiero>ra-nfr-kA</hiero>}}
+|Неферкара(Nfr-kȝ-Rˁ)
+|[[Сет-Перибсен]]?
+|-
+|52
+|{{Hiero/картуш|<hiero>G54</hiero>}}
+|[[Сенеди]] (Snd.j)
+|
+|-
+|53
+|{{Hiero/картуш|<hiero>M13-F20:Z1:-F51</hiero>}}
+|Ваджлас(Wȝḏ-lȝs)
+|[[Венег]], ''Ougotlas''
+|-
+|54
+|{{Hiero/картуш|<hiero>W10A-G29-R8-X1:D21-G43</hiero>}}
+|Банечеру (Bȝ-nṯr-w)
+|[[Нинечер]], ''Binothris''
+|-
+|55
+|{{Hiero/картуш|<hiero>D28-D52:D52:D52</hiero>}}
+|Какау (Kȝ-kȝ.w)
+|[[Небра]], Ранеб<ref name="Stadelmann">[[Rainer Stadelmann]]: ''Die ägyptischen Pyramiden. Vom Ziegelbau zum Weltwunder'' (= ''[[Kulturgeschichte der Antiken Welt]].'' Band 30). 3., aktualisierte und erweiterte Auflage. Philipp von Zabern, Mainz 1997, ISBN 3-8053-1142-7.</ref>, ''Kechoôs''
+|-
+|56
+|{{Hiero/картуш|<hiero>R8-G30</hiero>}}
+|Баунечер (Nṯr-bȝ.w)
+|[[ХІотепсехемуи]],
+|-
+! colspan="4" style="background-color: #FFFFDE;" |I Наслу
+|-
+|57
+|{{Hiero/картуш|<hiero>q-b-H-w-W15</hiero>}}
+|КъибехІухенти (Qbḥ.w-ḫntj)
+|[[КъагІ]]
+|-
+|58
+|{{Hiero/картуш|<hiero>U7:r-Z4-N42*p:n</hiero>}}
+|Мерибиапен (Mr.ij-bjȝ-pn)
+|[[Анеджиб]], Аджиб
+|}
+
 
 == Балагье гьединго ==
 *[[Абидосалъул сияхІ| Абидосалъул сияхІ 2]]
