@@ -1,0 +1,941 @@
+{{Хъвай-хъвагІиялъул система|цІар=ГІараб алипба|цогидаб цІар={{Lang-ar|أَلْأَبْجَدِيَّة ٱلْعَرَبِيَّة}}|тайпа=[[абджадия]]|сурат=Arabic Language.svg|сураталъул гІеблъи=200px|гъоркьхъвай=|мацІал=[[ГІараб мацІ]]|гІуцІарав=|къо-моцІ=|публикация=|заман=III яги IV гІ. — жакъа къоялъги|статус=|fam1=[[Египеталъулал гьиероглифал|Египеталъулаб]]|fam2=[[Прото-Синаялъулаб хъвай-хъвагІи|Прото-Синаялъулаб]]|fam3=[[Финикъияб алипба|Финикъияб]]|fam4=[[Арамияб алипба |Арамияб]]|fam5=[[НабатІияб алипба|НабатІияб]]|хатІ кьаби=|ирсилал=|гІагарал=|iso15924=Arab|юникод={{ublist
+ |class=nowrap
+ |[https://www.unicode.org/charts/PDF/U0600.pdf U+0600–U+06FF]<br /> {{smaller|Arabic}},
+ |[https://www.unicode.org/charts/PDF/U0750.pdf U+0750–U+077F]<br /> {{smaller|Arabic Supplement}},  
+ |[https://www.unicode.org/charts/PDF/U08A0.pdf U+08A0–U+08FF]<br /> {{smaller|Arabic Extended-A}},
+ |[https://www.unicode.org/charts/PDF/UFB50.pdf U+FB50–U+FDFF]<br /> {{smaller|Arabic Presentation Forms-A}},
+ |[https://www.unicode.org/charts/PDF/UFE70.pdf U+FE70–U+FEFF]<br /> {{smaller|Arabic Presentation Forms-B}},
+ |[https://www.unicode.org/charts/PDF/U1EE00.pdf U+1EE00–U+1EEFF]<br /> {{smaller|Arabic Mathematical Alphabetic Symbols}}
+}}|баян=}}
+
+[[Файл:Arabic_alphabet_world_distribution.png|мини|400x400пкс|ГІараб хъвай-хъвагІи хІалтІизарулел пачалихъал: {{Legend|#00884B|цохІо бугеб расмияб хъвай-хъвагІи}}
+{{Legend|#83C30F|цогидаб расмияб хъвай-хъвагІигун бугеб}}]]
+
+'''ГІараб алипба''' ({{lang-ar|أَلْأَبْجَدِيَّة ٱلْعَرَبِيَّة}}, ''{{transl|ar|ALA|al-ʾabjadīyaḧ l-ʿarabīyah}}'' or {{lang|ar|أَلْحُرُوف ٱلْعَرَبِيَّة}}, ''{{transl|ar|al-ḥurūf l-ʿarabīyaḧ}}''), ялъуни '''ГІараб абджадия''', буго [[ГІараб хъвай-хъвагІи|гІараб хъвай-хъвагІиялда]] гІуцІараб алипба, жиндие [[ГІараб мацІ|гІараб мацІалда]] хъвадаризе кодификация гьабураб. Хъвай-хъвагІи буго кваранидаса квегІиде [[Курсив|курсивалдалъун]] ва гьелде гъорлъ буго 28 [[ХIарп|хІарп]]. ГІемерисел хІарпазул руго контекстиял хъвалел къагІидаби.
+
+ГІараб алипба рикІкІуна абджадиятлъун, ай жинда гъорлъ гІицІго [[рагьукъал гьаркьал]] (консонантал) рихьизарулел хІарпал хІалтІизабулеблъун, гьединго рикІкІуна гІараб алипба [[Жубараб абджадия|жубараб абджадиятлъун]] кколин абунги<ref>{{Cite book|title=Natural Language Processing of Semitic Languages|last=Zitouni|first=Imed|publisher=Springer Science & Business|year=2014|isbn=3642453589|location=|pages=15}}</ref>.
+
+Цогидал журарал абджадиятазда гІадин къаламчагІаза рахъана [[рагьарал гьаркьал]] рихьизаризе хасал [[хІаракаби]] ва [[диакритикал]].
+
+== Рагьукъал гьаркьал ==
+Аслияб гІараб алипбаялда буго 28 [[ХIарп|хІарп]]. 
+
+Цогидал мацІазе дандеккезабун гьабураб [[ГІараб хъвай-хъвагІи|гІараб хъвай-хъвагІиялде]] тІаде журан ялъуни тІаса рахъун руго чанго хІарп, мисалалъе, [[Парс мацІ|парс]], [[ГІусманияб турк мацІ|гІусманияб турк]], [[Курд мацІ|курд]], [[урду]], [[синди]], [[Малай мацІ|малай]], [[пушту]], [[арви]] ва [[ГІараб малаялам|малаялам]] мацІазда. ГІараб хІарпазул гьечІо бетІераб ва бетІераб гуреб формаби.
+
+ГІемералго хІарпал руго цоцазда релълъарал, амма жал бакъулъ ругел бутІабазда тІад ялъуни гъоркь ругел тІанкІаздалъун (нукъдабаздалъун) ратІарахъулел. Гьел тІанкІал ккола хІарпазул ратІатІоларел гІаламаталлъун, жидеца батІи-батІиял гьаркьал кьолел хІарпал цоцадаса ратІа гьарурел. Мисалалъе, ب (b), ت (t) ва ث (th) хІарпазул буго цого аслияб куц-мухъ, амма руго тІанкІал: цояб гъоркь, кІиго тІаса ва лъабго тІаса; ن (n) хІарпалъул байбихьуда ва гьоркьоб хъвалеб къагІида буго цого тІаса цо тІанкІгун, батІаго ва ахиралда хъ валел къагІидаби руго батІиял. 
+
+ГІараб хІарпазул басмаялъул ва кверзул хъвалеб къагІида ккола [[Курсив|курсивлъун]], рагІиялда жаниб гІемерисел хІарпазул букІуна аскІор ругезулгун бухьен.
+
+=== Алипбаялъулаб тартиб ===
+ГІараб алипбаялъул хІарпазул буго кІиго батІияб тартиб (коллация): абджадия ва гьиджаи (алифбаи). 
+
+Оригиналияб абджадия ({{lang|ar|أَبْجَدِيّ}}) таритиб, жиб {{iw|леттерингалъе|||Lettering}} хІалтІизабулеб, лъугьараб буго финикъияб алипбаялъул тартибалдаса, ва гьелъ гьеб релълъараб буго [[Финикъияб алипба|финикъияб алипбаялдаса]] лъугьарал цогидал алипбаязул тартибалда, мисалалъе, [[Гьибрит алипба|гьибрит алипбаялъул]] тартибалда. Гьеб тартибалда хІарпал гьединго хІалтІизарула цифраби хІисабалдаги, [[Абджадияталъул цифраби|Абджадияталъул цифрабазул]] буго гьибрит [[Гематрия|гематриялъулги]] грек [[Изопсефия|изопсефиялъулги]] гІадаб алипбагун цифрабазулаб код/[[шифр]]
+
+Гьиджаи ({{lang|ar|هِجَائِي}}) ялъуни алифбаи ({{lang|ar|أَلِفْبَائِي}}) буго гьанжесеб тартиб, жинда жаниб хІарпал куц-мухъалда рекъон цадахъ лъурал, гьеб тартиб хІалтІизабула, телефоназул тІахьал, къамусал гІадал цІаразул ва рагІабазул сияхІазда.
+
+==== Абджади ====
+Абджади тартиб кколаро цебесеб шималияб семит алипбаялъул тартибалъул гІадатияб ирсилаблъун, гьелда жаниб буго бакІ, жиб арамияб  самех/семкат {{lang|he|ס}} хІарпалъе данде кколеб, амма гьеб арамияб хІарпалдаса лъугьараб цониги хІарп гьечІо гІараб алипбаялда. Самех тІагІиналъул бакІалде ש шин хІарпалдаса лъугьана кІиго цоцада рачІел гІараб хІарпал,  {{lang|ar|ش}} (''шин'') ва {{lang|ar|ﺱ}} (''син''), жал самехалъул бакІалде рачІарал. Анлъго цогидаб хІарп, жидер аналогал цониги шималияб алипалда гьечІел, лъун руго ахиралда
+{| class="wikitable" style="text-align:center;"
+|+Абджадиялъул гІаммаб тартиб
+|{{lang|ar|غ}}
+|{{lang|ar|ظ}}
+|{{lang|ar|ض}}
+|{{lang|ar|ذ}}
+|{{lang|ar|خ}}
+|{{lang|ar|ث}}
+|{{lang|ar|ت}}
+|{{lang|ar|ش}}
+|{{lang|ar|ر}}
+|{{lang|ar|ق}}
+|{{lang|ar|ص}}
+|{{lang|ar|ف}}
+|{{lang|ar|ع}}
+|{{lang|ar|س}}
+|{{lang|ar|ن}}
+|{{lang|ar|م}}
+|{{lang|ar|ل}}
+|{{lang|ar|ك}}
+|{{lang|ar|ي}}
+|{{lang|ar|ط}}
+|{{lang|ar|ح}}
+|{{lang|ar|ز}}
+|{{lang|ar|و}}
+|{{lang|ar|ه}}
+|{{lang|ar|د}}
+|{{lang|ar|ج}}
+|{{lang|ar|ب}}
+|{{lang|ar|أ}}
+|-
+|{{transl|ar|gh}}
+|{{transl|ar|ẓ}}
+|{{transl|ar|ḍ}}
+|{{transl|ar|dh}}
+|{{transl|ar|kh}}
+|{{transl|ar|th}}
+|{{transl|ar|t}}
+|{{transl|ar|sh}}
+|{{transl|ar|r}}
+|{{transl|ar|q}}
+|{{transl|ar|ṣ}}
+|{{transl|ar|f}}
+|'''{{transl|ar|ʿ}}'''
+|{{transl|ar|s}}
+|{{transl|ar|n}}
+|{{transl|ar|m}}
+|{{transl|ar|l}}
+|{{transl|ar|k}}
+|{{transl|ar|y}}
+|{{transl|ar|ṭ}}
+|{{transl|ar|ḥ}}
+|{{transl|ar|z}}
+|{{transl|ar|w}}
+|{{transl|ar|h}}
+|{{transl|ar|d}}
+|{{transl|ar|j}}
+|{{transl|ar|b}}
+|{{transl|ar|ʾ}}
+|- style="color:gray"
+|28
+|27
+|26
+|25
+|24
+|23
+|22
+|21
+|20
+|19
+|18
+|17
+|16
+|15
+|14
+|13
+|12
+|11
+|10
+|09
+|08
+|07
+|06
+|05
+|04
+|03
+|02
+|01
+|-
+| colspan="2" bgcolor="yellow" |
+| colspan="1" bgcolor="yellow" |
+| colspan="4" bgcolor="lightgrey" |
+| colspan="1" bgcolor="pink" |
+| colspan="2" bgcolor="lightgrey" |
+| colspan="1" bgcolor="yellow" |
+| colspan="2" bgcolor="lightgrey" |
+| colspan="1" bgcolor="pink" |
+| colspan="14" bgcolor="lightgrey" |
+|}
+Гьелъул вокализация гІемерисеб гьабула хадусеб къагІидаялъ:
+
+: ''{{transl|ar|ʾabjad hawwaz ḥuṭṭī kalaman saʿfaṣ qarashat thakhadh ḍaẓagh}}''.
+
+Цогидаб вокализация:
+
+: ''{{transl|ar|ʾabujadin hawazin ḥuṭiya kalman saʿfaṣ qurishat thakhudh ḍaẓugh}}''{{cn|date=February 2018}}
+
+{| class="wikitable" style="text-align:center;"
+|+Абджадиялъул магърибияб тартиб (батизе бегьула бищун цебесеблъун)<ref name="magb">{{in lang|ar}} [http://alyaseer.net/vb/showthread.php?t=8807 Alyaseer.net {{lang|ar|ترتيب المداخل والبطاقات في القوائم والفهارس الموضوعية}} Ordering entries and cards in subject indexes] Discussion thread ''(Accessed 2009-October–06)''</ref>
+|{{lang|ar|ش}}
+|{{lang|ar|غ}}
+|{{lang|ar|ظ}}
+|{{lang|ar|ذ}}
+|{{lang|ar|خ}}
+|{{lang|ar|ث}}
+|{{lang|ar|ت}}
+|{{lang|ar|س}}
+|{{lang|ar|ر}}
+|{{lang|ar|ق}}
+|{{lang|ar|ض}}
+|{{lang|ar|ف}}
+|{{lang|ar|ع}}
+|{{lang|ar|ص}}
+|{{lang|ar|ن}}
+|{{lang|ar|م}}
+|{{lang|ar|ل}}
+|{{lang|ar|ك}}
+|{{lang|ar|ي}}
+|{{lang|ar|ط}}
+|{{lang|ar|ح}}
+|{{lang|ar|ز}}
+|{{lang|ar|و}}
+|{{lang|ar|ه}}
+|{{lang|ar|د}}
+|{{lang|ar|ج}}
+|{{lang|ar|ب}}
+|{{lang|ar|أ}}
+|-
+|{{transl|ar|sh}}
+|{{transl|ar|gh}}
+|{{transl|ar|ẓ}}
+|{{transl|ar|dh}}
+|{{transl|ar|kh}}
+|{{transl|ar|th}}
+|{{transl|ar|t}}
+|{{transl|ar|s}}
+|{{transl|ar|r}}
+|{{transl|ar|q}}
+|{{transl|ar|ḍ}}
+|{{transl|ar|f}}
+|'''{{transl|ar|ʿ}}'''
+|{{transl|ar|ṣ}}
+|{{transl|ar|n}}
+|{{transl|ar|m}}
+|{{transl|ar|l}}
+|{{transl|ar|k}}
+|{{transl|ar|y}}
+|{{transl|ar|ṭ}}
+|{{transl|ar|ḥ}}
+|{{transl|ar|z}}
+|{{transl|ar|w}}
+|{{transl|ar|h}}
+|{{transl|ar|d}}
+|{{transl|ar|j}}
+|{{transl|ar|b}}
+|{{transl|ar|ʾ}}
+|- style="color:gray"
+|28
+|27
+|26
+|25
+|24
+|23
+|22
+|21
+|20
+|19
+|18
+|17
+|16
+|15
+|14
+|13
+|12
+|11
+|10
+|09
+|08
+|07
+|06
+|05
+|04
+|03
+|02
+|01
+|-
+| colspan="1" bgcolor="pink" |
+| colspan="2" bgcolor="yellow" |
+| colspan="4" bgcolor="lightgrey" |
+| colspan="1" bgcolor="pink" |
+| colspan="2" bgcolor="lightgrey" |
+| colspan="1" bgcolor="yellow" |
+| colspan="2" bgcolor="lightgrey" |
+| colspan="1" bgcolor="yellow" |
+| colspan="14" bgcolor="lightgrey" |
+|-
+| colspan="28" bgcolor="lightgrey" style="font-size: 70%; font-style: italic;" |Кьераз рихьизарун руго хІарпал, жидер цебесеб таблицаялде данде ккун батІиял бакІазда ругел
+|}
+Гьелъул вокализация гьабизе бегьула:
+
+: ''{{transl|ar|ʾabujadin hawazin ḥuṭiya kalman ṣaʿfaḍ qurisat thakhudh ẓaghush}}''
+
+==== ГІиджаи ====
+Гьанжесел къамусазда ва баянтІахьазда абджадиялъул тартибалъул бакІалда хІалтІизабула цІияб гьиджаи тартиб ''{{transl|ar|hijāʾī}}'', жинда жаниб хІарпазул тартиб гІемерисеб гьезул куц-мухъалда рекъон гІуцІараб. Гьиджаи тартиб киданиги хІалтІизабуларо цифраби хІизабалда.
+{| class="wikitable" style="text-align:center;"
+|+ГІаммаб гьиджаиялъул тартиб
+|{{lang|ar|ي}}
+|{{lang|ar|و}}
+|{{lang|ar|ه}}
+|{{lang|ar|ن}}
+|{{lang|ar|م}}
+|{{lang|ar|ل}}
+|{{lang|ar|ك}}
+|{{lang|ar|ق}}
+|{{lang|ar|ف}}
+|{{lang|ar|غ}}
+|{{lang|ar|ع}}
+|{{lang|ar|ظ}}
+|{{lang|ar|ط}}
+|{{lang|ar|ض}}
+|{{lang|ar|ص}}
+|{{lang|ar|ش}}
+|{{lang|ar|س}}
+|{{lang|ar|ز}}
+|{{lang|ar|ر}}
+|{{lang|ar|ذ}}
+|{{lang|ar|د}}
+|{{lang|ar|خ}}
+|{{lang|ar|ح}}
+|{{lang|ar|ج}}
+|{{lang|ar|ث}}
+|{{lang|ar|ت}}
+|{{lang|ar|ب}}
+|{{lang|ar|ا}}
+|-
+|{{transl|ar|y}}
+|{{transl|ar|w}}
+|{{transl|ar|h}}
+|{{transl|ar|n}}
+|{{transl|ar|m}}
+|{{transl|ar|l}}
+|{{transl|ar|k}}
+|{{transl|ar|q}}
+|{{transl|ar|f}}
+|{{transl|ar|gh}}
+|'''{{transl|ar|ʿ}}'''
+|{{transl|ar|ẓ}}
+|{{transl|ar|ṭ}}
+|{{transl|ar|ḍ}}
+|{{transl|ar|ṣ}}
+|{{transl|ar|sh}}
+|{{transl|ar|s}}
+|{{transl|ar|z}}
+|{{transl|ar|r}}
+|{{transl|ar|dh}}
+|{{transl|ar|d}}
+|{{transl|ar|kh}}
+|{{transl|ar|ḥ}}
+|{{transl|ar|j}}
+|{{transl|ar|th}}
+|{{transl|ar|t}}
+|{{transl|ar|b}}
+|{{transl|ar|ā}}
+|-
+| colspan="3" bgcolor="lightgrey" |
+| colspan="4" bgcolor="lightgreen" |
+| colspan="4" bgcolor="lightblue" |
+| colspan="2" bgcolor="lightgreen" |
+| colspan="2" bgcolor="lightblue" |
+| colspan="2" bgcolor="pink" |
+| colspan="11" bgcolor="lightgrey" |
+|}
+Гьиджаиялъул батІияб тайпа хІалтІизабулаан [[Магъриб|Магърибалда]], амма гьеб дагьаб цебегІан хисана [[Машрикъ|машрикъияб]] тартибалъ<ref name="magb2" />.
+{| class="wikitable" style="text-align:center;"
+|+Гьиджаиялъул магърибияб тартиб
+|{{lang|ar|ي}}
+|{{lang|ar|و}}
+|{{lang|ar|ه}}
+|{{lang|ar|ش}}
+|{{lang|ar|س}}
+|{{lang|ar|ق}}
+|{{lang|ar|ف}}
+|{{lang|ar|غ}}
+|{{lang|ar|ع}}
+|{{lang|ar|ض}}
+|{{lang|ar|ص}}
+|{{lang|ar|ن}}
+|{{lang|ar|م}}
+|{{lang|ar|ل}}
+|{{lang|ar|ك}}
+|{{lang|ar|ظ}}
+|{{lang|ar|ط}}
+|{{lang|ar|ز}}
+|{{lang|ar|ر}}
+|{{lang|ar|ذ}}
+|{{lang|ar|د}}
+|{{lang|ar|خ}}
+|{{lang|ar|ح}}
+|{{lang|ar|ج}}
+|{{lang|ar|ث}}
+|{{lang|ar|ت}}
+|{{lang|ar|ب}}
+|{{lang|ar|ا}}
+|-
+|{{transl|ar|y}}
+|{{transl|ar|w}}
+|{{transl|ar|h}}
+|{{transl|ar|sh}}
+|{{transl|ar|s}}
+|{{transl|ar|q}}
+|{{transl|ar|f}}
+|{{transl|ar|gh}}
+|'''{{transl|ar|ʿ}}'''
+|{{transl|ar|ḍ}}
+|{{transl|ar|ṣ}}
+|{{transl|ar|n}}
+|{{transl|ar|m}}
+|{{transl|ar|l}}
+|{{transl|ar|k}}
+|{{transl|ar|ẓ}}
+|{{transl|ar|ṭ}}
+|{{transl|ar|z}}
+|{{transl|ar|r}}
+|{{transl|ar|dh}}
+|{{transl|ar|d}}
+|{{transl|ar|kh}}
+|{{transl|ar|ḥ}}
+|{{transl|ar|j}}
+|{{transl|ar|th}}
+|{{transl|ar|t}}
+|{{transl|ar|b}}
+|{{transl|ar|ā}}
+|-
+| colspan="3" bgcolor="lightgrey" |
+| colspan="2" bgcolor="pink" |
+| colspan="4" bgcolor="lightblue" |
+| colspan="2" bgcolor="lightblue" |
+| colspan="4" bgcolor="lightgreen" |
+| colspan="2" bgcolor="lightgreen" |
+| colspan="11" bgcolor="lightgrey" |
+|-
+| colspan="28" bgcolor="lightgrey" style="font-size: 70%; font-style: italic;" |Кьераз рихьизарун руго хІарпал, жидер цебесеб таблицаялде данде ккун батІияб бакІ бугел
+|}
+
+=== ХІарпазул къагІидаби ===
+{{Calligraphy}} ГІараб алипба кидаго ккола курсивлъун, жидер рагІиялда жаниб бугеб бакІалде балагьун хІарпазул рукІуна батІи-батІиял хъвалел къагІидаби. ХІарпазул букІине бегьула ункъгоялде гІунтІун батІияб хъвалеб куц, жал байбихьул (инициал), гьоркьохъеб (медиал), ахираб (финал) ва жибго бугеб (изолят) бакІазде данде кколел    ([[IMFI]]). Цо-цо хІарпазул хъвалеб къагІидаялъул гІемерго батІалъи бугеб мехалъ, цогидал хІарпал гІемерисел хисичІого хутІула ункъабго хъвалеб бакІалда. ГІаммаб къагІидаялда цого рагІабазда жаниб хІарбал цоцада рухьуна къокъаб мухъалдалъун, амма анлъго хІарп ({{lang|ar|و ,ز ,ر ,ذ ,د ,ا}}) хурхинаризе бегьула гІицго цебехун (кваранидехун) бугеб хІарпалда. Мисалалъе, {{lang|ar|أرارات}} ([[Арарат мегІер|Арарат]]) рагІиялда киналго хІарпал руго ратІаго хъвалеллъун, щай гурелъул гьел хІарпал рухьинарун бажаруларо хадусезда. Гьединго цоцо рагІабазул комбинациял хъвала [[Лигатура (хІарпазул бухьен)|лигатураби]] (хасал формаби) гІадин, масала, ''{{transl|ar|лам-алиф}}'' {{lang|ar|لا}}<ref>{{cite book|title=Writing Systems: A Linguistic Approach|author=Rogers, Henry|publisher=Blackwell Publishing|year=2005|page=135}}</ref>, жиб хъвазе тІадаблъун бугеб ({{lang|ar|لـا}} лигатурияб гуреб комбинация цІализе захІматаблъун рикІкІуна)
+
+==== Аслиял хІарпазул таблица ====
+{{other uses|Arabic script}}
+{| class="wikitable sortable" style="text-align:center;"
+|+Arabic letters usage in Literary Arabic
+! colspan="2" |Common
+! colspan="2" |[[Maghreb|Maghrebian]]
+! rowspan="2" |Letter
+name
+
+(Classical pronunciation)
+! rowspan="2" |Letter
+name in Arabic script
+! rowspan="2" |[[Romanization of Arabic|Trans-literation]]
+! rowspan="2" |Value in Literary Arabic ([[International Phonetic Alphabet|IPA]])
+! rowspan="2" |Closest English equivalent in pronunciation
+! colspan="3" |Contextual forms
+! rowspan="2" |Isolated
+form
+|-
+!ʾAbjadī
+!Hijāʾī
+!ʾAbjadī
+!Hijāʾī
+!Final
+!Medial
+!Initial
+|-
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!&nbsp;<!-- separate row for sort icons -->
+|-
+|1.
+|1.
+|1.
+|1.
+|''{{transl|ar|ALA|ʾalif}}''
+|{{lang|ar|أَلِف}}
+|''{{transl|ar|ALA|ā}}'' / <big>{{transl|ar|ALA|ʾ}}</big>
+(also&nbsp;<big>''{{transl|ar|DIN|â}}''</big>&nbsp;)
+|various,
+including [[Open front unrounded vowel|{{IPA|/aː/}}]], ∅{{efn|''{{transl|ar|ALA|Alif}}'' can represent many phonemes. See the section on [[#Alif|ʾalif]].}}
+|''c'''a'''r'', ''c'''a'''t''
+| colspan="2" |{{huge|{{lang|ar|ـا}}}}
+| colspan="2" |{{huge|{{lang|ar|[[ا]]}}}}
+|-
+|2.
+|2.
+|2.
+|2.
+|''{{transl|ar|ALA|bāʾ}}''
+|{{lang|ar|بَاء}}
+|''{{transl|ar|ALA|b}}''
+|{{IPAslink|b}}{{efn|See the section on [[#Non-native letters to Standard Arabic|non-native letters and sounds]]; the letters ⟨[[ك]]⟩ ,⟨[[ق]]⟩ ,⟨[[غ]]⟩ ,⟨[[ج]]⟩ are sometimes used to transcribe the phoneme {{IPAslink|g}} in loanwords, ⟨[[ب]]⟩ to transcribe {{IPAslink|p}} and ⟨[[ف]]⟩ to transcribe {{IPAslink|v}}. Likewise the letters ⟨[[و]]⟩ and ⟨[[ي]]⟩ are used to transcribe the vowels {{IPAslink|oː}} and {{IPAslink|eː}} respectively in loanwords and dialects.|name=non-native}}
+|'''''b'''arn''
+|{{huge|{{lang|ar|ـب}}}}
+|{{huge|{{lang|ar|ـبـ}}}}
+|{{huge|{{lang|ar|بـ}}}}
+|{{huge|{{lang|ar|[[ب]]}}}}
+|-
+|22.
+|3.
+|22.
+|3.
+|''{{transl|ar|ALA|tāʾ}}''
+|{{lang|ar|تَاء}}
+|''{{transl|ar|ALA|t}}''
+|{{IPAslink|t}}
+|''s'''t'''ick''
+|{{huge|{{lang|ar|ـت}}}}
+|{{huge|{{lang|ar|ـتـ}}}}
+|{{huge|{{lang|ar|تـ}}}}
+|{{huge|{{lang|ar|[[ت]]}}}}
+|-
+|23.
+|4.
+|23.
+|4.
+|''{{transl|ar|ALA|thāʾ}}''
+|{{lang|ar|ثَاء}}
+|''{{transl|ar|ALA|th}}''
+(also&nbsp;''{{transl|ar|DIN|ṯ}}''&nbsp;)
+|{{IPAslink|θ}}
+|'''''th'''ink''
+|{{huge|{{lang|ar|ـث}}}}
+|{{huge|{{lang|ar|ـثـ}}}}
+|{{huge|{{lang|ar|ثـ}}}}
+|{{huge|{{lang|ar|[[ث]]}}}}
+|-
+|3.
+|5.
+|3.
+|5.
+|''{{transl|ar|jīm}}''
+|{{lang|ar|جِيم}}
+|''{{transl|ar|j}}''
+(also&nbsp;''{{transl|ar|DIN|ǧ}}''&nbsp;)
+|{{IPAslink|d͡ʒ}}{{efn|name=non-native}}{{efn|{{lang|ar|ج}} is pronounced differently depending on the region. See [[Arabic phonology#Consonants]].}}
+|'''''g'''em''
+|{{huge|{{lang|ar|ـج}}}}
+|{{huge|{{lang|ar|ـجـ}}}}
+|{{huge|{{lang|ar|جـ}}}}
+|{{huge|{{lang|ar|[[ج]]}}}}
+|-
+|8.
+|6.
+|8.
+|6.
+|''{{transl|ar|ALA|ḥāʾ}}''
+|{{lang|ar|حَاء}}
+|''{{transl|ar|ALA|ḥ}}''
+(also&nbsp;''{{transl|ar|UNGEGN|ḩ}}''&nbsp;)
+|{{IPAslink|ħ}}
+|no equivalent
+("guttural" ''h'', may be approximated as '''<u>''h''</u>'''eart)
+|{{huge|{{lang|ar|ـح}}}}
+|{{huge|{{lang|ar|ـحـ}}}}
+|{{huge|{{lang|ar|حـ}}}}
+|{{huge|{{lang|ar|[[ح]]}}}}
+|-
+|24.
+|7.
+|24.
+|7.
+|''{{transl|ar|ALA|khāʾ}}''
+|{{lang|ar|خَاء}}
+|''{{transl|ar|ALA|kh}}''
+(also&nbsp;''{{transl|ar|DIN|ḫ}},&nbsp;{{transl|ar|Wehr|ḵ}}'',&nbsp;''{{transl|ar|ISO|ẖ}}''&nbsp;)
+|{{IPAslink|x}}
+|Scottish ''lo'''ch'''''
+|{{huge|{{lang|ar|ـخ}}}}
+|{{huge|{{lang|ar|ـخـ}}}}
+|{{huge|{{lang|ar|خـ}}}}
+|{{huge|{{lang|ar|[[خ]]}}}}
+|-
+|4.
+|8.
+|4.
+|8.
+|''{{transl|ar|ALA|dāl}}''
+|{{lang|ar|دَال}}
+|''{{transl|ar|ALA|d}}''
+|{{IPAslink|d}}
+|'''''d'''ear''
+| colspan="2" |{{huge|{{lang|ar|ـد}}}}
+| colspan="2" |{{huge|{{lang|ar|[[د]]}}}}
+|-
+|25.
+|9.
+|25.
+|9.
+|''{{transl|ar|ALA|dhāl}}''
+|{{lang|ar|ذَال}}
+|''{{transl|ar|ALA|dh}}''
+(also&nbsp;''{{transl|ar|DIN|ḏ}}''&nbsp;)
+|{{IPAslink|ð}}
+|'''''th'''at''
+| colspan="2" |{{huge|{{lang|ar|ـذ}}}}
+| colspan="2" |{{huge|{{lang|ar|[[ذ]]}}}}
+|-
+|20.
+|10.
+|20.
+|10.
+|''{{transl|ar|ALA|rāʾ}}''
+|{{lang|ar|رَاء}}
+|''{{transl|ar|ALA|r}}''
+|{{IPAslink|r}}
+|No English equivalent, Spanish rolled r as in ''pe'''rr'''o''
+| colspan="2" |{{huge|{{lang|ar|ـر}}}}
+| colspan="2" |{{huge|{{lang|ar|[[ر]]}}}}
+|-
+|7.
+|11.
+|7.
+|11.
+|''{{transl|ar|ALA|zāy}} / {{transl|ar|ALA|zayn}}''
+|{{lang|ar|زَاي}}
+|''{{transl|ar|ALA|z}}''
+|{{IPAslink|z}}
+|'''''z'''ebra''
+| colspan="2" |{{huge|{{lang|ar|ـز}}}}
+| colspan="2" |{{huge|{{lang|ar|[[ز]]}}}}
+|-
+|15.
+|12.
+|21.
+|24.
+|''{{transl|ar|ALA|sīn}}''
+|{{lang|ar|سِين}}
+|''{{transl|ar|ALA|s}}''
+|{{IPAslink|s}}
+|'''''s'''in''
+|{{huge|{{lang|ar|ـس}}}}
+|{{huge|{{lang|ar|ـسـ}}}}
+|{{huge|{{lang|ar|سـ}}}}
+|{{huge|{{lang|ar|[[س]]}}}}
+|-
+|21.
+|13.
+|28.
+|25.
+|''{{transl|ar|ALA|shīn}}''
+|{{lang|ar|شِين}}
+|''{{transl|ar|ALA|sh}}''
+(also&nbsp;''{{transl|ar|DIN|š}}''&nbsp;)
+|{{IPAslink|ʃ}}
+|'''''sh'''in''
+|{{huge|{{lang|ar|ـش}}}}
+|{{huge|{{lang|ar|ـشـ}}}}
+|{{huge|{{lang|ar|شـ}}}}
+|{{huge|{{lang|ar|[[ش]]}}}}
+|-
+|18.
+|14.
+|15.
+|18.
+|''{{transl|ar|ALA|ṣād}}''
+|{{lang|ar|صَاد}}
+|''{{transl|ar|ALA|ṣ}}''
+(also&nbsp;''{{transl|ar|UNGEGN|ş}}''&nbsp;)
+|{{IPAslink|sˤ}}
+|no equivalent
+(can be approximated with '''''s'''auce'', but with the throat constricted)
+|{{huge|{{lang|ar|ـص}}}}
+|{{huge|{{lang|ar|ـصـ}}}}
+|{{huge|{{lang|ar|صـ}}}}
+|{{huge|{{lang|ar|[[ص]]}}}}
+|-
+|26.
+|15.
+|18.
+|19.
+|''{{transl|ar|ALA|ḍād}}''
+|{{lang|ar|ضَاد}}
+|''{{transl|ar|ALA|ḍ}}''
+(also&nbsp;''{{transl|ar|UNGEGN|ḑ}}''&nbsp;)
+|{{IPAslink|dˤ}}
+|no equivalent
+(can be approximated with '''''d'''awn'', but with the throat constricted)
+|{{huge|{{lang|ar|ـض}}}}
+|{{huge|{{lang|ar|ـضـ}}}}
+|{{huge|{{lang|ar|ضـ}}}}
+|{{huge|{{lang|ar|[[ض]]}}}}
+|-
+|9.
+|16.
+|9.
+|12.
+|''{{transl|ar|ALA|ṭāʾ}}''
+|{{lang|ar|طَاء}}
+|''{{transl|ar|ALA|ṭ}}''
+(also&nbsp;''{{transl|ar|UNGEGN|ţ}}''&nbsp;)
+|{{IPAslink|tˤ}}
+|no equivalent
+(can be approximated with ''s'''t'''all'', but with the throat constricted)
+|{{huge|{{lang|ar|ـط}}}}
+|{{huge|{{lang|ar|ـطـ}}}}
+|{{huge|{{lang|ar|طـ}}}}
+|{{huge|{{lang|ar|[[ط]]}}}}
+|-
+|27.
+|17.
+|26.
+|13.
+|''{{transl|ar|ALA|ẓāʾ}}''
+|{{lang|ar|ظَاء}}
+|''{{transl|ar|ALA|ẓ}}''
+(also&nbsp;''{{transl|ar|UNGEGN|z̧}}''&nbsp;)
+|{{IPAslink|ðˤ}}
+|no equivalent
+(can be approximated with ''fa'''th'''er'', but with the throat constricted)
+|{{huge|{{lang|ar|ـظ}}}}
+|{{huge|{{lang|ar|ـظـ}}}}
+|{{huge|{{lang|ar|ظـ}}}}
+|{{huge|{{lang|ar|[[ظ]]}}}}
+|-
+|16.
+|18.
+|16.
+|20.
+|''{{transl|ar|ALA|ʿayn}}''
+|{{lang|ar|عَيْن}}
+|''{{transl|ar|ALA|ʿ}}''
+|{{IPAslink|ʕ}}
+|no equivalent
+("guttural" voiced ''h''; similar to ''ḥāʾ'' above)
+|{{huge|{{lang|ar|ـع}}}}
+|{{huge|{{lang|ar|ـعـ}}}}
+|{{huge|{{lang|ar|عـ}}}}
+|{{huge|{{lang|ar|[[ع]]}}}}
+|-
+|28.
+|19.
+|27.
+|21.
+|''{{transl|ar|ALA|ghayn}}''
+|{{lang|ar|غَيْن}}
+|''{{transl|ar|ALA|gh}}''
+(also&nbsp;''{{transl|ar|DIN|ġ}},&nbsp;{{transl|ar|Wehr|ḡ}}''&nbsp;)
+|{{IPAslink|ɣ}}{{efn|name=non-native}}
+|no equivalent
+Spanish ''hi'''g'''o''
+|{{huge|{{lang|ar|ـغ}}}}
+|{{huge|{{lang|ar|ـغـ}}}}
+|{{huge|{{lang|ar|غـ}}}}
+|{{huge|{{lang|ar|[[غ]]}}}}
+|-
+|17.
+|20.
+|17.
+|22.
+|''{{transl|ar|ALA|fāʾ}}''
+|{{lang|ar|فَاء}}
+|''{{transl|ar|ALA|f}}''
+|{{IPAslink|f}}{{efn|name=non-native}}
+|'''''f'''ar''
+|{{huge|{{lang|ar|ـف}}}}
+|{{huge|{{lang|ar|ـفـ}}}}
+|{{huge|{{lang|ar|فـ}}}}
+|{{huge|{{lang|ar|[[ف]]}}}}{{efn|See the section on [[#Regional variations|regional variations]] in letter form.|name=regional-variation}}
+|-
+|19.
+|21.
+|19.
+|23.
+|''{{transl|ar|ALA|qāf}}''
+|{{lang|ar|قَاف}}
+|''{{transl|ar|ALA|q}}''
+|{{IPAslink|q}}{{efn|name=non-native}}
+|no equivalent
+(similar to '''''c'''aught'', but pronounced further back in the mouth.)
+|{{huge|{{lang|ar|ـق}}}}
+|{{huge|{{lang|ar|ـقـ}}}}
+|{{huge|{{lang|ar|قـ}}}}
+|{{huge|{{lang|ar|[[ق]]}}}}{{efn|name=regional-variation}}
+|-
+|11.
+|22.
+|11.
+|14.
+|''{{transl|ar|ALA|kāf}}''
+|{{lang|ar|كَاف}}
+|''{{transl|ar|ALA|k}}''
+|{{IPAslink|k}}{{efn|name=non-native}}
+|'''''c'''ap''
+|{{huge|{{lang|ar|ـك}}}}
+|{{huge|{{lang|ar|ـكـ}}}}
+|{{huge|{{lang|ar|كـ}}}}
+|{{huge|{{lang|ar|[[ك]]}}}}
+|-
+|12.
+|23.
+|12.
+|15.
+|''{{transl|ar|ALA|lām}}''
+|{{lang|ar|لاَم}}
+|''{{transl|ar|ALA|l}}''
+|{{IPAslink|l}}
+|'''''l'''amp''
+|{{huge|{{lang|ar|ـل}}}}
+|{{huge|{{lang|ar|ـلـ}}}}
+|{{huge|{{lang|ar|لـ}}}}
+|{{huge|{{lang|ar|[[ل]]}}}}
+|-
+|13.
+|24.
+|13.
+|16.
+|''{{transl|ar|ALA|mīm}}''
+|{{lang|ar|مِيم}}
+|''{{transl|ar|ALA|m}}''
+|{{IPAslink|m}}
+|'''''m'''e''
+|{{huge|{{lang|ar|ـم}}}}
+|{{huge|{{lang|ar|ـمـ}}}}
+|{{huge|{{lang|ar|مـ}}}}
+|{{huge|{{lang|ar|[[م]]}}}}
+|-
+|14.
+|25.
+|14.
+|17.
+|''{{transl|ar|ALA|nūn}}''
+|{{lang|ar|نُون}}
+|''{{transl|ar|ALA|n}}''
+|{{IPAslink|n}}
+|'''''n'''un''
+|{{huge|{{lang|ar|ـن}}}}
+|{{huge|{{lang|ar|ـنـ}}}}
+|{{huge|{{lang|ar|نـ}}}}
+|{{huge|{{lang|ar|[[ن]]}}}}
+|-
+|5.
+|26.
+|5.
+|26.
+|''{{transl|ar|ALA|hāʾ}}''
+|{{lang|ar|هَاء}}
+|''{{transl|ar|ALA|h}}''
+|{{IPAslink|h}}
+|'''''h'''at''
+|{{huge|{{lang|ar|ـه}}}}
+|{{huge|{{lang|ar|ـهـ}}}}
+|{{huge|{{lang|ar|هـ}}}}
+|{{huge|{{lang|ar|[[ه]]}}}}
+|-
+|6.
+|27.
+|6.
+|27.
+|''{{transl|ar|ALA|wāw}}''
+|{{lang|ar|وَاو}}
+|''{{transl|ar|ALA|w}} / {{transl|ar|ALA|ū}}'' / ∅
+|{{IPAslink|w}}, {{IPAslink|uː}}, ∅{{efn|name=non-native}}
+|'''''w'''et'', ''p'''oo'''l''
+| colspan="2" |{{huge|{{lang|ar|ـو}}}}
+| colspan="2" |{{huge|{{lang|ar|[[و]]}}}}
+|-
+|10.
+|28.
+|10.
+|28.
+|''{{transl|ar|ALA|yāʾ}}''
+|{{lang|ar|يَاء}}
+|''{{transl|ar|ALA|y}} / {{transl|ar|ALA|ī}}''
+|{{IPAslink|j}}, {{IPAslink|iː}}{{efn|name=non-native}}
+|'''''Y'''oshi'', ''m'''ee'''t''
+|{{huge|{{lang|ar|ـي}}}}
+|{{huge|{{lang|ar|ـيـ}}}}
+|{{huge|{{lang|ar|يـ}}}}
+|{{huge|{{lang|ar|[[ي]]}}}}{{efn|name=regional-variation}}
+|-
+! colspan="13" |
+|-
+| colspan="4" rowspan="6" |(not counted as a letter in the alphabet but plays an important role in Arabic grammar and lexicon, including indication [denoting most irregular female nouns] and spelling)
+|[[Hamza|''hamzah'']]
+|{{lang|ar|هَمْزة}}
+| rowspan="5" |<big>''{{transl|ar|ALA|ʾ}}''</big>
+| rowspan="5" |{{IPAslink|ʔ}}
+| rowspan="5" |'''<u>''&nbsp;''</u>'''uh'''<u>''–''</u>'''oh
+(aka "[[Glottal stop#Occurrence|glottal stop]]")
+| colspan="5" |{{huge|{{lang|ar|ء}}}}
+(used mainly in medial and final position, which is an unlinked letter)
+|-
+| rowspan="2" |''ʾalif hamzah''
+| rowspan="2" |{{lang|ar|أَلِف هَمْزة}}
+| colspan="2" |{{huge|{{lang|ar|ـأ}}}}
+| colspan="2" |{{huge|{{lang|ar|أ}}}}
+|-
+| colspan="2" |{{huge|{{lang|ar|ـإ}}}}
+| colspan="2" |{{huge|{{lang|ar|إ}}}}
+|-
+|''wāw hamzah''
+|{{lang|ar|وَاو هَمْزة}}
+| colspan="2" |{{huge|{{lang|ar|ـؤ}}}}
+| colspan="2" |{{huge|{{lang|ar|ؤ}}}}
+|-
+|''yāʾ hamzah''
+|{{lang|ar|يَاء هَمْزة}}
+|{{huge|{{lang|ar|ـئ}}}}
+|{{huge|{{lang|ar|ـئـ}}}}
+|{{huge|{{lang|ar|ئـ}}}}
+|{{huge|{{lang|ar|ئ}}}}
+|-
+|''ʾalif maddah''
+|{{lang|ar|أَلِف مَدَّة}}
+|ʾā
+|/{{IPA link|ʔ}}{{IPA link|a}}{{IPA link|ː}}/
+|
+| colspan="2" |{{huge|{{lang|ar|ـآ}}}}
+| colspan="2" |{{huge|{{lang|ar|آ}}}}
+|}
+'''Notes'''
+
+{{notelist}}
+
+* See the article ''[[Romanization of Arabic]]'' for details on various transliteration schemes; however, Arabic language speakers may usually not follow a standardized scheme when transcribing names. Also names are regularly transcribed as pronounced locally, not as pronounced in [[Modern Standard Arabic|Literary Arabic]] (if they were of Arabic origin).
+* Regarding pronunciation, the phonemic values given are those of Modern Standard Arabic, which is taught in schools and universities. In practice, pronunciation may vary considerably from region to region. For more details concerning the pronunciation of Arabic, consult the articles ''[[Arabic phonology]]'' and ''[[varieties of Arabic]]''.
+* The names of the Arabic letters can be thought of as abstractions of an older version where they were meaningful words in the [[Proto-Semitic]] language. Names of Arabic letters may have quite different names popularly.
+* Six letters ({{lang|ar|و ز ر ذ د ا}}) do not have a distinct medial form and have to be written with their final form without being connected to the next letter. Their initial form matches the isolated form. The following letter is written in its initial form, or isolated form if it is the final letter in the word.
+* The letter ''{{transl|ar|ALA|alif}}'' originated in the [[Phoenician alphabet]] as a consonant-sign indicating a glottal stop. Today it has lost its function as a consonant, and, together with ''{{transl|ar|ALA|ya’}}'' and ''{{transl|ar|ALA|wāw}}'', is a ''[[mater lectionis]]'', a consonant sign standing in for a long vowel (see below), or as support for certain diacritics (''{{transl|ar|ALA|maddah}}'' and ''[[Hamza|{{transl|ar|ALA|hamzah}}]]'').
+* Arabic currently uses a [[diacritic]] sign, {{lang|ar|ء}}, called ''{{transl|ar|ALA|hamzah}}'', to denote the [[glottal stop]] {{IPA|[ʔ]}}, written alone or with a carrier:
+** alone: {{lang|ar|ء}}
+** with a carrier: {{lang|ar|إ أ}} (above or under a ''{{transl|ar|ALA|alif}}''), {{lang|ar|ؤ}} (above a ''{{transl|ar|ALA|wāw}}''), {{lang|ar|ئ}} (above a dotless ''{{transl|ar|ALA|yā’}}'' or ''{{transl|ar|ALA|yā’ hamzah}}'').
+
+: In academic work, the ''[[Hamza|{{transl|ar|ALA|hamzah}}]]'' ({{lang|ar|ء}}) is transliterated with the [[modifier letter right half ring]] (ʾ), while the [[modifier letter left half ring]] (ʿ) transliterates the letter ''[[Ayin|{{transl|ar|ALA|‘ayn}}]]'' ({{lang|ar|ع}}), which represents a different sound, not found in English.
+
+:: The ''{{transl|ar|ALA|hamzah}}'' has a single form, since it is never linked to a preceding or following letter. However, it is sometimes combined with a ''{{transl|ar|ALA|wāw}}'', ''{{transl|ar|ALA|yā’}}'', or ''{{transl|ar|ALA|alif}}'', and in that case the carrier behaves like an ordinary ''{{transl|ar|ALA|wāw}}'', ''{{transl|ar|ALA|yā’}}'', or ''{{transl|ar|ALA|alif}}''.
+
+==== Алиф ====
+
+==== Хисизарурал хІарпал ====
+
+==== Лигатураби ====
+
+==== Геминация ====
+
+==== Нунация ====
+
+== Рагьарал гьаркьал ==
+
+=== Къокъал рагьарал ===
+
+=== Халатал рагьарал ===
+
+=== Дифтонгал ===
+
+=== Рагьарал гьоркьор риччай ===
+
+== ТІадеги хІарпал ==
+
+=== Икълимиял вариантал ===
+
+=== Жиндирго гурел хІарпал стандартияб гІараб мацІалда ===
+
+=== ГІараб мацІалдаса батІиял мацІазда хІалтІизаби ===
+
+== Цифраби ==
+
+=== ХІарпал цифраби хІисабалда ===
+
+== Тарих ==
+
+=== ГІараб тІахьал кьабулел алатал ===
+
+== Компьютеризация ==
+
+=== Юникод ===
+
+=== Клавиатураби ===
+
+=== ХІатІ лъазаби ===
+
+== Балагье гьединго ==
+
+== ХІужжаби ==
+{{Reflist|30em}}
