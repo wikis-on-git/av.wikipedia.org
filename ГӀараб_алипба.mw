@@ -1,4 +1,4 @@
-{{Хъвай-хъвагІиялъул система|цІар=ГІараб алипба|цогидаб цІар={{Lang-ar|أَلْأَبْجَدِيَّة ٱلْعَرَبِيَّة}}|тайпа=[[абджадия]]|сурат=Arabic Language.svg|сураталъул гІеблъи=200px|гъоркьхъвай=|мацІал=[[ГІараб мацІ]]|гІуцІарав=|къо-моцІ=|публикация=|заман=III яги IV гІ. — жакъа къоялъги|статус=|fam1=[[Египеталъулал гьиероглифал|Египеталъулаб]]|fam2=[[Прото-Синаялъулаб хъвай-хъвагІи|Прото-Синаялъулаб]]|fam3=[[Финикъияб алипба|Финикъияб]]|fam4=[[Арамияб алипба |Арамияб]]|fam5=[[НабатІияб алипба|НабатІияб]]|хатІ кьаби=|ирсилал=|гІагарал=|iso15924=Arab|юникод={{ublist
+{{Хъвай-хъвагІиялъул система|цІар=ГІараб алипба|цогидаб цІар={{Lang-ar|أَلْأَبْجَدِيَّة ٱلْعَرَبِيَّة}}|тайпа=[[абджадия]]|мисал=Arabic Language.svg|сурат_гІеблъи=200px|гъоркьхъвай=|мацІал=[[ГІараб мацІ]]|гІуцІарав=|къо-моцІ=|публикация=|заман=III яги IV гІ. — жакъа къоялъги|статус=|fam1=[[Египеталъулал гьиероглифал|Египеталъулаб]]|fam2=[[Прото-Синаялъулаб хъвай-хъвагІи|Прото-Синаялъулаб]]|fam3=[[Финикъияб алипба|Финикъияб]]|fam4=[[Арамияб алипба |Арамияб]]|fam5=[[НабатІияб алипба|НабатІияб]]|хатІ кьаби=|ирсилал=|гІагарал=|iso15924=Arab|юникод={{ublist
  |class=nowrap
  |[https://www.unicode.org/charts/PDF/U0600.pdf U+0600–U+06FF]<br /> {{smaller|Arabic}},
  |[https://www.unicode.org/charts/PDF/U0750.pdf U+0750–U+077F]<br /> {{smaller|Arabic Supplement}},  
@@ -864,22 +864,21 @@
 | colspan="2" |{{huge|{{lang|ar|ـآ}}}}
 | colspan="2" |{{huge|{{lang|ar|آ}}}}
 |}
-'''Notes'''
+'''Баянал'''
 
 {{notelist}}
 
-* See the article ''[[Romanization of Arabic]]'' for details on various transliteration schemes; however, Arabic language speakers may usually not follow a standardized scheme when transcribing names. Also names are regularly transcribed as pronounced locally, not as pronounced in [[Modern Standard Arabic|Literary Arabic]] (if they were of Arabic origin).
-* Regarding pronunciation, the phonemic values given are those of Modern Standard Arabic, which is taught in schools and universities. In practice, pronunciation may vary considerably from region to region. For more details concerning the pronunciation of Arabic, consult the articles ''[[Arabic phonology]]'' and ''[[varieties of Arabic]]''.
-* The names of the Arabic letters can be thought of as abstractions of an older version where they were meaningful words in the [[Proto-Semitic]] language. Names of Arabic letters may have quite different names popularly.
-* Six letters ({{lang|ar|و ز ر ذ د ا}}) do not have a distinct medial form and have to be written with their final form without being connected to the next letter. Their initial form matches the isolated form. The following letter is written in its initial form, or isolated form if it is the final letter in the word.
-* The letter ''{{transl|ar|ALA|alif}}'' originated in the [[Phoenician alphabet]] as a consonant-sign indicating a glottal stop. Today it has lost its function as a consonant, and, together with ''{{transl|ar|ALA|ya’}}'' and ''{{transl|ar|ALA|wāw}}'', is a ''[[mater lectionis]]'', a consonant sign standing in for a long vowel (see below), or as support for certain diacritics (''{{transl|ar|ALA|maddah}}'' and ''[[Hamza|{{transl|ar|ALA|hamzah}}]]'').
-* Arabic currently uses a [[diacritic]] sign, {{lang|ar|ء}}, called ''{{transl|ar|ALA|hamzah}}'', to denote the [[glottal stop]] {{IPA|[ʔ]}}, written alone or with a carrier:
-** alone: {{lang|ar|ء}}
-** with a carrier: {{lang|ar|إ أ}} (above or under a ''{{transl|ar|ALA|alif}}''), {{lang|ar|ؤ}} (above a ''{{transl|ar|ALA|wāw}}''), {{lang|ar|ئ}} (above a dotless ''{{transl|ar|ALA|yā’}}'' or ''{{transl|ar|ALA|yā’ hamzah}}'').
+* Гьаркьал рахъулеб куц кьун буго гьенжесеб стандартияб гІараб мацІалъул, жиб школабазда ва университетазда малъулеб. Практикаялда, хІарпал рахъулеб къагІида батІи-батІиял икълимазда рекъон букІине бегьула стандарталдаса батІияю. ГІараб мацІалъул пронунциациялъул (хІарпал рахъулеб къагІиядаялъул) хІакъалъул дагьабги цІикІкІун информация балагье [[ГІараб фонология|''гІараб фонология'']] ва [[ГІараб мацІалъул вариантал|''гІараб мацІалъул вариантал'']] макъалабазда.=
+*ГІараб хІарпазул цІаразул хал гьабизе бегьула цебесеб версиялъул абстракция хІисабалда. Протосемит мацІалда гьел цІарал рукІана хасаб магІна бугел рагІабилъун. Халкъалда гьоркьоб хІарпазул рукІине бегьула цогидал цІарал.
+*Анлъго хІарпалъул ({{lang|ar|و ز ر ذ د ا}}) гьечІо чІван-къотІараб медиалияб форма, рагІул бакьулъ гьел хъвала ахираб форма гІадин хадусеб хІарпгун бухьенги гьечІого. Гьезул байбихьул форма дандеккола батІаго бугеб формаялда (инициалалде). Хадусеб хІарп хъвала жиндирго байбихьул формаялда, ялъуни батІаго бугеб формаялда, гьеб рагІиялъулъ ахирисеб хІарп батани.
+* Алиф хІарп баккана финикъияб алипбаялда жинца глотталияб ккураб рагьукъаб гьаракь бихьизабуле хІарп хІисабалда. Жакъа къоялде гьелъул букІараб гьеб функция тІагІана, ва гьеб йа-ги (''{{transl|ar|ALA|ya’}}'' ) вав-ги (''{{transl|ar|ALA|wāw}}'' ) хІарпазда цадахъ ккола матер лекционислъун, рагьукъаб хІарплъун, жиб халатаб рагьараб гьаракьалъул чвахиялда цебе букІунеб, ялъуни диакритикал тІад лъолеб ишаралъун (''{{transl|ar|ALA|мадда}}'' ва ''[[Hamza|{{transl|ar|ALA|гьамза}}]]'').
+* ГІараб мацІалда хІалтІизабула диакритикияб ишара {{lang|ar|ء}}, гьамза, гьелъ бихьизабула [[глотталияб ккураб рагьукъаб]] {{IPA|[ʔ]}}, хъвала жибго ялъуни кьучІчІ-хІарпгун:
+** жибго: {{lang|ar|ء}}
+** кьучІчІ-хІарпгун: {{lang|ar|إ أ}} (''{{transl|ar|ALA|алиф}}'' хІарпалда тІад ялъуни гъоркь), {{lang|ar|ؤ}} (''{{transl|ar|ALA|вāв}}'' хІарпалда тІад), {{lang|ar|ئ}} (нукъадаби гьечІеб ''{{transl|ar|ALA|йā’}}'' ялъуни ''{{transl|ar|ALA|йā’ гьамза}}'' хІарпазда тІад).
 
-: In academic work, the ''[[Hamza|{{transl|ar|ALA|hamzah}}]]'' ({{lang|ar|ء}}) is transliterated with the [[modifier letter right half ring]] (ʾ), while the [[modifier letter left half ring]] (ʿ) transliterates the letter ''[[Ayin|{{transl|ar|ALA|‘ayn}}]]'' ({{lang|ar|ع}}), which represents a different sound, not found in English.
+: Академиял хІалтІабазда ''[[Hamza|{{transl|ar|ALA|гьамза}}]]'' ({{lang|ar|ء}}) хІарпалъул транлитерация гьабула [[Кваранаб бащдаб гор модификатор-хІарп|кваранаб бащдаб гор модификатор-хІарпалдалъун]] (ʾ), гьелъие гІаксаб [[КвегІаб бащдаб гор модификатор-хІарп|квегІаб бащдаб гор модификатор-хІарпалдалъун]] цогидал мацІазда транслитерация гьабула гІайн ({{lang|ar|ع}}) хІарпалъе, авар мацІалда гьеб гьаракь бихьизабула ''{{lang|av|гІ}}'' хІарпалъ. 
 
-:: The ''{{transl|ar|ALA|hamzah}}'' has a single form, since it is never linked to a preceding or following letter. However, it is sometimes combined with a ''{{transl|ar|ALA|wāw}}'', ''{{transl|ar|ALA|yā’}}'', or ''{{transl|ar|ALA|alif}}'', and in that case the carrier behaves like an ordinary ''{{transl|ar|ALA|wāw}}'', ''{{transl|ar|ALA|yā’}}'', or ''{{transl|ar|ALA|alif}}''.
+::''{{transl|ar|ALA|Гьамза}}'' хІарпалъул буго гІицІго цо форма, гьелъ гьеб цебе бугеб ялъуни хадуб бачІунеб хІарпаздехун бухьунаро. БукІаниги, гьеб хІарп  ''{{transl|ar|ALA|вāв}}'', ''{{transl|ar|ALA|йā’}}'' ва ''{{transl|ar|ALA|алиф}}'' хІарпазда цадахъ букІуна, гьедин буеб мехалда кьучІчІ хІарпал рукІуна гьелго ''{{transl|ar|ALA|вāв}}'', ''{{transl|ar|ALA|йā’}}'' ва ''{{transl|ar|ALA|алиф}}'' хІарпаллъун.
 
 ==== Алиф ====
 
