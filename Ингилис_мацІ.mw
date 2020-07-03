@@ -1,5 +1,70 @@
-[[Файл:Anglospeak(800px).png|right|thumb|290px|'''Ингилис мацӀалъул ракьалда щушай'''<ref>См. также более подробные [http://rusrep.ru/article/2011/03/16/science_map/ данные на март 2011 г.]</ref> <br /> {{legend|#0000ff|ГӀемерисел гӀадамал ингилис мацӀалда кӀалъалел пачалихъал}} {{legend|#8ddada|Ингилис мацӀ 2-еб бакӀалда бугеб пачалихъал}}]]
-[[File:EN English Language Symbol ISO 639-1 IETF Language Tag Icon.svg|thumb|left|upright|EN]]
+[{{Infobox language
+| name = Ингилис мацІ
+| nativename= English, the English language
+| pronunciation = {{IPAc-en|ˈ|ɪ|ŋ|ɡ|l|ɪ|ʃ}}{{sfn|Oxford Learner's Dictionary|2015|loc=Entry: [http://www.oxfordlearnersdictionaries.com/us/pronunciation/english/english_1 English – Pronunciation]}}
+| region = [[Британиялъул чІинкІиллъаби]] (байбихьуда)<br> [[Англофонал|ТІолго дунялал]]
+| speakers = 360{{ndash}}400{{nbsp}}million
+| ethnicity = [[Англо-Саксонал]] (тарихияб къагІидаялъ)
+| date = 2006
+| ref = {{sfn|Crystal|2006|pp=424–426}}
+| speakers2 = [[КІиабилеб мацІ|2М кІлъалел]]: 750{{nbsp}}million;<br />[[къватІисеб мацІ]] хІисабалда: 600–700&nbsp;million{{sfn|Crystal|2006|pp=424–426}}
+| familycolor = Indo-European
+|fam2=[[Германиял мацІал]]
+|fam3=[[БакътІерхьул германиял мацІал]]
+|fam4=[[Ингвеониял мацІал]]
+|fam5=[[Англо-фриз мацІал]]
+|fam6=[[Англик мацІал]]
+|ancestor=[[Басрияб ингилис мацІ]]
+|ancestor2=[[Гьоркьохъеб инилис мацІ]]
+|ancestor3=[[Цебесеб модерн ингилис мацІ]]
+| script = {{plainlist|
+* [[Латин хъвай-хъвагІи]] ([[Ингилис алипба]])
+* [[Англу-саксониял рунаби]] (тарихияб)
+* [[Инглийш Брайли]], [[Унификакия гьабураб ингилис Брайли]]
+}}
+| nation = {{plainlist|
+* [[Жидер расмияб мацІлъун ингилис бугел территориалиял гІуцІеназул сияхІ#Суверениял пачалихъал|64 пачалихъ]]
+* [[Жидер расмияб мацІлъун ингилис бугел территориалиял гІуцІеназул сияхІ#Сувереникъал гІуцІалаби|27 пачалихъияб гуреб гІуцІен]]
+{{Collapsible list |titlestyle= font-weight:normal; background:transparent; text-align:left; |title= Various organisations|
+* [[Цолъарал Миллатазул ГІуцІи]]
+* [[Европаялъул цолъи]]
+* [[Миллатазул гІам-гьудуллъи]]
+* [[Европаялъул мажлис|ЕвропалъулЕвропалъул]]
+* [[Халкъаздагьоркьосеб криминалияб махІкама|ХКМ]]
+* [[Халкъаздагьоркьосеб валюталъул фонд|ХВФ]]
+* [[Халкъаздагьоркьосеб олимпияб комитет|ХОК]]
+* [[Халкъаздагьорькосеб стандартлъизабиялъул гІуцІи|ISO]]
+* [[НАТО]]
+* [[ТІолгодунялалъул дармилаб гІуцІи|ТІДГІ]]
+* [[Шималияб Америкаялъул эркенаб дармил зона|НАФТА]]
+* [[Америкаялъул пачалихъазул гІуцІи|АПГІ]]
+* [[Экономикияб цадахъ хІалтІиялъулги цебетІеялъулги гІуцІи|ЭЦЦГІ]]
+* [[Исламияб цадахъ хІалтІиялъул гІуцІи|ИЦГІ]]
+* [[OPEC]]
+* [[GUAM Organization for Democracy and Economic Development]]
+* [[Pacific Islands Forum|PIF]]
+* [[UKUSA Agreement]]
+* [[Association of Southeast Asian Nations|ASEAN]]
+* [[ASEAN Economic Community]]
+* [[South Asian Association for Regional Cooperation|SAARC]]
+* [[Caribbean Community|CARICOM]]
+* [[Turkic Council]]
+* [[Economic Cooperation Organization|ECO]]
+}}
+}}
+| iso1 = en
+| iso2 = eng
+| iso3 = eng
+| lingua = 52-ABA
+| notice = IPA
+| sign = [[Manually coded English]]<br />(multiple systems)
+| glotto = stan1293
+| glottorefname = English
+| map = File:Anglospeak (SVG version).svg
+| mapcaption = {{legend|#004288|Regions where English is a majority native language}}
+{{legend|#79c1ff|Regions where English is official but not a majority native language}}
+}}
+{{English language}}
 
 '''Ингилис мацӀ''' ({{lang-en|English, English language}}  )  - ккола [[КІудабритІания]]лда жиб лъугьараб ва хаду [[Америкалъул Цолъарал Штатал|Америка]]ялда, [[Австралия]]лда, [[ЦIияб Зеландия]]лда гьенире гочарал гIадамалгун цадахъ шушан араб мацI. Жеги гьеб ккола гIаламалдаго бищун цIцIикIараб гадамазул къадаралда жиб лъалеб мацI.
 
