@@ -1,13 +1,14 @@
 {{МацІазул карточка
 | name = Ингилис мацІ
-| nativename= English, the English language
+| nativename= English
+| altname= The English language
 | pronunciation = {{IPAc-en|ˈ|ɪ|ŋ|ɡ|l|ɪ|ʃ}}{{sfn|Oxford Learner's Dictionary|2015|loc=Entry: [http://www.oxfordlearnersdictionaries.com/us/pronunciation/english/english_1 English – Pronunciation]}}
 | region = [[Британиялъул чІинкІиллъаби]] (байбихьуда)<br> [[Англофонал|ТІолго дунялал]]
 | speakers = 360{{ndash}}400{{nbsp}}million
 | ethnicity = [[Англо-Саксонал]] (тарихияб къагІидаялъ)
 | date = 2006
 | ref = {{sfn|Crystal|2006|pp=424–426}}
-| speakers2 = [[КІиабилеб мацІ|КІиабилеб мацІ хІисабалда]]: 750{{nbsp}}million;<br />[[къватІисеб мацІ]] хІисабалда: 600–700&nbsp;million{{sfn|Crystal|2006|pp=424–426}}
+| speakers2 = [[КІиабилеб мацІ|КІиабилеб мацІ хІисабалда]]: 750{{nbsp}}млн чиясе;<br />[[къватІисеб мацІ]] хІисабалда: 600–700&nbsp;млн чиясе{{sfn|Crystal|2006|pp=424–426}}
 | familycolor = Indo-European
 |fam2=[[Германиял мацІал]]
 |fam3=[[БакътІерхьул германиял мацІал]]
@@ -20,12 +21,11 @@
 | script = {{plainlist|
 * [[Латин хъвай-хъвагІи]] ([[Ингилис алипба]])
 * [[Англо-саксониял рунаби]] (тарихияб)
-* [[Инглийш Брайли]], [[Унификакия гьабураб ингилис Брайли]]
-}}
+* [[Инглийш Брайли]], [[Унификакия гьабураб ингилис Брайли]] }}
 | nation = {{plainlist|
 * [[Жидер расмияб мацІлъун ингилис бугел территориалиял гІуцІеназул сияхІ#Суверениял пачалихъал|64 пачалихъ]]
-* [[Жидер расмияб мацІлъун ингилис бугел территориалиял гІуцІеназул сияхІ#Сувереникъал гІуцІалаби|27 пачалихъияб гуреб гІуцІен]]
-{{Collapsible list |titlestyle= font-weight:normal; background:transparent; text-align:left; |title= Various organisations|
+* [[Жидер расмияб мацІлъун ингилис бугел территориалиял гІуцІеназул сияхІ#Сувереникъал гІуцІалаби|27 пачалихъияб гуреб гІуцІен]]}}
+{{Collapsible list |titlestyle= font-weight:normal; background:transparent; text-align:left; |title= БатІи-батІиял гІуцІалаби|
 * [[Цолъарал Миллатазул ГІуцІи]]
 * [[Европаялъул цолъи]]
 * [[Миллатазул гІам-гьудуллъи]]
@@ -40,29 +40,28 @@
 * [[Америкаялъул пачалихъазул гІуцІи|АПГІ]]
 * [[Экономикияб цадахъ хІалтІиялъулги цебетІеялъулги гІуцІи|ЭЦЦГІ]]
 * [[Исламияб цадахъ хІалтІиялъул гІуцІи|ИЦГІ]]
-* [[OPEC]]
-* [[GUAM Organization for Democracy and Economic Development]]
-* [[Pacific Islands Forum|PIF]]
-* [[UKUSA Agreement]]
-* [[Association of Southeast Asian Nations|ASEAN]]
-* [[ASEAN Economic Community]]
-* [[South Asian Association for Regional Cooperation|SAARC]]
-* [[Caribbean Community|CARICOM]]
-* [[Turkic Council]]
-* [[Economic Cooperation Organization|ECO]]
-}}
+* [[Нарт экспорт гьабулел пачалихъзул гІуцІи|OPEC]] 
+* [[ГУАМ]]
+* [[ГІодоцараб океаналъул чІинкІиллъабазул форум|PIF]]
+* [[UKUSA]]
+* [[Жанубиябгун бакъбаккул Азиялъул пачалихъазул ассоциация|ЖБАПА]]
+* [[ЖБАПА экономикияб ]]
+* [[Шималияб Азиялъул икълимияб цадахъ хІлтІиялъул ассоциация|SAARC]]
+* [[Карибазул жамагІатлъи|CARICOM]]
+* [[Турк мажлис]]
+* [[Экономикияб цадахъ хІалтІиялъул ГІуцІи|ЭЦГІ]]
 }}
 | iso1 = en
 | iso2 = eng
 | iso3 = eng
 | lingua = 52-ABA
 | notice = IPA
-| sign = [[Manually coded English]]<br />(multiple systems)
+| sign = [[Ингилисалъул кверзул кодификация]]<br />(чанго система)
 | glotto = stan1293
 | glottorefname = English
 | map = File:Anglospeak (SVG version).svg
-| mapcaption = {{legend|#004288|Regions where English is a majority native language}}
-{{legend|#79c1ff|Regions where English is official but not a majority native language}}
+| mapcaption = {{legend|#004288|Ингилис мацІ рахьдалаблъун кколел икълимал}}
+{{legend|#79c1ff|Ингилис мацІалда мацІ расмияблъун бугаб, амма рахьдалаблъун кколарел  икълимал}}
 }}
 {{English language}}
 
@@ -70,29 +69,99 @@
 
 Ингилис мацI рахьдал мацIлъун ккола 430&nbsp;миллион чиясе. Жиндалъун кIалъалел гIадамал рикIкIун, [[Син мацI|син мацIалдаса]] хадуб, ингилис буго гIаламалдаго кIиабилеб бакIалда.<ref name = "ethnologue">{{cite web|url=http://www.sil.org/ethnologue/top100.html |title=Ethnologue, 1999 |accessdate=31 October 2010 |archiveurl=//web.archive.org/web/19990429232804/www.sil.org/ethnologue/top100.html |archivedate=29 April 1999}}</ref><ref name = "CIA World Factbook">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html |title=CIA World Factbook, Field Listing&nbsp;– Languages (World) |publisher=Cia.gov |accessdate=20 April 2013}}</ref>
 
-== Ингилис мацӀалъул алфавит ==
-Ингилис алфавиталда буго 26 [[хIарп]].
+== Классификация ==
 
-<center>
-{|class="wikitable" style="border-collapse:collapse;"
-|-
-|bgcolor="#EFEFEF" align="center" colspan="26" | 
-|-
-|width=3% align="center"|[[A]]||width=3% align="center"|[[B]]||width=3% align="center"|[[C]]||width=3% align="center"|[[D]]||width=3% align="center"|[[E]]||width=3% align="center"|[[F]]||width=3% align="center"|[[G]]||width=3% align="center"|[[H]]||width=3% align="center"|[[I]]||width=3% align="center"|[[J]]||width=3% align="center"|[[K]]||width=3% align="center"|[[L]]||width=3% align="center"|[[M]]||width=3% align="center"|[[N]]||width=3% align="center"|[[O]]||width=3% align="center"|[[P]]||width=3% align="center"|[[Q]]||width=3% align="center"|[[R]]||width=3% align="center"|[[S]]||width=3% align="center"|[[T]]||width=3% align="center"|[[U]]||width=3% align="center"|[[V]]||width=3% align="center"|[[W]]||width=3% align="center"|[[X]]||width=3% align="center"|[[Y]]||width=3% align="center"|[[Z]]
-|-
-|bgcolor="#EFEFEF" align="center" colspan="26" | 
-|-
-|align="center"|a||align="center"|b||align="center"|c||align="center"|d||align="center"|e||align="center"|f||align="center"|g||align="center"|h||align="center"|i||align="center"|j||align="center"|k||align="center"|l||align="center"|m||align="center"|n||align="center"|o||align="center"|p||align="center"|q||align="center"|r||align="center"|s||align="center"|t||align="center"|u||align="center"|v||align="center"|w||align="center"|x||align="center"|y||align="center"|z
-|}
-</center>
+== Тарих ==
+
+=== Прото-германияб мацІалдаса Басрияб ингилис мацІалде ===
+
+=== Цебесеб модернияб ингилис мацІ ===
+
+=== Гьанжесеб инггилис мацІалъул тІибитІи ===
+
+== Географияб ареал ==
+
+=== Ингилисалда кІалъаялъул пачалихъазул лъабго горсвери ===
+
+===	Плюрицентрияб ингилис мацІ ===
+
+=== Ингилис глобалияб мацІ хІисабалда ===
+
+== Фонология ==
+
+=== Рагьукъал гьаркьал ===
+
+=== Рагьарал ===
+
+=== Фонотактика ===
+
+=== ТІадецуй, ритм ва интонация ===
+
+=== Икълимиял батІалъаби ===
+
+==Грамматика==
+
+=== ЦІар ва цІаргун рагІабазул дандрай ===
+
+=== Сифат ===
+
+=== ЦІарубакІ, игІраб ва сипат-куц ===
+
+=== Префиксал ===
+
+=== ФигІлаби ва фигІлияб лапсал ===
+
+==== Лапсиял фигІлаби ====
+
+==== ТІадрагІи ==== 
+
+== Синтаксис ==
+
+=== Асасал ===
+
+=== Жумладул синтаксис===
+
+=== Кумекалъулал фигІлиял конструкцияби === 
+
+=== Суалал ===
+
+=== Дискурсалъул мартабаталда синтаксис ===
+
+== Къамусияб бечелъи ==
+
+=== РагІи лъугьиналъул процессал === 
+
+=== РагІаби рачІин === 
+
+=== Ингилис мацІлдеги мацІалдасаги рачІарал рагІаби ===
+
+== Хъваялъул система ==
+
+== Диалектал, акцентал ва батІалъаби ==
+
+=== Цолъараб Къираллъи ===
+
+=== Шималияб Америка ===
+
+=== Австралия ва ЦІияб Зеландия ===
+
+=== Жанубиябгун бакъбаккул Азия ===
+
+=== Африка, Карибазул хІавуз ва Жанубияб Азия ===
 
 == ХIужаби ==
 <references/>
+
+== Библиография ==
 
 == Линкал ==
 * [http://baltoslav.eu/hulnia/eng.php?mova=ru Ингилис мацІалъул рагІаби]
 * [http://baltoslav.eu/pary/index.php?m=eng&n=ava&mova=ru&g=g Ингилис-магІарул рагІаби]
 
+
 {{ТIинчI}}
 
 [[Категория:МацIал]]
+[[Категория:Индо-Европаялъул мацІал]]
+[[Категория:Германиял мацIал]
+[[Категория:Ингилис мацІ]]
