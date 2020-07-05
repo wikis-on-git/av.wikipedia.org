@@ -1,24 +1,31 @@
-{{МацІ
-|цІар=Египеталъул мацІ
-|рахьдал мацІалда=<center><hiero>r:Z1 n km m t:O49</hiero><center><center>''r3 n(.j) Km.t''<center>
-|пачалихъал=[[НекIсияб Египет]], Эллинияб Египет, Румалъулаб Египет ва [[Египет|ГІараб]] Египет
-|икълимал=
-|расмияб статус= [[НекIсияб Египет]]
-|кІалъалезул къадар = бахунаан чанго нусазарго чиясде<ref name="К">''Каммерцелль Ф.'' [http://www.egyptology.ru/lang/Hannig.pdf Периодизация египетского языка] (вступительная статья к словарю — ''Hannig R.'' Grosses Handwörterbuch Ägyptisch-Deutsch. 2. Aufl. Mainz, 1997. S. XXV-XXVII.).</ref> 
-|цебе тІезабулеб гІуцІи=
-|рейтинг=
-|статус=[[Хвараб мацІ|хвараб]]
-|хвана=
-|категория=[[Африкаялъул мацІал]]
-|классификация= 
-[[Афразиялъул мацІал|Афразиялъул макрохъизан]]
-:Египеталъул хъизан ([[Египеталъул басрияб мацІ цебесеб|Египеталъул басрияб цебесеб]], [[Египеталъул басрияб мацІ|Египеталъул басрияб]], Египеталъул гьоркьохъеб мацІ, Египеталъул цІияб мацІ, Египеталъул гьоркьохъеб мацІ хадусеб,  демотикияб, птолемеязул, [[Копт мацІ|копт мацІ]])
-|хъвай-хъвагІи=
-* [[Египеталъул хъвай-хъвагІи|Египеталъул]] ([[Египеталъул иероглифал|иероглифика]], [[иератика]], [[демотика]])
-* [[Грек алип|грек алип]] ([[копт хъвай-хъвагІи]])
-|ГОСТ 7.75–97= дре 187
-|ISO2=egy
-|ISO3=egy
+{{МацІазул карточка
+| name = Египеталъул мацІ
+| altname =
+| nativename = {{center|<hiero>r:Z1-n-km-m-t:O49</hiero>}} ''r n km.t''<ref name="Erman">[[Адолф Эрман]]; [[Гьерманн Грапоу]], ''Wörterbuch der ägyptischen Sprache'', Akademie-Verlag, Berlin, 1926–1961. {{ISBN|3050022647}}.</ref><br>ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ ([[Копт мацІ|Копт]]) 
+| image            =  Papyrus Ebers.png
+| imagesize        = 250
+| imagecaption     = [[Эберсил папирус]]
+| pronunciation    = {{IPA|ˈraʔ n̩ˈku.mat}}
+| ethnicity = [[НекІсияб Египет|НекІсиял египтянал]],
+ [[Коптал]]
+| speakers = [[Къагьир|Къагьиралда]] ругел нусго-кІинусго чи<ref name="Coptic language's last survivors">{{cite web |url=https://wwww.dailynewssegypt.com/2005/12/10/coptic-languages-last-survivors/ |url-status=live |title=Coptic language's last survivors |accessdate=2020-04-16}}</ref>
+| region = Жиндир заманалда НекІсияб Египет ва Нубиялъул цо бутІа; (хасго Нубиялъул пачахІлъиялъул заманалда);<ref name=":01">{{cite web |url=http://www.ancientsudan.org/writing_03_old_nubian_&_arabic.htm|title=Ancient Sudan~ Nubia: Writing: The Basic Languages of Christian Nubia: Greek, Coptic, Old Nubian, and Arabic|website=www.ancientsudan.org|accessdate=2017-03-09}}</ref> гьанже цохІо Къагьиралъул цо-цо бутІабазда <ref name="Coptic language's last survivors">{{cite web |url=https://wwww.dailynewssegypt.com/2005/12/10/coptic-languages-last-survivors/ |url-status=live |title=Coptic language's last survivors |accessdate=2020-04-16}}</ref> ва [[ТІасияб Египет|ТІасияб Египеталъул]] чанго рослуъ<ref>https://www.egypttoday.com/Article/4/16207/Coptic-Ancient-language-still-spoken-today</ref><ref>https://smass.co.uk/coptic-language</ref><ref>https://www.tellerreport.com/news/2019-09-09---%22zinnia%22----the-last-village-speaks-the-language-of-the-people-of-ancient-egypt-.HkZ-spq7IB.html</ref>
+| era = Н. Щ. VI азарсонил ахир — XIX гІасру ([[Копт мацІ]] хвейгун); жеги хІалтІизабула литургияб мацІ хІисабалда Копт килисаялда, мацІалда кІалъала кІиго копт хъизан<ref name="Coptic language's last survivors" />
+| revived = МацІ цІигьабиялъе хІал бихьизе байбихьун буго XIX гІасруялдаса<ref>http://www.stshenouda.com/coptlang/copthist.htm#Coptic19</ref>
+| familycolor = Afro-Asiatic
+| dia1 = ТІасияб?<ref name="a2">{{Harvcoltxt|Allen|2000|p=2}}</ref><ref name="l8">{{Harvcoltxt|Loprieno|1995|p=8}}</ref> {{extinct}}
+| dia2 = Гъоркьияб?<ref name="a2">{{Harvcoltxt|Allen|2000|p=2}}</ref><ref name="l8">{{Harvcoltxt|Loprieno|1995|p=8}}</ref> {{extinct}}
+| dia3 = [[Копт мацІал#Диалектал|Копт диалектал]] {{extinct}}
+| script = [[Египеталъул гьиероглифа |гьиероглифал]], [[курсив гьиероглифал]], [[гьиератика]], [[Демотика (египеталъулаб)|демотика]] ва [[Копт алипба|Копт]] (хадусеб заманалда, цо-цо, [[гІараб хъвай-хъвагІи]] хІукуматалъулаб тармажаялда ва [[латин хъвай-хъвагІи]] гІелмияб транслитерациялдаги чанго къамусалдаги<ref>https://www.um.es/cepoat/egipcio/wp-content/uploads/egyptianhierogly.pdf</ref>)
+| iso2 = egy
+| iso3 = egy
+| iso3comment = (also [[iso639-3:cop|cop]] for [[Coptic language|Coptic]])
+| lingua = 11-AAA-a
+| map = 
+| mapcaption = 
+| iso2comment = (also {{ISO 639-2|cop}} for [[Coptic language|Coptic]])
+| glotto = egyp1246
+| glottorefname = Egyptian (Ancient)
 }}
 
 '''Египеталъул мацІ''' ({{Lang-egy|r n km.t}}, {{ХГЬА|ˈraʔ n̩ˈku.mat|Египеталъул гьоркьохъеб мацІалъул абулеб къагІида}})<ref name="Erman" /><ref name="l7" /> ккола [[НекIсияб Египет|НекIсияб Египеталъул]] мацІлъун, жибги Афроазиялъул мацІазул хъизаналъул гІаркьеллъун кколеб. Заманалъул рахъалъ жибги цІакъ гІемераб мехалъ хІалтІизабураб, Египеталъул Басрияб мацІалъул этапалдаса байбихьун ([[4-б азарсон нилъер заманалде щвелалде|4-б аз. н. з. щ.]], [[Египеталъул Басрияб ханлъи]]), шумер мацІгун цадахъ тІоцебе хъвай-хъвагІи хІалтІизабизе байбихьарабги мацІ ккола Египеталъул мацІ. Гьелъул тІоцересел хъвай-хъвагІиязул заман чІезабун буго 2690 с. н. щ., ва гьеб хІужжаялъ Египеталъул мацІ чІезабула дунялалъул бищун цебесею хъвай-хъвагІи бугеб мацІлъун, шумер мацІгун цадахъ.<ref>{{Harvcoltxt|Allen|2013|p=2}}</ref>
