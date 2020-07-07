@@ -1,64 +1,231 @@
-{{МацІ
-|кьер               = афразиялъулал
-|цІар               = ГІараб мацІ
-|рахьдал мацІалда   = العربية
-|пачалихъал         = [[Алжир]], [[БахІрайн]], [[Египет]], [[БакътІерхьул СахІара]], [[Иордания]], [[ГІиракъ]], [[Йемен]], [[Катар]], [[Кувейт]], [[Ливан]], [[Ливия]], [[Мавритания]], [[Марокко]], [[ГIарабазул Цолъарал Имаратал|ГІЦИ]], [[ГІуман]], [[ПилистІин]], [[СагІудиязул ГІарабия]], [[Сирия]], [[Судан]], [[Тунис]] — гІемерисеб халкъ;<br>
-[[Джибути]], [[Исраил]], [[Иран]], [[Комор ЧІинкІиллъаби]], [[Мали]], [[Сомали]] — гІемерисел;<br>
-[[Афгъанистан]], [[Испания]], [[Кения]], [[Нигер]], [[Нигерия]], [[Сенегал]], [[Танзания]], [[Туркия]], [[Гьоркьохъебафрикаялъул Жумгьурият|ГьАЖ]], [[Чад]], [[Эритрея]], [[Къиблаяб Судан]] —  кІалъалезул къадар дагьал
-|расмияб мацӀ       = 
-{{Бахчараб блокалъул бетІер|БетІер=Пачалихъал:|БетІер ращат гьаби=left}}
-{{Флагификация|Бахрейн}}, <br>
-{{Флагификация|Джибути}}, <br>
-{{Флагификация|Египет}}, <br>
-{{Флагификация|Иордания}}, <br>
-{{Флагификация|Ирак}}, <br>
-{{Флагификация|Йемен}}, <br>
-{{Флагификация|Катар}}, <br>
-{{Флагификация|Коморы}}, <br>
-{{Флагификация|Кувейт}}, <br>
-{{Флагификация|Ливан}}, <br>
-{{Флагификация|Ливия}}, <br>
-{{Флагификация|Мавритания}}, <br>
-{{Флагификация|Марокко}}, <br>
-{{Флагификация|ОАЭ}}, <br>
-{{Флагификация|Оман}},<br>
-{{Флагификация|Эритрея}}, <br>
-{{Флагификация|Саудовская Аравия}}, <br>
-{{Флагификация|Сирия}}, <br>
-{{Флагификация|Сомали}}, <br>
-{{Флагификация|Судан}}, <br>
-{{Флагификация|Тунис}}, <br>
-{{Флагификация|Чад}}, <br>
-
-''[[ТІубанго пачалихъаллъун рикІкІинчел яги цояца рикІкІун цогияз рикІкІинчІел пачалихъал]]:''<br />
-{{Флагификация|Западная Сахара}} <br><small>([[частично признанное государство]])</small>, <br>
-{{Флагификация|ФилистІин}} <br><small>([[частично признанное государство]])</small>, <br>
-{{Флагификация|Сомалиленд}} <br><small>([[непризнанное государство]])</small>.<br>
-{{Бахчараб блокалъул ахир}}
-{{Бахчараб блокалъул бетІер|БетІер=Халкъаздагьоркьосел гІуцІиял:|БетІер ращат гьаби=left}}
-* [[Цолъарал Миллатазул ГІуцІи]] 
-* [[Африкаялъул Союз]]
-* [[Файл:Flag of OIC.svg|border|22пкс]] [[Организация Исламского сотрудничества|ОИС]]
-* [[Файл:Flag of the Arab League.svg|border|22px]] [[ГІараб пачалихъазул лига|ГІПЛ]] 
-* [[Файл:GCC Flag.svg|border|22px]] [[Совет сотрудничества арабских государств Персидского залива|ССАГПЗ]]
-* [[Агадиралъулаб къотІи-къай]]
-|цебе тІезеабулеб организация =  [[Маракешалъул Къиралияб Академия]] ([[Марокко]])<br> [[Урдуналъул гІараб мацІалъул академия]] ([[Урдун]])<br> [[ГІиракъалъул гІелмабазул академия]] ([[ГІиракъ]])<br> [[Хартумалда бугеб гІараб мацІалъул академия]] ([[Судан]])<br> [[«ГІакъиллъиялъул рукъ» фонд]] ([[Тунис]])<br> [[Ливиялъулаб гІараб мацІалъул академия]] ([[Ливия]])<br> [[Исраилалъул гІараб мацІалъул академия]] ([[Исраил]]).
-|къадар             = 240 млн<ref name="автоссылка1">[http://www.tlfq.ulaval.ca/axl/langues/2vital_inter_arabe.htm Сайт университета Лаваль (2010 год)]</ref> (рахьдал мацІ хІисабалда), 50 млн (кІиабилеб мацІ хІисабалда)
-|рейтинг = 5 
-|статус = хӀинкъи гьечӀеб
-{{Бахчараб блокалъул ахир}}
-|категория          = [[Афразиялъул мацІал]]
-|классификация      =[[Афразиялъул мацІал|афразиялъул макрохъизан]]
-: [[Семит мацІал|семит хъизан]]
-:: [[БакътІерхьулсемит мацІал|бакътІерхьулсемит гІаркьел]]
-::: Гьоркьохъеб семит къокъа
-:::: [[ГІарабистаналъул мацІал|гІараб гъоркькъокъа]]
-|хъвай-хъвагІай     = [[ГІараб хъвай-хъвагІи]] ([[ГІараб алип]])
-| ГОСТ 7.75-97 = ара 050
-| ISO1 = ar
-| ISO2 = ara
-| ISO3 = ara
+{{МацІазул карточка
+| name              = ГІараб мацІ
+| nativename        = {{rtl-lang|ar|اَلْعَرَبِيَّةُ}}<br />''{{transl|ar|ALA|аль-гІарабиягь}}''
+| pronunciation     = {{IPA|/ˈʕarabiː/}}, {{IPA|/alʕaraˈbijːa/}}
+| states            = [[ГІараб джамигІат|ГІараб жамигІаталъул]] пачалихъал,  гьезда мадугьалихъ ругел [[Европ|Европаялда]], [[Азия|Азиялъул]] ва [[Африка|Африкаялъул]] пачалихъазда миллиял дагьбутІаби
+|ethnicity          = [[ГІарабал]], [[ГІарабгун берберал]], [[Афро-гІарабал]] ва цогидал
+| speakers          = {{sigfig|313|2}} миллион чи, киналго вариантазда
+| date              = 2011–2016<!--reporting dates of the data-->
+| ref               = <ref name=e21>{{cite web|title=Arabic – Ethnologue|url=//www.ethnologue.com/language/ara|website=Ethnologue|publisher=Simons, Gary F. and Charles D. Fennig (eds.). 2018. Ethnologue: Languages of the World, 21st edition|accessdate=21 February 2018|archive-url=https://web.archive.org/web/20160105171142/https://www.ethnologue.com/language/ara|archive-date=5 January 2016|url-status=live|df=dmy-all}}</ref>
+| speakers2         = {{sigfig|274|2}} миллион чи Стандартияб гІараб мацІ жидее [[кІиабилеб мацІ|кІиабилеблъун]] кколел<ref name=e21/>
+| familycolor       = Afro-Asiatic
+| fam2              = [[Самиял мацІал|Самиял]]
+| fam3              = [[БакътІерхьул самиял мацІал|БакътІерхьул самиял]]
+| fam4              = [[Бакьулъиялъул самиял мацІал|Бакьулъиялъул самиял]]
+| fam5              = [[ГІараб мацІазул классификация|Шималияб гІараб]]
+| dia1              = [[Магърибалъул гІараб мацІ|Магърибалъул]]
+| dia2              = [[ГІараб мацІалъул вариантал#Шималиял диалектал|Шималиял]] ([[Египеталъул гІараб мацІ|Египетлъул]], [[Месопотамиялъул гІараб мацІ|Месопотамиялъул]], [[Шамалъул гІараб мацІ|Шамалъул]])
+| dia3             = [[ГІараб мацІалъул вариантал#Жанубиял диалектал|Жанубиял]] ([[ГІарабистаналъул гІараб мацІ|ГІарабистаналъул]] [[Гъулпалъул гІараб мацІ|Гъулпалъул]], [[ХІижазалъул гІараб мацІ|ХІижазалъул]], [[Наждалъул гІараб мацІ|Наждалъул]] ва [[Яманалъул гІараб мацІ|Яманалъул]])
+| stand1           = [[Гьанжесеб стандартияб гІараб мацІ]]
+| script           = [[ГІараб алипба]]<br />[[ГІараб брайл]]<br />[[Гъаршуни|Сириялъулаб]]<br />[[Гьибрито-гІараб мацІ|Гьибрит]]<br />[[Къубрусалъул гІараб мацІ|Грек]]<br />[[ГІараб руманлъизаби|Латин]] (гъорлъе рачуна [[Чатазул гІараб алипба]], [[ГІараб хІассания|ХІассания]] <small>([[Сенегалалда]])</small><ref>{{Cite web |url=http://www.jo.gouv.sn/spip.php?article4790 |title=Journal Officiel de la Republique du Senegal |access-date=8 August 2018 |archive-url=https://web.archive.org/web/20150518092122/http://www.jo.gouv.sn/spip.php?article4790 |archive-date=18 May 2015 |url-status=live |df=dmy-all }}</ref>)
+| nation           = [[Гьанжесеб стандартияб гІараб мацІ]] расмияблъун буго [[ГІараб мацІ расмияблъун кколел пачалихъазул сияхІ|26 пачалихъалда]] ва 1 диспутияб территорияла, ингилис ва паранс мацІазда хадуб кІодолъиялъул рахъалъ лъабабилеб<ref>{{Harvcoltxt|Wright|2001|p=492}}</ref>{{collapsible list
+|{{флагификация|Алжир}}<br />{{флагификация|БахІрайн}}<br />{{флагификация|Къумур чІинкІиллъаби}}<br />{{флагификация|Чад}}<br >{{флагификация|Джибути}}<br />{{флагификация|Египет}}<br />{{флагификация|ГІиракъ}}<br />{{флагификация|Урдун}}<br />{{флагификация|Къувайт}}<br />{{флагификация|Лубнан}}<br />{{флагификация|Либия}}<br />{{флагификация|Мавритания}}<br />{{флагификация|Магъриб}}<br />{{флагификация|ГІуман}}<br />{{флагификация|ПилистІин}}<br />{{флагификация|КъатІар}}<br />{{флагификация|СагІудиязул ГІарабия}}<br />{{флагификация|Сумалия}}<br />{{флагификация|Судан}}<br />{{флагификация|Сирия}}<br />{{флагификация|Тунис}}<br />{{флагификация|Цолъарал ГІараб Имаратал}}<br />{{флагификация|Яман}}<br />{{флагификация|Занзибар}}({{флагификация|Танзания}})<br /> {{флагификация|БакъьІерхьул СахІара}}<br />(диспутияб территория)<br />'''ГІуцІалаби'''<br />[[Африкалъул цолъи]]<br />[[ГІараб джамигІат]]<br />[[Исламияб цадахъ хІалтІиялъул гІуцІи]]<br />[[Цолъарал Миллатазул ГІуцІи]]}}
+| minority = {{collapsible list| [[Бруней]]<br />[[Сеута]]<br />[[Къубрус]]<br />[[Эритрея]]<br />[[Индонезия]]<br />[[Исраил]]<br />[[Мали]]<br />[[Мелилла]]<br />[[Нигер]]<br />[[Пакистан]]<br />[[Сенегал]]<br />[[Шималияб Судан]]}}
+| agency = {{collapsible list
+| [[File:Blank.png|26px|link=]] [[ГІараб мацІалъул халкъаздагьоркьосеб мажлис]]<br />
+[[Алжир]]: [[Алжиралда гІараб мацІалъул тІадегІанаб мажлис]]<br />
+[[Египет]]: [[Къагьиралда гІараб мацІалъул академия]]<br />
+[[Исраил]]: [[Исраилалда гІараб мацІалъул академия]]<br />
+[[ГІиракъ]]: [[ГІиракъалъул гІелмабазул академия]]<br />
+[[Урдун]]: [[Урдуналъул гІараб мацІалъул академия]]<br />
+[[Либия]]: Джамагьириялда гІараб мацІалъул академия<br />
+[[Магъриб]]: [[Рабаталда гІараб мацІалъул академия]]<br />
+[[СагІудиязул ГІарабия]]: [[Риядалда гІараб мацІалъул академия]]<br />
+[[Сумали]]: [[Мугъадишуялда гІараб мацІалъул академия]]<br />
+[[Судан]]: [[Хартумалда гІараб мацІалъул академия]]<br />
+[[Сирия]]: [[Димашкъалъул гІараб академия]] (the oldest)<br />
+[[Тунис]]: [[Beit Al-Hikma Foundation]]
 }}
-[[Файл:Arabic speaking world.svg|thumb|290px|{{ru|{{legend||title=Распространение арабского языка:}}{{legend|#088A4B|Расмияб мацІ (гІурччинаб)}}{{legend|#045FB4|Цояб расмияб мацІ гІемерисеб халкъ кІалъалеб мацІ бугелъул(хъахІилаб)}}{{legend|#5599ff|Цояб расмияб мацІ, гІарабалъ кІалъалезул къадар гІемер гьечІониги, тарихияб яги маданияталъулаб гІиллаялдалъун, (зодикьераб)|striped=1}}}}]]
+| iso1 = ar
+| iso2 = ara
+| iso3 = ara
+| lc1 = arq
+| ld1 = [[Алжиралъул гІараб мацІ]]
+| lc2 = aao
+| ld2 = [[Алжиралъул сахІараялъул гІараб мацІ]]
+| lc3 = bbz
+| ld3 = [[Бабалия креол гІараб мацІ]]
+| lc4 = abv
+| ld4 = [[Багьарна гІараб мацІ]]
+| lc5 = shu
+| ld5 = [[Чадалъул гІараб мацІ]]
+| lc6 = acy
+| ld6 = [[Къубрусияб гІараб мацІ]]
+| lc7 = adf
+| ld7 = [[Дофари гІараб мацІ]]
+| lc8 = avl
+| ld8 = [[Бакъбаккул Египеталъул бадавиязул гІараб мацІ]]
+| lc9 = arz
+| ld9 = [[Египетлъул гІараб мацІ]]
+| lc10 = afb
+| ld10 = [[Гъулпалъул гІараб мацІ]]
+| lc11 = ayh
+| ld11 = [[ХІадрамиялъул гІараб мацІ]]
+| lc12 = acw
+| ld12 = [[ХІиджазалъул гІараб мацІ]]
+| lc13 = ayl
+| ld13 = [[Либиялъул гІараб мацІ]]
+| lc14 = acm
+| ld14 = [[Месопотамиялъул гІараб мацІ]]
+| lc15 = ary
+| ld15 = [[МагІрибалъул гІараб мацІ]]
+| lc16 = ars
+| ld16 = [[Наджадалъул гІараб мацІ]]
+| lc17 = apc
+| ld17 = [[Шималияб Шамалъул гІараб мацІ]]
+| lc18 = ayp
+| ld18 = [[Шималияб Месопотамиялъул гІараб мацІ]]
+| lc19 = acx
+| ld19 = [[ГІуманалъул гІараб мацІ]]
+| lc20 = aec
+| ld20 = [[СагІиди гІараб мацІ]]
+| lc21 = ayn
+| ld21 = [[СанагІани гІараб мацІ]]
+| lc22 = ssh
+| ld22 = [[Шигьи гІараб мацІ]]
+| lc23 = ajp
+| ld23 = [[Жанубияб Шамалъул гІараб мацІ]]
+| lc24 = arb
+| ld24 = '''[[Стандартияб гІараб мацІ]]'''
+| lc25 = apd
+| ld25 = [[Суданалъул гІараб мацІ]]
+| lc26 = pga
+| ld26 = [[Суданалъул креол гІараб мацІ]]
+| lc27 = acq
+| ld27 = [[Таиззи-ГІадени гІараб мацІ]]
+| lc28 = abh
+| ld28 = [[Таджик гІараб мацІ]]
+| lc29 = aeb
+| ld29 = [[Тунисалъул гІараб мацІ]]
+| lc30 = auz
+| ld30 = [[Узбек гІараб мацІ]]
+| lingua = 12-AAC
+| image = Arabic albayancalligraphy.svg
+| imagesize = 150px
+| imagecaption = '''{{transl|ar|Аль-ГІарабия}}''' гІараб ([[Насх (хатІ)|насх хатІалда]] хъвараб)
+| map = Dispersión lengua árabe.png
+| mapcaption = ГІараб мацІалда кІалъалеб гІемерисеб (бецІ-гІурччинаб) ва дагьаб (канчІ-гІурччинаб) халкъалъул тІибитІи
+| map2 = Arabic speaking world.svg
+| mapcaption2 = ГІараб мацІ миллияб мацІ хІисабалда (гІурччинаб), расмияб мацІ хІисабалда (бецІ-хъахІилаб) ва икълимияб/миллияб дагьбутІадул мацІ хІисабалда (канчІ-хъахІилаб) хІалтІизабулеб территория
+| notice = IPA
+| protoname = [[Прото-гІараб мацІ]]<br />[[Басрияб гІараб мацІ]]<br />[[Басрияб ХІиджази мацІ]]<br />[[Классикияб гІараб мацІ]]
+| sign = Ишарияб гІараб мацІ (миллиял формаби)
+| glotto = arab1395
+| glottorefname = Arabic
+}}
 
 '''ГІара́б мацІ''' ({{lang-ar|اللغة العربية}}, ''al-luġa al-ʿarabiyya'') ккола [[Семит мацІал|семит]] хъизаналъул [[Афразиялъул мацІал|афразиялъул]] [[МацІазул генетикияб классификация|мацІазул макрохъизаналъул]] мацІлъун, жибги аслияб къагІидаялъ тІибитІун бугеб Африкаялда ва Азиялда. ГІараб мацІалда кІалъалезул къадар бахуна 240 млн. чиясде<ref name="автоссылка1" /> ([[Рахьдал мацІ]]), жеги 50 миллион чияс хІалтІизабула ГІараб мацІ [[КІиабилеб мацІ|кІиабилеб мацІ]] гІадин. Классикияб гІараб мацІ — [[Къуръан|Къуръаналъул]] мацІ жибги кколеб — ккураб къагІидаялъ [[Ислам|динилда]] хІалтІизабула дунялалъулго бусурбабаца (гІаммаб къадар — 1,57 млрд чи<ref>[http://pewforum.org/newassets/images/reports/Muslimpopulation/Muslimpopulation.pdf Доклад Pew Research Center о распространённости ислама в мире" (2009 год)] {{webarchive|url=https://web.archive.org/web/20091010050756/http://pewforum.org/newassets/images/reports/Muslimpopulation/Muslimpopulation.pdf |date=2009-10-10 }}</ref>).
+
+==Классификация==
+
+== Тарих ==
+
+== Фонология ==
+
+== Грамматика ==
+
+=== Сурсатал ===
+{{refbegin}}
+* {{Citation |title = As-Sabil |url = https://fr.scribd.com/doc/14436546/Languages-Spoken-by-More-Than-10-Million-People }}
+* {{Citation |first = Mary Catherine |last = Bateson |title = Arabic Language Handbook |publisher = Georgetown University Press |year = 2003 |isbn = 978-0-87840-386-8 }}
+* {{Citation |last1=Durand |first1=Olivier |last2=Langone |first2=Angela D. |last3=Mion |first3=Giuliano |title = Corso di Arabo Contemporaneo. Lingua Standard |language = it |location = Milan |publisher = Hoepli |year=2010 |isbn = 978-88-203-4552-5 }}
+* {{Citation |title = Language in Africa |last = Gregersen |first = Edgar A. |year = 1977 |publisher = CRC Press |location =  |isbn = 978-0-677-04380-7 |url-access = registration |url = https://archive.org/details/languageinafrica0000greg }}
+* {{Citation |authorlink = George Grigore |first = George |last = Grigore |year = 2007 |title = L'arabe parlé à Mardin. Monographie d'un parler arabe périphérique |location = Bucharest |publisher = Editura Universitatii din Bucuresti |isbn = 978-973-737-249-9 |url = https://shamlnews.com/read.php?article=1022 |url-status = dead |archiveurl = https://web.archive.org/web/20070927072656/http://www.arc-news.com/read.php?lang=en&id_articol=1059 |archivedate = 27 September 2007 }}
+* {{Citation |title = Writing Arabic: A Linguistic Approach, from Sounds to Script |last1=Hanna |first1=Sami A. |first2=Naguib |last2=Greis |year=1972 |publisher=Brill Archive |isbn = 978-90-04-03589-8 }}
+* {{Citation |last1=Haywood |last2=Nahmad |title = A new Arabic grammar |location=London |year=1965 |isbn = 978-0-85331-585-8 |publisher=Lund Humphries }}
+* {{Citation |title=The Semitic languages |first1=Robert |last1=Hetzron |edition=Illustrated |publisher=Taylor & Francis |year = 1997 |isbn = 978-0-415-05767-7 }}
+* {{Citation |last1=Irwin |first=Robert |year=2006 |title=For Lust of Knowing |location=London |publisher=Allen Lane }}
+* {{Citation |first1=Robert B. |last1=Kaplan |first2=Richard B. |last2=Baldauf |title=Language Planning and Policy in Africa |publisher = Multilingual Matters |year = 2007 |isbn = 978-1-85359-726-8 }}
+* {{Citation |first = Alan S.|last = Kaye |year = 1991 |title = The Hamzat al-Waṣl in Contemporary Modern Standard Arabic |journal = Journal of the American Oriental Society |volume = 111 |issue= 3 |pages = 572–574 |doi = 10.2307/604273 |jstor = 604273 }}
+* {{Citation |first=Edward William |last=Lane |title=Arabic–English Lexicon |year=1893 |edition=2003 reprint |url=http://www.studyquran.co.uk/LLhome.htm |isbn=978-81-206-0107-9 |publisher=Asian Educational Services |location=New Delhi |access-date=24 August 2006 |archive-url=https://web.archive.org/web/20131210194335/http://www.studyquran.co.uk/LLhome.htm |archive-date=10 December 2013 |url-status=dead }}
+* {{Citation |last=Lipinski |first=Edward |year=1997 |title=Semitic Languages |location=Leuven |publisher=Peeters }}
+* {{Citation |last=Mion |first=Giuliano |title=La Lingua Araba |language=it |location=Rome |publisher=Carocci |year=2007 |isbn = 978-88-430-4394-1 }}
+* {{Citation |last = Mumisa |first = Michael |title = Introducing Arabic |publisher=Goodword Books |year=2003 |isbn = 978-81-7898-211-3 }}
+* {{Citation |first = S. |last = Procházka |year = 2006 |chapter = "Arabic" |title = Encyclopedia of Language and Linguistics |edition = 2nd }}
+* {{Citation |last = Steingass |first = Francis Joseph |authorlink = Francis Joseph Steingass |url = https://books.google.com/?id=3JXQh09i2JwC |title = Arabic–English Dictionary |publisher = Asian Educational Services |year = 1993 |isbn = 978-81-206-0855-9 }}
+* Suileman, Yasir. ''Arabic, Self and Identity: A Study in Conflict and Displacement''. Oxford University Press, 2011. {{ISBN|0-19-974701-6|978-0-19-974701-6}}.
+* {{cite book
+|last = Thelwall
+|first = Robin
+|year = 2003
+|chapter = Arabic
+|publisher = Cambridge University Press
+|location = Cambridge
+|isbn = 978-0-521-63751-0
+|title = Handbook of the International Phonetic Association a guide to the use of the international phonetic alphabet
+}}
+* {{Citation |first = R. |last = Traini |title = Vocabolario di arabo |publisher=I.P.O. |location=Rome |trans-title = Dictionary of Modern Written Arabic |language = it |agency = Harassowitz |year = 1961 }}
+* {{Citation |first = Laura Veccia |last = Vaglieri |title=Grammatica teorico-pratica della lingua araba |publisher=I.P.O. |location = Rome }}
+* {{Citation |first = Kees |last = Versteegh |title = The Arabic Language |publisher = Edinburgh University Press |year = 1997 |isbn = 978-90-04-17702-4 }}
+* {{Citation
+|last = Watson
+|first= Janet
+|year= 2002
+|title= The Phonology and Morphology of Arabic
+|location = New York
+|publisher = Oxford University Press
+|isbn = 978-0-19-824137-9
+}}
+* {{Citation |first = Hans |last = Wehr |title = Arabisches Wörterbuch für die Schriftsprache der Gegenwart: Arabisch-Deutsch |publisher = Harassowitz |year = 1952 |edition = 1985 reprint (English) |isbn = 978-3-447-01998-9 |title-link = Arabisches Wörterbuch für die Schriftsprache der Gegenwart }}
+* {{Citation |title = The New York Times Almanac 2002 |first = John W. |last = Wright |year = 2001 |publisher = Routledge |isbn = 978-1-57958-348-4 }}
+{{refend}}
+
+== КъватІисел линкал ==
+{{InterWiki |code = ar }}
+{{Wiktionary category}}
+{{Wikiversity}}
+{{Wikibooks|Arabic}}
+{{Commons category|Arabic language}}
+{{Wikiquote}}
+{{Wikivoyage|Arabic phrasebook|Arabic|a phrasebook}}
+* [[b:Language Learning Difficulty for English Speakers|Arabic: a Category III language]] Languages which are difficult for native English speakers.
+* [https://web.archive.org/web/20090114194203/http://www1.ccls.columbia.edu/~cadim/TUTORIAL.ARABIC.NLP.pdf Dr. Nizar Habash's, Columbia University, Introduction to Arabic Natural Language Processing]
+* [http://www.google.com/ta3reeb/ Google Ta3reeb – Google Transliteration]
+* [http://transliteration.org/quran/Pronunciation/Letters/TashP.htm Transliteration] Arabic language pronunciation applet
+* [http://alpage.inria.fr/~sagot/woler2011/WoLeR2011/Program_&_Proceedings_files/WoLeR%202011%20-%20Neme.pdf '' Alexis Neme (2011), A lexicon of Arabic verbs constructed on the basis of Semitic taxonomy and using finite-state transducers'']
+* [https://halshs.archives-ouvertes.fr/hal-00831338 '' Alexis Neme and Eric Laporte (2013), Pattern-and-root inflectional morphology: the Arabic broken plural'']
+* [https://www.academia.edu/13002690/Do_computer_scientists_deeply_understand_the_traditional_Arabic_morphology_%D9%87%D9%84_%D9%8A%D9%81%D9%87%D9%85_%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%88%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%D9%8A%D9%91%D9%88%D9%86_%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B5%D8%B1%D9%81_%D9%81%D9%87%D9%85%D8%A7%D9%8B_%D8%B9%D9%85%D9%8A%D9%82%D8%A7%D9%8B_   ''Alexis Neme and Eric Laporte (2015), Do computer scientists deeply understand Arabic morphology? – {{rtl-lang|ar|هل يفهم المهندسون الحاسوبيّون علم الصرف فهماً عميقاً؟}}'', available also in Arabic, Indonesian, French]
+* {{Cite NIE |last=Jastrow |first=Morris |authorlink=Morris Jastrow, Jr. |wstitle=Arabic Language and Literature |year=1905 |short=x}}
+* [https://findingaid.lib.byu.edu/viewItem/UA%205572/Series%202/carton%201/folder%209-13/ Arabic manuscripts, UA 5572] at [https://sites.lib.byu.edu/sc/ L. Tom Perry Special Collections], [[Brigham Young University]] [https://web.archive.org/web/20161104015044/https://arabic-keyboards.net/ Online Arabic Keyboard]
+* {{cite book |last = Catafago |first = Joseph |title = An English and Arabic Dictionary |url = https://archive.org/details/bub_gb_HssafteBbqYC/page/n5 |accessdate = 2018-10-18 |publisher = [[Bernard Quaritch]] |website = [[Internet Archive|archive.org]] |year = 1873 |edition = 2nd |location = London, England |language = en, ar |page = 1114 |archive-url = https://archive.today/20181019214744/https://archive.org/stream/bub_gb_HssafteBbqYC/bub_gb_HssafteBbqYC_djvu.txt |archive-date = 19 October 2018 |url-status = live }} (Bilingual dictionary)
+
+[[Category:Н.Щ. IX гІасруялдаса ругел мацІал]]
+[[Category:ГІараб мацІ| ]]
+[[Category:Централиял самиял мацІал]]
+[[Category:Fusional languages]]
+[[Category:Алжиралъул мацІал]]
+[[Category:БахІрайналъул мацІал]]
+[[Category:Камеруналъул мацІал]]
+[[Category:Чадалъул мацІал]]
+[[Category:Къумуразул мацІал]]
+[[Category:Джибутиялъул мацІал]]
+[[Category:Эритреялъул мацІа]]
+[[Category:Джибралтаралъул мацІал]]
+[[Category:Исраилалъул мацІал]]
+[[Category:Ираналъул мацІал]]
+[[Category:ГІиркъалъул мацІал]]
+[[Category:Урдуналъул мацІал]]
+[[Category:Курдистаналъул мацІал]]
+[[Category:Къувейталъул мацІал]]
+[[Category:Лубнаналъул мацІал]]
+[[Category:Либиялъул мацІал]]
+[[Category:Малиялъул мацІал]]
+[[Category:Мавританиялъул мацІал]]
+[[Category:Магърибалъул мацІал]]
+[[Category:Нигералъул мацІал]]
+[[Category:ГІуманалул мацІал]
+[[Category:ПилистІиналъул мацІал]]
+[[Category:КъатІаралъул мацІал]]
+[[Category:СагІудиязул ГІарабиялъул мацІал]]
+[[Category:Сенегалалъул мацІал]]
+[[Category:Жанубияб Суданалъул мацІал]]
+[[Category:Сицилиялъул мацІал]]
+[[Category:Сумалиялъул мацІал]]
+[[Category:Суданалъул мацІал]]
+[[Category:Сириялъул мацІал]]
+[[Category:Цолъарал ГІараб Имаратазул мацІал]]
+[[Category:Тунисалъул мацІал]]
+[[Category:Яманалъул мацІал]]
+[[Category:Stress-timed languages]]
+[[Category:Субъект–фигІлу–объект мацІал]]
+[[Category:фигІлу–субъект–объект мацІал]]
