@@ -1,0 +1,884 @@
+[[Файл:Jruchi Gospels MSS II.jpg|thumb|300px|Нусхури хатІалъ хъвараб Инжиласул тІамач. [[XII гІасру]].]]
+[[Файл:Алфавиты.JPG|thumb|right|220px|Армян ва некІсияб гуржи хъвай-хъвагІиялъул цо-цо хІарпазул релълъенлъи]]
+[[Файл:Georgean Caps.png|frame|right|''Мтаврули'']]
+
+'''Гуржи хъвай-хъвагІ'''ккола цо-цо картвел мацІаз — тІоцебесеб иргалда жаниб гуржи, ва гьединго мегрел, сван ва цогидаз — хІалтІизабулеб [[алипба|алипбаялъулаб хъвай-хъвагІи]]. Хъвала квегІидаса квараниде. Гьанжесеб гуржи алипбаялда буго 33 хІарп; алипбаялда гьечІо бетІерал хІарпал, амма текстазул бутІрузда ва цо-цо цогидал бакІазда тІубараб рагІи хъвазе бегьула хІарпазул тІасиял ва гъоркьиял элементал гьечІого, кІиго парллелиял мухъазда гьоркьоб гІадин (бл.сураталде) — гьединаб хъвай ккола цогидал алипбаязда ругел бетІерал хІарпазул аналог, гьелда абула «''мтаврули''»<ref>[http://www.unicode.org/L2/L2016/16081-n4712-georgian.pdf Revised proposal for the addition of Georgian characters to the UCS]</ref>. Гьеб гуржи хъвай-хъвагІиялъул тайпа буго бачун [[Юникод]]алде гъорлъе 11.0 версиялдаса байбихьун<ref>[http://www.unicode.org/alloc/Pipeline.html Proposed New Characters: The Pipeline]</ref>.
+
+== Алип ==
+ГІурччинаб кьералъ рихьизарун руго цере гуржи мацІалда, амма гьанже гІицІго цогидал мацІазда хІалтІизарулел хІарпал. БагІараб кьералъ —  цогидал мацІазда хІалтІизарулел, амма гуржи мацІалда киданиги рукІинчІел хІарпал. ХъахІилаб кьералъ — гуржи мацІалда хІалтІтзарулел рукІарал, амма гьанже кибниги гьечІел хІарпал. ЦІахІилаб кьералъ — цере цогидал мацІазда рукІарал, амма гьанже киниги гьечІел хІарпал.
+{| class="wikitable" style="margin-top: 0;" style="text-align: center;"
+! colspan="8" |ХӀарп
+! colspan="2" |ЦІар
+! rowspan="2" |[[Халкъаздагьоркьосеб фонетикияб алипба|ХФА]]
+! colspan="5" |Транскрипция ва транслитерация
+! rowspan="2" |Цифраби
+|-
+! colspan="2" |Асомтаврули <br>{{nobold|ႠႱႭႫႧႠႥႰႳႪႨ}}
+! colspan="2" |Нусхури <br>{{nobold|ⴌⴓⴑⴞⴓⴐⴈ}}
+! colspan="2" |Мхедрули <br>{{nobold|მხედრული}}
+! colspan="2" |Мтаврули <br>{{nobold|{{mf|ᲛᲗᲐᲕᲠᲣᲚᲘ}}}}
+!Оригиналияб
+!Авар
+!Национальная романизация
+![[ISO 9984]]
+![[Романизация BGN/PCGN]]
+![[Лаз мацІ#хъвай-хъвагІи|Лаз латиница]]
+![[Абхаз хъвай-хъвагІи|Абхаз кириллица]]
+|-
+|[[Файл:Asomtavruli a.svg|15px]]
+|Ⴀ
+|[[Файл:Nuskhuri a.svg|15px]]
+|ⴀ
+|[[Файл:Mkhedruli a.svg|10px]]
+|ა
+|[[Файл:Mtavruli ani.svg|x20px]]
+|{{mf|Ა}}
+|ანი
+|[[Ани (хӀарп)|ани]]
+|{{ӀPA|ɑ}}, сван мацӀалда — {{ӀPA|a}}, {{ӀPA|æ}}
+| A a
+| A a
+|A a
+|A a
+| А а
+|1
+|-
+|[[Файл:Asomtavruli b.svg|15px]]
+|Ⴁ
+|[[Файл:Nuskhuri b.svg|13px]]
+|ⴁ
+|[[Файл:Mkhedruli b.svg|10px]]
+|ბ
+|[[Файл:Mtavruli bani.svg|x20px]]
+|{{mf|Ბ}}
+|ბანი
+|[[Бани (хӀарп)|бани]]
+|{{ӀPA|b}}
+| B b
+| B b
+|B b
+|B b
+| Б б
+|2
+|-
+|[[Файл:Asomtavruli g.svg|15px]]
+|Ⴂ
+|[[Файл:Nuskhuri g.svg|15px]]
+|ⴂ
+|[[Файл:Mkhedruli g.svg|10px]]
+|გ
+|[[Файл:Mtavruli gani.svg|x20px]]
+|{{mf|Გ}}
+|განი
+|[[Гани (хӀарп)|гани]]
+|{{ӀPA|ɡ}}
+| G g
+| G g
+|G g
+|G g
+| Г г
+|3
+|-
+|[[Файл:Asomtavruli d.svg|15px]]
+|Ⴃ
+|[[Файл:Nuskhuri d.svg|15px]]
+|ⴃ
+|[[Файл:Mkhedruli d.svg|15px]]
+|დ
+|[[Файл:Mtavruli doni.svg|x20px]]
+|{{mf|Დ}}
+|დონი
+|[[Дони (хӀарп)|дони]]
+|{{ӀPA|d}}
+| D d
+| D d
+|D d
+|D d
+| Д д
+|4
+|-
+|[[Файл:Asomtavruli e.svg|13px]]
+|Ⴄ
+|[[Файл:Nuskhuri e.svg|15px]]
+|ⴄ
+|[[Файл:Mkhedruli e.svg|10px]]
+|ე
+|[[Файл:Mtavruli eni.svg|x20px]]
+|{{mf|Ე}}
+|ენი
+|[[Эни (хӀарп)|эни]]
+|{{ӀPA|ɛ}}
+| E e
+| E e
+|E e
+|E e
+| Е е
+|5
+|-
+|[[Файл:Asomtavruli v.svg|17px]]
+|Ⴅ
+|[[Файл:Nuskhuri v.svg|17px]]
+|ⴅ
+|[[Файл:Mkhedruli v.svg|10px]]
+|ვ
+|[[Файл:Mtavruli vini.svg|x20px]]
+|{{mf|Ვ}}
+|ვინი
+|[[Вини (хӀарп)|вини]]
+|{{ӀPA|v}}
+| V v
+| V v
+|V v
+|V v
+| В в
+|6
+|-
+|[[Файл:Asomtavruli z.svg|15px]]
+|Ⴆ
+|[[Файл:Nuskhuri z.svg|15px]]
+|ⴆ
+|[[Файл:Mkhedruli z.svg|10px]]
+|ზ
+|[[Файл:Mtavruli zeni.svg|x20px]]
+|{{mf|Ზ}}
+|ზენი
+|[[Зени (хӀарп)|зени]]
+|{{ӀPA|z}}
+| Z z
+| Z z
+|Z z
+|Z z
+| З з
+|7
+|- bgcolor="#DFD"
+|[[Файл:Asomtavruli he.svg|x20px]]
+|Ⴡ
+|[[Файл:Nuskhuri he.svg|x20px]]
+|ⴡ
+|[[Файл:Mkhedruli he.svg|x20px]]
+|ჱ
+|[[Файл:Mtavruli he.svg|x20px]]
+|{{mf|Ჱ}}
+|ეჲ
+|[[Эй (хӀарп)|эй]]
+|{{ӀPA|e|ɪ}}, [[Сван мацІ|сван мацӀалда]] — {{ӀPA|e|ː}}
+|—
+|Ē ē
+|Ey ey
+|—
+|—
+|8
+|-
+|[[Файл:Asomtavruli t.svg|20px]]
+|Ⴇ
+|[[Файл:Nuskhuri t.svg|20px]]
+|ⴇ
+|[[Файл:Mkhedruli t.svg|15px]]
+|თ
+|[[Файл:Mtavruli tani.svg|x20px]]
+|{{mf|Თ}}
+|თანი
+|[[Тхани (хӀарп)|тхани]]
+|{{ӀPA|tʰ}}
+| T t
+| T' t'
+|T' t'
+|T t
+| Ҭ ҭ
+|9
+|-
+|[[Файл:Asomtavruli i.svg|15px]]
+|Ⴈ
+|[[Файл:Nuskhuri i.svg|15px]]
+|ⴈ
+|[[Файл:Mkhedruli i.svg|10px]]
+|ი
+|[[Файл:Mtavruli ini.svg|x20px]]
+|{{mf|Ი}}
+|ინი
+|[[Ини (гуржи хӀарп)|ини]]
+|{{ӀPA|ɪ}}
+| I i
+| I i
+|I i
+|I i
+| И и
+|10
+|-
+|[[Файл:Asomtavruli k'.svg|15px]]
+|Ⴉ
+|[[Файл:Nuskhuri k'.svg|15px]]
+|ⴉ
+|[[Файл:Mkhedruli k'.svg|10px]]
+|კ
+|[[Файл:Mtavruli k’ani.svg|x20px]]
+|{{mf|Კ}}
+|კანი
+|[[Кани (хӀарп)|кани]]
+|{{ӀPA|kʼ}}
+| K' k'
+| K k
+|K k
+|Ǩ ǩ
+| К к
+|20
+|-
+|[[Файл:Asomtavruli l.svg|17px]]
+|Ⴊ
+|[[Файл:Nuskhuri l.svg|19px]]
+|ⴊ
+|[[Файл:Mkhedruli l.svg|22px]]
+|ლ
+|[[Файл:Mtavruli lasi.svg|x20px]]
+|{{mf|Ლ}}
+|ლასი
+|[[ласи]]
+|{{ӀPA|l}}
+| L l
+| L l
+|L l
+|L l
+| Л л
+|30
+|-
+|[[Файл:Asomtavruli m.svg|15px]]
+|Ⴋ
+|[[Файл:Nuskhuri m.svg|15px]]
+|ⴋ
+|[[Файл:Mkhedruli m.svg|10px]]
+|მ
+|[[Файл:Mtavruli mani.svg|x20px]]
+|{{mf|Მ}}
+|მანი
+|[[Мани (хӀарп)|мани]]
+|{{ӀPA|m}}
+| M m
+| M m
+|M m
+|M m
+| М м
+|40
+|-
+|[[Файл:Asomtavruli n.svg|15px]]
+|Ⴌ
+|[[Файл:Nuskhuri n.svg|15px]]
+|ⴌ
+|[[Файл:Mkhedruli n.svg|10px]]
+|ნ
+|[[Файл:Mtavruli nari.svg|x20px]]
+|{{mf|Ნ}}
+|ნარი
+|[[Нари (хӀарп)|нари]]
+|{{ӀPA|n}}
+| N n
+| N n
+|N n
+|N n
+| Н н
+|50
+|- bgcolor="#DFD"
+|[[Файл:Asomtavruli ie.svg|15px]]
+|Ⴢ
+|[[Файл:Nuskhuri ie.svg|15px]]
+|ⴢ
+|[[Файл:Mkhedruli ie.svg|10px]]
+|ჲ
+|[[Файл:Mtavruli hie.svg|x20px]]
+|{{mf|Ჲ}}
+|ჲე
+|[[Йе (хӀарп)|йе]]
+|{{ӀPA|j|e}}, [[Мегрел мацІ|мегрел]], <br>[[Лаз мацІ|лаз]] ва <br>[[Сван мацІ|сван]] мацІалда — {{ӀPA|j}}, [[Абхаз мацІ|абхаз]] — [ʲ] ([[палатализация]])
+|—
+|Y y
+|Y y
+|Y y
+|Ь ь
+|60
+|-
+|[[Файл:Asomtavruli o.svg|16px]]
+|Ⴍ
+|[[Файл:Nuskhuri o.svg|18px]]
+|ⴍ
+|[[Файл:Mkhedruli o.png|15px]]
+|ო
+|[[Файл:Mtavruli oni.svg|x22px]]
+|{{mf|Ო}}
+|ონი
+|[[Они (хӀарп)|они]]
+|{{ӀPA|ɔ}}, сван мацӀалда — {{ӀPA|ɔ}}, {{ӀPA|œ}}
+| O o
+| O o
+|O o
+|O o
+| О о
+|70
+|-
+|[[Файл:Asomtavruli p'.svg|15px]]
+|Ⴎ
+|[[Файл:Nuskhuri p'.svg|15px]]
+|ⴎ
+|[[Файл:Mkhedruli p'.png|10px]]
+|პ
+|[[Файл:Mtavruli p’ari.svg|x20px]]
+|{{mf|Პ}}
+|პარი
+|[[Пари (хӀарп)|пари]]
+|{{ӀPA|pʼ}}
+| P' p'
+| P p
+|P p
+|Ṗ ṗ
+| П п
+|80
+|-
+|[[Файл:Asomtavruli zh.svg|15px]]
+|Ⴏ
+|[[Файл:Nuskhuri zh.svg|15px]]
+|ⴏ
+|[[Файл:Mkhedruli zh.svg|10px]]
+|ჟ
+|[[Файл:Mtavruli zhani.svg|x20px]]
+|{{mf|Ჟ}}
+|ჟანი
+|[[жани]]
+|{{ӀPA|ʒ}}
+| Zh zh
+| Ž ž
+|Zh zh
+|J j
+| Ж ж
+|90
+|-
+|[[Файл:Asomtavruli r.svg|15px]]
+|Ⴐ
+|[[Файл:Nuskhuri r.svg|15px]]
+|ⴐ
+|[[Файл:Mkhedruli r.svg|15px]]
+|რ
+|[[Файл:Mtavruli rae.svg|x20px]]
+|{{mf|Რ}}
+|რაე
+|[[раэ]]
+|{{ӀPA|r}}
+| R r
+| R r
+|R r
+|R r
+| Р р
+|100
+|-
+|[[Файл:Asomtavruli s.svg|13px]]
+|Ⴑ
+|[[Файл:Nuskhuri s.svg|13px]]
+|ⴑ
+|[[Файл:Mkhedruli s.svg|10px]]
+|ს
+|[[Файл:Mtavruli sani.svg|x20px]]
+|{{mf|Ს}}
+|სანი
+|[[Сани (хӀарп)|сани]]
+|{{ӀPA|s}}
+| S s
+| S s
+|S s
+|S s
+| С с
+|200
+|-
+|[[Файл:Asomtavruli t'.svg|13px]]
+|Ⴒ
+|[[Файл:Nuskhuri t'.svg|13px]]
+|ⴒ
+|[[Файл:Mkhedruli t'.svg|15px]]
+|ტ
+|[[Файл:Mtavruli t’ari.svg|x20px]]
+|{{mf|Ტ}}
+|ტარი
+|[[Тари (хӀарп)|тари]]
+|{{ӀPA|tʼ}}
+| T' t'
+| T t
+|T t
+|Ť ť
+| Т т
+|300
+|- bgcolor="#DFD"
+|[[Файл:Asomtavruli vie.svg|13px]]
+|Ⴣ
+|[[Файл:Nuskhuri vie.svg|13px]]
+|ⴣ
+|[[Файл:Mkhedruli vie.svg|10px]]
+| ჳ
+|[[Файл:Mtavruli vie.svg|x20px]]
+|{{mf|Ჳ}}
+|ჳე
+|[[Ви (хӀарп)|ви]]
+|{{ӀPA|u|ɪ}}, сван мацӀалда — {{ӀPA|w}}
+| —
+| W w
+|—
+|—
+| Ҩ ҩ
+|400
+|-
+|[[Файл:Asomtavruli u.svg|20px]]
+|Ⴓ
+|[[Файл:Nuskhuri u.svg|17px]]
+|ⴓ
+|[[Файл:Mkhedruli u.png|10px]]
+|უ
+|[[Файл:Mtavruli uni.svg|x20px]]
+|{{mf|Უ}}
+|უნი
+|[[Уни (хӀарп)|уни]]
+|{{ӀPA|u}}, сван мацӀалда — {{ӀPA|u}}, {{ӀPA|y}}
+| U u
+| U u
+|U u
+|U u
+| У у
+|400
+|- bgcolor="#FDD"
+|[[Файл:Asomtavruli shwa.svg|13px]]
+|{{mf|Ⴧ}}
+|[[Файл:Nuskhuri shwa.svg|13px]]
+|{{mf|ⴧ}}
+|[[Файл:Mkhedruli shwa.svg|10px]]
+|ჷ
+|
+|{{mf|Ჷ}}
+|ჷნ
+|[[Ын (грузинская хӀарп)|ჷ]]
+| мегрел ва сван мацІазда — {{ӀPA|ə}}
+|—
+|—
+|—
+|—
+|Ы ы
+|—
+|-
+|[[Файл:Asomtavruli p.svg|15px]]
+|Ⴔ
+|[[Файл:Nuskhuri p.svg|15px]]
+|ⴔ
+|[[Файл:Mkhedruli p.svg|15px]]
+|ფ
+|[[Файл:Mtavruli pari.svg|x20px]]
+|{{mf|Ფ}}
+|ფარი
+|[[пхари]]
+|{{ӀPA|p|ʰ}}
+| P p
+| P' p'
+|P' p'
+|P p
+| Ԥ ԥ
+|500
+|-
+|[[Файл:Asomtavruli k.svg|15px]]
+|Ⴕ
+|[[Файл:Nuskhuri k.svg|15px]]
+|ⴕ
+|[[Файл:Mkhedruli k.svg|10px]]
+|ქ
+|[[Файл:Mtavruli kani.svg|x20px]]
+|{{mf|Ქ}}
+|ქანი
+|[[кхани]]
+|{{ӀPA|k|ʰ}}
+| K k
+| K' k'
+|K' k'
+|K k
+| Қ қ
+|600
+|-
+|[[Файл:Asomtavruli gh.svg|15px]]
+|Ⴖ
+|[[Файл:Nuskhuri gh.svg|15px]]
+|ⴖ
+|[[Файл:Mkhedruli gh.svg|15px]]
+|ღ
+|[[Файл:Mtavruli ghani.svg|x20px]]
+|{{mf|Ღ}}
+|ღანი
+|[[гъани]]
+|{{ӀPA|ʁ}}
+| Gh gh
+| Ḡ ḡ
+|Gh gh
+|Ğ ğ
+| Ӷ ӷ
+|700
+|-
+|[[Файл:Asomtavruli q'.svg|15px]]
+|Ⴗ
+|[[Файл:Nuskhuri q'.svg|15px]]
+|ⴗ
+|[[Файл:Mkhedruli q'.svg|10px]]
+|ყ
+|[[Файл:Mtavruli q’ari.svg|x20px]]
+|{{mf|Ყ}}
+|ყარი
+|[[Къари (хӀарп)|ъкари]]
+|{{ӀPA|qʼ}}
+| Q' q'
+| Q q
+|Q q
+|Q q
+| Ҟ ҟ
+|800
+|- bgcolor="#FDD"
+| colspan="2" |—
+| colspan="2" |—
+|[[Файл:Mkhedruli 'ain.svg|10px]]
+|ჸ
+|[[Файл:Mtavruli elif.svg|x20px]]
+|{{mf|Ჸ}}
+|ელიჶი (ჸინი)
+|[[Элифи|ჸ]]
+| мегрель ва сван мацІазда — {{ӀPA|ʔ}}
+|—
+|—
+|—
+|
+|—
+|—
+|-
+|[[Файл:Asomtavruli sh.svg|15px]]
+|Ⴘ
+|[[Файл:Nuskhuri sh.svg|15px]]
+|ⴘ
+|[[Файл:Mkhedruli sh.svg|10px]]
+|შ
+|[[Файл:Mtavruli shini.svg|x20px]]
+|{{mf|Შ}}
+|შინი
+|[[Шини (хӀарп)|шини]]
+|{{ӀPA|ʃ}}
+| Sh sh
+| Š š
+|Sh sh
+|Ş ş
+| Шь шь
+|900
+|-
+|[[Файл:Asomtavruli ch.svg|15px]]
+|Ⴙ
+|[[Файл:Nuskhuri ch.svg|15px]]
+|ⴙ
+|[[Файл:Mkhedruli ch.svg|10px]]
+|ჩ
+|[[Файл:Mtavruli chini.svg|x20px]]
+|{{mf|Ჩ}}
+|ჩინი
+|[[чини]]
+|{{ӀPA|t͡ʃ}}
+| Ch ch
+| Č' č'
+|Ch' ch'
+|Ç ç
+| Ч ч
+|1000
+|-
+|[[Файл:Asomtavruli ts.svg|15px]]
+|Ⴚ
+|[[Файл:Nuskhuri ts.svg|15px]]
+|ⴚ
+|[[Файл:Mkhedruli ts.svg|10px]]
+|ც
+|[[Файл:Mtavruli tsani.svg|x20px]]
+|{{mf|Ც}}
+|ცანი
+|[[цани]]
+|{{ӀPA|t͡s}}
+| Ts ts
+| C' c'
+|Ts' ts'
+|Ts ts
+| Ц ц
+|2000
+|-
+|[[Файл:Asomtavruli dz.svg|15px]]
+|Ⴛ
+|[[Файл:Nuskhuri dz.svg|15px]]
+|ⴛ
+|[[Файл:Mkhedruli dz.svg|10px]]
+|ძ
+|[[Файл:Mtavruli dzili.svg|x20px]]
+|{{mf|Ძ}}
+|ძილი
+|[[дзили]]
+|{{ӀPA|d͡z}}
+| Dz dz
+| J j
+|Dz dz
+|Ž ž
+|Ӡ ӡ
+|3000
+|-
+|[[Файл:Asomtavruli ts'.svg|15px]]
+|Ⴜ
+|[[Файл:Nuskhuri ts'.svg|15px]]
+|ⴜ
+|[[Файл:Mkhedruli ts'.svg|10px]]
+|წ
+|[[Файл:Mtavruli ts’ili.svg|x20px]]
+|{{mf|Წ}}
+|წილი
+|[[цили]]
+|{{ӀPA|t͡sʼ}}
+| Ts' ts'
+| C c
+|Ts ts
+|Ts’ ts’
+| Ҵ ҵ
+|4000
+|-
+|[[Файл:Asomtavruli ch'.svg|15px]]
+|Ⴝ
+|[[Файл:Nuskhuri ch'.svg|15px]]
+|ⴝ
+|[[Файл:Mkhedruli ch'.svg|10px]]
+|ჭ
+|[[Файл:Mtavruli ch’ari.svg|x20px]]
+|{{mf|Ჭ}}
+|ჭარი
+|[[чІари]]
+|{{ӀPA|t͡ʃʼ}}
+| Ch' ch'
+| Č č
+|Ch ch
+|Ç̌ ç̌
+| Ҷ ҷ
+|5000
+|-
+|[[Файл:Asomtavruli kh.svg|15px]]
+|Ⴞ
+|[[Файл:Nuskhuri kh.svg|15px]]
+|ⴞ
+|[[Файл:Mkhedruli kh.svg|10px]]
+|ხ
+|[[Файл:Mtavruli khani.svg|x20px]]
+|{{mf|Ხ}}
+|ხანი
+|[[Хани (хӀарп)|хани]]
+|{{ӀPA|χ}}
+| Kh kh
+| X x
+|Kh kh
+|X x
+| Х х
+|6000
+|- bgcolor="#DFD"
+|[[Файл:Asomtavruli hari.svg|15px]]
+|Ⴤ
+|[[Файл:Nuskhuri hari.svg|15px]]
+|ⴤ
+|[[Файл:Mkhedruli hari.svg|10px]]
+| ჴ
+|[[Файл:Mtavruli qari.svg|x20px]]
+|{{mf|Ჴ}}
+|ჴარი
+|[[Хари (хӀарп)|хари]]
+|{{ӀPA|q}}
+| —
+| H̠ ẖ
+|q'
+|—
+| —
+|7000
+|-
+|[[Файл:Asomtavruli j.svg|15px]]
+|Ⴟ
+|[[Файл:Nuskhuri j.svg|15px]]
+|ⴟ
+|[[Файл:Mkhedruli j.svg|10px]]
+|ჯ
+|[[Файл:Mtavruli jani.svg|x20px]]
+|{{mf|Ჯ}}
+|ჯანი
+|[[Джани (хӀарп)|джани]]
+|{{ӀPA|d͡ʒ}}
+| J j
+| J̌ ǰ
+|J j
+|C c
+| Џь џь
+|8000
+|-
+|[[Файл:Asomtavruli h.svg|15px]]
+|Ⴠ
+|[[Файл:Nuskhuri h.svg|17px]]
+|ⴠ
+|[[Файл:Mkhedruli h.svg|10px]]
+|ჰ
+|[[Файл:Mtavruli hae.svg|x20px]]
+|{{mf|Ჰ}}
+|ჰაე
+|[[хаэ]]
+|{{ӀPA|h}}
+| H h
+| H h
+|H h
+|H h
+| Ҳ ҳ
+|9000
+|- bgcolor="#DDF"
+|[[Файл:Asomtavruli hoe.svg|15px]]
+|Ⴥ
+|[[Файл:Nuskhuri hoe.png|17px]]
+|ⴥ
+|[[Файл:Mkhedruli hoe.svg|10px]]
+|ჵ
+|[[Файл:Mtavruli hoe.svg|x20px]]
+|{{mf|Ჵ}}
+|ჰოე
+|[[Хоэ (хӀарп)|хоэ]]
+|{{ӀPA|o|ː}}
+|—
+|Ō ō
+|—
+|—
+|—
+|10000
+|- bgcolor="#FDD"
+| colspan="2" |—
+| colspan="2" |—
+|[[Файл:Mkhedruli fi.svg|15px]]
+|ჶ
+|[[Файл:Mtavruli fi.svg|x20px]]
+|{{mf|Ჶ}}
+|ჶი
+|[[Фи (ueh;b хӀарп)|ჶ]]
+| лаз мацӀалда — {{ӀPA|f}}
+|—
+|F f
+|—
+|F f
+|Ф ф
+|—
+|- bgcolor="#DDD"
+| colspan="2" |—
+| colspan="2" |—
+|
+|ჹ
+|
+|{{mf|Ჹ}}
+|—
+|[[нахъбуссараб гани|ჹ]]
+|дагъистаналъулал мацІазда — {{ӀPA|ɢ}}, табасаран — {{ӀPA|ɣ}}
+|—
+|—
+|—
+|—
+|—
+|—
+|- bgcolor="#DDD"
+| colspan="2" |—
+| colspan="2" |—
+|
+|ჺ
+|
+|{{mf|Ჺ}}
+|—
+|[[Айни (хӀарп)|ჺ]]
+|бацбиязул мацӀалда — {{ӀPA|ʕ}}
+|—
+|—
+|—
+|—
+|—
+|—
+|- bgcolor="#DDD"
+| colspan="2" |—
+| colspan="2" |—
+|
+|ჼ
+| colspan="2" |—
+|—
+|[[мухъдатІасаб нари|ჼ]]
+|бацбиязул мацӀалда — цебесеб рагьаралъул назализация 
+|—
+|—
+|—
+|—
+|—
+|—
+|- bgcolor="#DDD"
+|
+|{{mf|Ⴭ}}
+|
+|{{mf|ⴭ}}
+|
+|{{mf|ჽ}}
+|
+|{{mf|Ჽ}}
+|აენ
+|[[Аэн (хӀарп)|ჽ]]
+|осетин мацӀалда — {{ӀPA|ɐ}}
+|—
+|—
+|—
+|—
+|—
+|—
+|- bgcolor="#DDD"
+| colspan="2" |—
+| colspan="2" |—
+|
+|{{mf|ჾ}}
+|
+|{{mf|Ჾ}}
+|—
+|[[Къараб ишара (гуржи хӀарп)|ჾ]]
+|абхаз мацӀалда — цебесеб гьаракьалъул интенсивизация
+|—
+|—
+|—
+|—
+|—
+|—
+|- bgcolor="#DDD"
+| colspan="2" |—
+| colspan="2" |—
+|
+|{{mf|ჿ}}
+|
+|{{mf|Ჿ}}
+|—
+|[[лабиализацииялъул ишара (гуржи хӀарп)|ჿ]]
+|абхаз мацӀалда — цебесеб гьаракьалъул лабиализация
+|—
+|—
+|—
+|—
+|Ә ә
+|—
+|}
+
+
+== ХІужаби ==
+{{хІужаби}}
+
+== РегІелал ==
+* [https://www.nukri.org/ Грузинский алфавит для детей (для печати)]
+* [http://ge.translit.cc/ Грузинский транслит и виртуальная грузинская клавиатура (грузино-английский)]
+* [https://web.archive.org/web/20051025110700/http://ncnever.free.fr/translit/ Грузинский транслит (грузино-английский)]
+* [http://www.lingvoconverter.com/translit/rukirilic/gruzin Грузино-русская транслитерация]
+* [http://www.nukri.org/index.php?module=pnForum&func=viewtopic&topic=1932 Л. Чхаидзе, обзор гипотез о происхождении грузинского алфавита]
+* [http://info-7.ru/Titlo/Titlo.shtml «Титло»] — переводчик чисел, записанных грузинскими и другими хӀарпми.
+* {{книга
+|автор        = Гамкрелидзе, Т.
+|заглавие     = Алфавитное письмо и древнегрузинская письменность
+|место        = Тбилиси
+|издательство = изд. Тбилисского университета
+|год          = 1989
+|страниц      = 
+|isbn         =
+}}
+* Хурцилава, Б. Грузинский алфавит Асомтаврули и её создатели: Бакур и Гри Ормизд, Тбилиси, 2009 *Khurtsilava, B. The inscriptions of the Georgian Monastery in B’ir el-Qutt and their chronology, «Historical Verticals», #35-36, 2016 [https://web.archive.org/web/20080828215519/http://www.kartvfund.org.ge/kartvelologistcontents.html Levan Chilashvili. «The Pre-Christian Georgian inscription from Nekresi».- Centre for Kartvelian Studies, Tbilisi State University. The Kartvelologist (Journal of Georgian Studies), no. 7, Tbilisi, 2000]
+* [https://web.archive.org/web/20140826115427/http://georgia.orthodoxy.ru/index.php?cat=_prays&ii=0&jj=6 Образец старогрузинских текстов (псалмы)]
+
+[[Категория:Хъвай-хъвагІи]]
+[[Категория:Гуржи хъвай-хъвагІи| ]]
