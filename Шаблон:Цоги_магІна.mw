@@ -1,1 +1,4 @@
-{{#invoke:hatnote|hatnote|hide_disambig=1}}<noinclude>{{doc}}</noinclude>
+<includeonly>{{#invoke:Hatnote|hatnote}}</includeonly><noinclude>
+{{doc}}
+<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->
+</noinclude>
