@@ -1,12 +1,28 @@
-{{Хъвай-хъвагІиялъул система|цІар=ГІараб алипба|цогидаб цІар={{Lang-ar|أَلْأَبْجَدِيَّة ٱلْعَرَبِيَّة}}|тайпа=[[абджадия]]|мисал=Arabic Language.svg|сурат_гІеблъи=200px|гъоркьхъвай=|мацІал=[[ГІараб мацІ]]|гІуцІарав=|къо-моцІ=|публикация=|заман=III яги IV гІ. — жакъа къоялъги|статус=|fam1=[[Египеталъулал гьиероглифал|Египеталъулаб]]|fam2=[[Прото-Синаялъулаб хъвай-хъвагІи|Прото-Синаялъулаб]]|fam3=[[Финикъияб алипба|Финикъияб]]|fam4=[[Арамияб алипба |Арамияб]]|fam5=[[НабатІияб алипба|НабатІияб]]|хатІ кьаби=|ирсилал=|гІагарал=|iso15924=Arab|юникод={{ublist
+{{Infobox writing system
+ |name=ГӀараб алифба
+ |type=[[Абджад]]
+ |languages=[[ГӀараб мацӀ|ГӀараб]]
+ |time= III яги IV гӀасруялдаса нахъе
+ |fam1=[[Египтиял гьиероглифал]]
+ |fam2=[[Прото-Сайнаъаб хъвай-хъвагӀи|Прото-Сайнаъаб]]
+ |fam3=[[Финикияб алифба|Финикияб]]
+ |fam4=[[Арамаяб алифба|Арамаяб]]
+ |fam5=[[Набатеяб алифба|Набатеяб]]
+ |unicode={{ublist
  |class=nowrap
  |[https://www.unicode.org/charts/PDF/U0600.pdf U+0600–U+06FF]<br /> {{smaller|Arabic}},
- |[https://www.unicode.org/charts/PDF/U0750.pdf U+0750–U+077F]<br /> {{smaller|Arabic Supplement}},  
+ |[https://www.unicode.org/charts/PDF/U0750.pdf U+0750–U+077F]<br /> {{smaller|Arabic Supplement}},
+ |
+[https://www.unicode.org/charts/PDF/U0870.pdf U+0870-U+089F]<br>{{smaller|Arabic Extended-B}},
  |[https://www.unicode.org/charts/PDF/U08A0.pdf U+08A0–U+08FF]<br /> {{smaller|Arabic Extended-A}},
  |[https://www.unicode.org/charts/PDF/UFB50.pdf U+FB50–U+FDFF]<br /> {{smaller|Arabic Presentation Forms-A}},
  |[https://www.unicode.org/charts/PDF/UFE70.pdf U+FE70–U+FEFF]<br /> {{smaller|Arabic Presentation Forms-B}},
  |[https://www.unicode.org/charts/PDF/U1EE00.pdf U+1EE00–U+1EEFF]<br /> {{smaller|Arabic Mathematical Alphabetic Symbols}}
-}}|баян=}}
+}}
+ |iso15924=Arab
+ |sample=Arabic Language.svg
+ |imagesize=200px
+ }}
 
 [[Файл:Arabic_alphabet_world_distribution.png|мини|400x400пкс|ГІараб хъвай-хъвагІи хІалтІизарулел пачалихъал: {{Legend|#00884B|цохІо бугеб расмияб хъвай-хъвагІи}}
 {{Legend|#83C30F|цогидаб расмияб хъвай-хъвагІигун бугеб}}]]
