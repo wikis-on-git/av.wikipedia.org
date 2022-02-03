@@ -1,3 +1,107 @@
+{{Инфобокс
+| стиль_лага        = border-collapse:collapse
+| тӀаса            = Бакъ [[File:Sun symbol (bold).svg|24px|☉]]
+| сурат            = [[File:The Sun in white light.jpg||frameless]]
+| гъоркьхъвай          = True-color image taken in 2019 in the entire spectrum of [[visible light]] using a [[solar filter]].
+| сурат2           = [[File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg|frameless]]
+| гъоркьхъвай2         = [[False color|False-color]] image taken in 2010 as seen in [[ultraviolet light]] (wavelength of 30.4 nm)
+| стиль_бутӀрул      = background:#FCC857
+| стиль_гӀаламатал       = padding:2px; text-align:left;
+| стиль_текст        = padding:2px; text-align:left;
+| гӀаламат1           = Names
+| текст1            = Бакъ, [[Сол (Ромулъул мифология)|Sol]],<ref name=OED/> [[Бакъ (Германиязул мифология)|Sól]], [[Гьелиос]]<ref name=Lexico/>
+| гӀаламат2           = Сипатал
+| текст2            = Соларияб ({{lang-en|solar}})<ref name=OED2/>
+<!-- section break, rows 1-19-->| бетӀер3          = Халкквеялъул баянал
+| гӀаламат4           = Ракьалдаса<br/>гьоркьохъеб манзил
+| текст4            = {{val|1|ul=AU}} ≈ {{val|1.496|e=8|u=km}}<ref name="Pitjeva2009">{{Cite journal |last1=Pitjeva |first1=E. V. |last2=Standish |first2=E. M. |date=2009 |title=Proposals for the masses of the three largest asteroids, the Moon–Earth mass ratio and the Astronomical Unit |journal=[[Celestial Mechanics and Dynamical Astronomy]] |language=en |volume=103 |issue=4 |pages=365–372 |doi=10.1007/s10569-009-9203-8 |issn=1572-9478 |url=https://zenodo.org/record/1000691 |bibcode=2009CeMDA.103..365P |s2cid=121374703 |access-date=13 July 2019 |archive-date=9 July 2019 |archive-url=https://web.archive.org/web/20190709062657/https://zenodo.org/record/1000691 |url-status=live }}</ref><br/>8&nbsp;min 19&nbsp;s at [[speed of light|light speed]]
+| гӀаламат5           = [[Кколеб магнитуда|Визуалияб гвангъи]] (''V'')
+| текст5            = −26.74<ref name=nssdc>{{cite web |last=Williams |first=D.R. |date=1 July 2013 |title=Sun Fact Sheet |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html |publisher=[[NASA Goddard Space Flight Center]] |access-date=12 August 2013 |archive-url=https://web.archive.org/web/20100715200549/http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html |archive-date=15 July 2010 |url-status=live}}</ref>
+| гӀаламат6           = [[Абсолютияб магнитуда]]
+| текст6            = 4.83<ref name=nssdc />
+| гӀаламат7           = [[Стелларияб классификацион|Спектралияб классификация]]
+| текст7            = G2V<ref>{{cite book |last=Zombeck |first=Martin V. |date=1990 |title=Handbook of Space Astronomy and Astrophysics 2nd edition |publisher=[[Cambridge University Press]] |url=http://ads.harvard.edu/books/hsaa/ |access-date=13 January 2016 |archive-date=3 February 2021 |archive-url=https://web.archive.org/web/20210203012304/http://ads.harvard.edu/books/hsaa/ |url-status=live }}</ref>
+| гӀаламат8           = [[Металлъи]]
+| текст8            = ''Z'' = 0.0122<ref>{{cite journal |last1=Asplund |first1=M. |last2=Grevesse |first2=N. |last3=Sauval |first3=A.J. |date=2006 |title=The new solar abundances – Part I: the observations |journal=Communications in Asteroseismology |volume=147 |pages=76–79 |bibcode=2006CoAst.147...76A |doi=10.1553/cia147s76|s2cid=123824232 |doi-access=free }}</ref>
+| гӀаламат9           = [[Ангуларияб роцен]]
+| текст9            = 31.6–32.7 [[minutes of arc]]<ref>{{cite web |title=Eclipse 99: Frequently Asked Questions |url=http://education.gsfc.nasa.gov/eclipse/pages/faq.html |publisher=NASA |access-date=24 October 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100527142627/http://education.gsfc.nasa.gov/eclipse/pages/faq.html |archive-date=27 May 2010 }}</ref><br/>{{nowrap|0.527–0.545 [[градус (бокӀон)|градус]]}}
+| бетӀер10         = [[Орбита]]лиял тӀабгӀал
+| гӀаламат11          = Рахьдал нухалъул<br/>гӀищалдаса гьоркьохъеб манзил
+| текст11           = ≈ {{val|2.7|e=17|u=км}}<br/>{{nowrap|≈ {{val|fmt=commas|29,000|u=[[канлъул лъагӀел]]}}}}
+| гӀаламат12          = [[Галактикияб лъагӀел|Галактикияб период]]
+| текст12           = (2.25–2.50){{e|8}} [[юлианияб лъагӀед (астрономия)|yr]]
+| гӀаламат13          = [[Хехлъи]]
+| текст13           = ≈ {{val|251|u=км/с}} (Рахьдал нухалъул центералда сверун орбита) <br/>≈ {{val|20|u=км/с}} (цӀваялъул гӀагарлъухъ ругел  цогидал цӀвабзазул гьоркьохъеб хехлъиялда хурхун) <br/>≈ {{val|370|u=км/с}}<ref>{{cite journal |last=Hinshaw |first=G. |display-authors=etal |year=2009 |title=Five-year Wilkinson Microwave Anisotropy Probe observations: текст processing, sky maps, and basic results |journal=[[The Astrophysical Journal Supplement Series]] |volume=180 |issue=2 |pages=225–245 |arxiv=0803.0732 |bibcode=2009ApJS..180..225H |doi=10.1088/0067-0049/180/2/225|s2cid=3629998 }}</ref> (relative to the [[Cosmic microwave background radiation#CMBR dipole anisotropy|cosmic microwave background]])
+<!-- section break, rows 20–39 -->| бетӀер20         = Физикиял сипат-суратал
+| гӀаламат21          = Экваториалияб [[радиус]]
+| текст21           = [[Соларияб радиус|695,700]]&nbsp;км,<ref name=IAU2015resB3>{{cite arxiv |first1=E.E. |last1=Mamajek |first2=A. |last2=Prsa |first3=G. |last3=Torres |first4=al. |last4=et |title=IAU 2015 Resolution B3 on Recommended Nominal Conversion Constants for Selected Solar and Planetary Properties |eprint=1510.07674 |mode=cs2 |class=astro-ph.SR |year=2015}}</ref><br/> 696,342 км<ref name=arxiv1203_4898>{{citation |first1=Marcelo |last1=Emilio |first2=Jeff R. |last2=Kuhn |first3=Rock I. |last3=Bush |first4=Isabelle F. |last4=Scholl |title=Measuring the Solar Radius from Space during the 2003 and 2006 Mercury Transits |arxiv=1203.4898 |bibcode=2012ApJ...750..135E |doi=10.1088/0004-637X/750/2/135 |volume=750 |issue=2 |journal=The Astrophysical Journal |page=135 |year=2012|s2cid=119255559 }}</ref><br/>{{val|109|u=[[Ракьалъул радиус|× Ракьалъул радиус]]}}<ref name=sse/>
+| гӀаламат22          = Экваториалияб [[горсвери]]
+| текст22           = {{val|4.379|e=6|u=km}}<ref name=sse/><br/>109 × Ракь<ref name=sse>{{cite web |title=Solar System Exploration: Planets: Sun: Facts & Figures |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sun&Display=Facts&System=Metric |archive-url=https://web.archive.org/web/20080102034758/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sun&Display=Facts&System=Metric |archive-date=2 January 2008 |url-status=dead |publisher=NASA}}</ref>
+| гӀаламат23          = [[Flattening]]
+| текст23           = {{val|9|e=-6}}
+| гӀаламат24          = [[ТӀасалъиялъул гӀатӀилъи]]
+| текст24           = {{val|6.09|e=12|u=km2}}<ref name=sse/><br/>{{nowrap|{{val|fmt=commas|12000}}}} × Earth<ref name=sse/>
+| гӀаламат25          = [[Volume]]
+| текст25           = {{val|1.41|e=18|u=km3}}<ref name=sse/><!-- NASA source has "1.412 x 10^18 km^3", which is 1.412 × 10^27 m^3 (basic arithmetic, also verified using the formula for volume of a sphere), but the Sun is not a sphere, and their radius is off a bit from what we have above, so we need to at least round a bit--><br/>{{nowrap|{{val|fmt=commas|1300000}}}} × Earth
+| гӀаламат26          = [[Масса]]
+| текст26           = {{val|1.9885||e=30|u=kg}}<ref name=nssdc/><br/>{{nowrap|{{val|fmt=commas|332950|u=[[Mass of Earth|Earths]]}}}}<ref name=nssdc/><!-- NASA Sun Fact Sheet states 333,000, a figure coherent with текст already present in en.wiki -->
+| гӀаламат27          = Гьоркьохъеб [[гъункел]]
+| текст27           = {{val|1.408|u=g/cm3}}<ref name=nssdc/><ref name=sse/><ref>{{cite web |last=Ko |first=M. |date=1999 |title=Density of the Sun |url=http://hypertextbook.com/facts/1999/MayKo.shtml |editor=Elert, G. |website=The Physics Factbook |access-date=14 July 2014 |archive-date=13 July 2019 |archive-url=https://web.archive.org/web/20190713163245/https://hypertextbook.com/facts/1999/MayKo.shtml |url-status=live }}</ref><br/>{{val|0.255}} × Earth<ref name=nssdc/><ref name=sse/>
+| гӀаламат28          = Центералъулаб [[гъункел]] (моделхинабураб)
+| текст28           = {{val|162.2|u=g/cm3}}<ref name=nssdc/><br/>{{val|12.4}} × Earth
+| гӀаламат29          = Equatorial [[surface gravity]]
+| текст29           = {{val|274|u=m/s2}}<ref name=nssdc/><br/>28 × Earth<ref name=sse/>
+| гӀаламат30          = [[Moment of inertia factor]]
+| текст30           = {{val|0.070}}<ref name=nssdc /> (estimate)
+| гӀаламат31          = [[Escape velocity]]<br/>(from the surface)
+| текст31           = {{val|617.7|u=km/s}}<ref name=sse/><br/>55 × Earth<ref name=sse/>
+| гӀаламат32          = Temperature
+| текст32           = Center (modeled): {{val|1.57|e=7|u=K}}<ref name=nssdc/><br/>[[Photosphere]] (effective): {{nowrap|{{val|fmt=commas|5772|ul=K}}}}<ref name=nssdc/><br/> [[Solar corona|Corona]]: ≈ {{val|5|e=6|u=K}}
+| гӀаламат33          = [[Luminosity]] (L<sub>sol</sub>)
+| текст33           = {{val|3.828|e=26|ul=W}}<ref name=nssdc/><br/>≈ {{val|3.75|e=28|u=[[lumen (unit)|lm]]}}<br/>≈ {{val|98|u=lm/W}} [[Luminous efficacy|efficacy]]
+| гӀаламат34          = [[Color index|Color]] (B-V)
+| текст34           = 0.63
+| гӀаламат35          = Mean [[radiance]]&nbsp;(I<sub>sol</sub>)
+| текст35           = {{val|2.009|e=7|u=W·m<sup>−2</sup>·sr<sup>−1</sup>}}
+| гӀаламат36          = Age
+| текст36           = ≈ 4.6 billion years ({{val|4.6|e=9|u=years}}) <ref name="Bonanno">{{Cite journal |last1=Bonanno |first1=A. |last2=Schlattl |first2=H. |last3=Paternò |first3=L. |year=2002 |title=The age of the Sun and the relativistic corrections in the EOS |journal=[[Astronomy and Astrophysics]] |volume=390 |issue=3 |pages=1115–1118 |arxiv=astro-ph/0204331 |bibcode=2002A&A...390.1115B |doi=10.1051/0004-6361:20020749}}</ref><ref>{{Cite journal |title=The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk |date=2 November 2012 |doi=10.1126/science.1226919 |journal=Science |volume=338 |issue=6107 |pages=651–655 |bibcode=2012Sci...338..651C |pmid=23118187 |last1=Connelly |first1=JN |last2=Bizzarro |first2=M |last3=Krot |first3=AN |last4=Nordlund |first4=Å |last5=Wielandt |first5=D |last6=Ivanova |first6=MA|s2cid=21965292 }}{{Registration required}}</ref>
+<!-- section break, rows 40–49 -->| бетӀер40         = [[Rotation]] characteristics
+| гӀаламат41          = [[Axial tilt|Obliquity]]
+| текст41           = 7.25°<ref name=nssdc/><br/>(to the [[ecliptic]])<br/>67.23°<br/>(to the [[galactic plane]])
+| гӀаламат42          = [[Right ascension]]<br/>of North pole<ref name="iau-iag">{{cite web |last1=Seidelmann |first1=P.K. |display-authors=etal |title=Report Of The IAU/IAG Working Group On Cartographic Coordinates And Rotational Elements Of The Planets And Satellites: 2000 |url=http://www.hnsky.org/iau-iag.htm |date=2000 |access-date=22 March 2006 |archive-date=12 May 2020 |archive-url=https://web.archive.org/web/20200512151452/http://www.hnsky.org/iau-iag.htm |url-status=dead }}</ref>
+| текст42           = 286.13°<br/>{{nowrap|19 h 4 min 30 s}}
+| гӀаламат43          = [[Declination]]<br/>of North pole
+| текст43           = +63.87°<br/>63° 52' North
+| гӀаламат44          = Sidereal [[Solar rotation|rotation period]] <br/>(at equator)
+| текст44           = 25.05 d<ref name=nssdc/>
+| гӀаламат45          = (at 16° latitude)
+| текст45           = 25.38 d<ref name=nssdc/><br/>{{nowrap|25 d 9 h 7 min 12 s}}<ref name="iau-iag"/>
+| гӀаламат46          = (at poles)
+| текст46           = 34.4 d<ref name=nssdc/><!-- derived from T = ( 14.37 − 2.33 sin^2 L − 1.56 sin^4 L ) °/day, L = 90° -->
+| гӀаламат47          = Rotation velocity<br/>(at equator)
+| текст47           = {{val|7.189|e=3|u=km/h}}<ref name="sse"/><!-- Derived from NASA source: equatorial circumference of 4,379,000 kilometers divided by sidereal rotation period of 609.12 hours; maybe this kind of basic calculation could be done in some generic template code? -->
+<!-- section break, rows 50–69 -->| бетӀер50         = [[photosphere|Photospheric]] composition (by mass)
+| гӀаламат51          = [[Hydrogen]]
+| текст51           = 73.46%<ref>{{cite web |title=The Sun's Vital Statistics |url=http://solar-center.stanford.edu/vitalstats.html |publisher=Stanford Solar Center |access-date=29 July 2008 |archive-date=14 October 2012 |archive-url=https://www.webcitation.org/6BOkQXma3?url=http://solar-center.stanford.edu/vitalstats.html |url-status=live }} Citing {{cite book |last=Eddy |first=J. |date=1979 |title=A New Sun: The Solar Results From Skylab |url=https://history.nasa.gov/SP-402/contents.htm |page=37 |publisher=NASA |id=NASA SP-402 |access-date=12 July 2017 |archive-date=30 July 2021 |archive-url=https://web.archive.org/web/20210730024856/https://history.nasa.gov/SP-402/contents.htm |url-status=live }}</ref>
+| гӀаламат52          = [[Helium]]
+| текст52           = 24.85%
+| гӀаламат53          = [[Oxygen]]
+| текст53           = 0.77%
+| гӀаламат54          = [[Carbon]]
+| текст54           = 0.29%
+| гӀаламат55          = [[Iron]]
+| текст55           = 0.16%
+| гӀаламат56          = [[Neon]]
+| текст56           = 0.12%
+| гӀаламат57          = [[Nitrogen]]
+| текст57           = 0.09%
+| гӀаламат58          = [[Silicon]]
+| текст58           = 0.07%
+| гӀаламат59          = [[Magnesium]]
+| текст59           = 0.05%
+| гӀаламат60          = [[Sulphur]]
+| текст60           = 0.04%
+}}
 [[Файл:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100801.jpg|thumb|250px|<span style="color:grey;">Бакъ</span>]]
 
 '''Бакъ''' (символ: [[file:Sun symbol (fixed width).svg|16px|☉]]) ккола Бакъулабин абулеб  системаялъул ([[гIурус мацI]]алда — Солнечная система) бакьулъ бугеб [[цIва]]. 
