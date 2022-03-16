@@ -1,0 +1,130 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477002432
+| Name =
+| ImageFile = Halit-Kristalle.jpg
+| ImageCaption = Натриялъул хлорид [[гьалит]] минерал гӀадин
+| ImageFile1 = NaCl bonds.svg
+| ImageCaption1 = Кристалияб структура натрий пурпурияб ва хлорид гӀурччиналъ бугеб<ref>{{cite web|url=https://physicsopenlab.org/2018/01/22/sodium-chloride-nacl-crystal/|title=Sodium Chloride (NaCl) Crystal|publisher=PhysicsOpenLab|access-date=23 August 2021}}</ref>
+| IUPACName = Sodium chloride
+| OtherNames = {{unbulleted list
+ | Common salt
+ | halite
+ | rock salt
+ | saline
+ | table salt
+ | regular salt
+ | sea salt
+ }}
+| SystematicName = 
+| Section1 = {{Chembox Identifiers
+| CASNo = 7647-14-5
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 5234
+| UNII = 451W47IQ8X
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 231-598-3
+| KEGG = D02056
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| MeSHName = Sodium+chloride
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 26710
+| ChEMBL = 1200574
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| RTECS = VZ4725000
+| Beilstein = 3534976
+| Gmelin = 13673
+| SMILES = [Na+].[Cl-]
+| StdInChI = 1S/ClH.Na/h1H;/q;+1/p-1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| InChI = 1/ClH.Na/h1H;/q;+1/p-1
+| StdInChIKey = FAPWRFPIFSIZLT-UHFFFAOYSA-M
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| InChIKey = FAPWRFPIFSIZLT-REWHXWOFAE
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5044
+}}
+| Section2 = {{Chembox Properties
+| Formula = NaCl
+| MolarMass = 58.443 g/mol<ref name="crc">Haynes, 4.89</ref>
+| Appearance = Colorless cubic crystals<ref name=crc/>
+| Odor = Odorless
+| Density = 2.17 g/cm<sup>3</sup><ref name=crc/>
+| MeltingPtC = 800.7
+| MeltingPt_ref=<ref name=crc/>
+| BoilingPtC = 1465
+| BoilingPt_ref=<ref name=crc/>
+| Solubility = 360 g/1000 g pure water at T = 25 °C<ref name="crc" />
+| Solvent1 = ammonia
+| Solubility1 = 21.5 g/L at T = ?{{Clarify|date = June 2021}}
+| Solvent2 = methanol
+| Solubility2 = 14.9 g/L at T = ?{{Clarify|date = June 2021}}
+| RefractIndex = 1.5441 (at 589 nm)<ref>Haynes, 10.241</ref>
+| MagSus = −30.2·10<sup>−6</sup> cm<sup>3</sup>/mol<ref>Haynes, 4.135</ref>
+}}
+| Section3 = {{Chembox Structure
+| Structure_ref =<ref>Haynes, 4.148</ref>
+| CrystalStruct = Face-centered cubic <br>(''see text''), [[Pearson symbol|cF8]]
+| SpaceGroup = Fm{{overline|3}}m  (No. 225)
+| LattConst_a = 564.02 pm
+| UnitCellFormulas = 4
+| Coordination = octahedral at Na<sup>+</sup><br />octahedral at Cl<sup>−</sup>
+}}
+| Section4 = 
+| Section5 = {{Chembox Thermochemistry
+| Thermochemistry_ref =<ref>Haynes, 5.8</ref>
+| DeltaHf = −411.120 kJ/mol
+| Entropy = 72.10 J/(K·mol)
+| HeatCapacity = 50.5 J/(K·mol)
+}}
+| Section6 = {{Chembox Pharmacology
+| ATCCode_prefix = A12
+| ATCCode_suffix = CA01
+| ATC_Supplemental = {{ATC|B05|CB01}}, {{ATC|B05|XA03}}, {{ATC|S01|XA03}}
+}}
+| Section7 = {{Chembox Hazards
+| NFPA-H = 0
+| NFPA-F = 0
+| NFPA-R = 0
+| LD50 = 3 г/кг (кӀалдисан, гӀункӀкӀазе)<ref>[http://chem.sis.nlm.nih.gov/chemidplus/rn/7647-14-5 Sodium chloride]. nlm.nih.gov.</ref>
+}}
+| Section8 = {{Chembox Related
+| OtherAnions = [[Натриялъул фторид]]<br />[[Натриялъул броми]]<br />[[Натриялъул йодид]]<br/>[[Натриялъул астатид]]
+| OtherCations = [[Литиялъул хлорид]]<br />[[Калиялъул хлорид]]<br />[[Рубидиялъул хлорид]]<br />[[Цезиялъул хлорид]]<br/>[[Франциялъул хлорид]]
+}}
+}}
+
+'''Натриялъул хлорид''' ({{Lang-la|Natrii chloridum}}), жиб '''цӀам''' хӀисабалдаги лъалеб, ккола [[ионияб итӀнел]] '''NaCl''' [[химикалияб формула]]ги бугеб, жинца натриялъулги хлоралъулги ионазул 1:1 дандеккезаби бихьулеб, ккола цӀамул цӀекӀлъелалъулги натриялъулги цӀам. Дандеккураб 22.99 ва 35.45 g/mol [[моларияб масса]]гун , NaCl-алъул 100 грамалъулӀ букӀуна Na-ялъул 39.34 г ва  Cl-ялъул 60.66 г. Натриялъул хлорид ккола жинца цӀикӀкӀаниселъ [[ралъдал лъим|ралъдал лъималъул]] ва гӀемерисел [[ГӀемерлъамелаб организм|гӀемерлъамелал организмазул]] [[экстрацеллюларияб лъамалъи|экстрацеллюларияб лъамалъиялъул]] [[цӀамгӀаллъи]] гьабулеб [[цӀам (химия)|цӀамлъун]]. Кванаялъе хӀалтӀизабулеб [[цӀам|кванил цӀамалъул]] формаялда, гьеб гӀемерисеб хӀалтӀизабуле [[кондимент]] ва [[Бакъвазаби (кванил  консервация)|кванил консервант]] хӀисабалда. Натриялъул хлоридалъул кӀудияб къадар хӀалтӀизабула гӀемерал индустриалиял процессазда, ва гьеб ккола  натриялъул ва [[хлор|хлоралъул]] итӀнабазул аслияб сурсатлъун, жибги хаду-хадуб [[Химикияб синтез|химикияб синтезалъе]] гъарсилъун хӀалтӀизабулеб. Натриялъул хлоридалъул кӀиабилеб аслияб хӀалтӀизабилъун ккола минусияб гьава-бакъ бугелъул нухазде бай цӀвер бииналъе.
+{{TOC limit}}
+
+==МугъчӀваял==
+{{reflist}}
+* {{USGS|title=Salt|url=http://minerals.usgs.gov/minerals/pubs/commodity/salt/myb1-2008-salt.pdf}}
+
+==Цитатабазул ицц==
+* {{Cite book |title=CRC Handbook of Chemistry and Physics |title-link=CRC Handbook of Chemistry and Physics |publisher=[[CRC Press]] |year=2011 |isbn=978-1439855119 |editor-last=Haynes |editor-first=William M. |edition=92nd}}
+
+==КъватӀисел регӀелал==
+{{Commons|NaCl}}
+{{Cookbook|Salt}}
+
+''Ингилис мацӀалда:''
+* [http://minerals.usgs.gov/minerals/pubs/commodity/salt/ Salt] [[United States Geological Survey]] Statistics and Information
+* {{Cite journal |date=December 1997 |title=Using Salt and Sand for Winter Road Maintenance |url=http://www.usroads.com/journals/p/rmj/9712/rm971202.htm |url-status=dead |journal=Road Management Journal |archive-url=https://web.archive.org/web/20160921160156/http://www.usroads.com/journals/p/rmj/9712/rm971202.htm |archive-date=21 September 2016 |access-date=13 February 2007}}
+* Calculators: [http://www.aim.env.uea.ac.uk/aim/surftens/surftens.php surface tensions], and [http://www.aim.env.uea.ac.uk/aim/density/density_electrolyte.php densities, molarities and molalities] of aqueous NaCl (and other salts)
+* [http://hazard.com/msds/mf/baker/baker/files/s3338.htm JtBaker MSDS]
+
+{{Sodium compounds}}
+{{Chlorides}}
+{{Molecules detected in outer space}}
+{{Authority control}}
+
+{{DEFAULTSORT:Натриялъул хлорид}}
+[[Category:Алкали металлазул хлоридал]]
+[[Category:Хлоридал]]
+[[Category:Рукъалъул химия]]
+[[Category:Металлазул галогенидал]]
+[[Category:Sodium compounds]]
+[[Category:Натриялъул минералал]]
+[[Category:ГанчӀил цӀамалъул кристалияб структура]]
