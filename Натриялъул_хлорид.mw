@@ -7,15 +7,12 @@
 | ImageCaption = Натриялъул хлорид [[гьалит]] минерал гӀадин
 | ImageFile1 = NaCl bonds.svg
 | ImageCaption1 = Кристалияб структура натрий пурпурияб ва хлорид гӀурччиналъ бугеб<ref>{{cite web|url=https://physicsopenlab.org/2018/01/22/sodium-chloride-nacl-crystal/|title=Sodium Chloride (NaCl) Crystal|publisher=PhysicsOpenLab|access-date=23 August 2021}}</ref>
-| IUPACName = Sodium chloride
+| IUPACName = Натриялъул хлориж
 | OtherNames = {{unbulleted list
- | Common salt
- | halite
- | rock salt
- | saline
- | table salt
- | regular salt
- | sea salt
+ | гьалит
+ | ганчӀил цӀам
+ | кванил цӀал
+ | ралъдал цӀам
  }}
 | SystematicName = 
 | Section1 = {{Chembox Identifiers
@@ -47,21 +44,21 @@
 }}
 | Section2 = {{Chembox Properties
 | Formula = NaCl
-| MolarMass = 58.443 g/mol<ref name="crc">Haynes, 4.89</ref>
-| Appearance = Colorless cubic crystals<ref name=crc/>
-| Odor = Odorless
-| Density = 2.17 g/cm<sup>3</sup><ref name=crc/>
+| MolarMass = 58.443 г/мол<ref name="crc">Haynes, 4.89</ref>
+| Appearance = Кьер гьечӀел кубикиял кристалал<ref name=crc/>
+| Odor = МахӀ гьечӀеб
+| Density = 2.17 г/см<sup>3</sup><ref name=crc/>
 | MeltingPtC = 800.7
 | MeltingPt_ref=<ref name=crc/>
 | BoilingPtC = 1465
 | BoilingPt_ref=<ref name=crc/>
-| Solubility = 360 g/1000 g pure water at T = 25 °C<ref name="crc" />
-| Solvent1 = ammonia
-| Solubility1 = 21.5 g/L at T = ?{{Clarify|date = June 2021}}
-| Solvent2 = methanol
-| Solubility2 = 14.9 g/L at T = ?{{Clarify|date = June 2021}}
-| RefractIndex = 1.5441 (at 589 nm)<ref>Haynes, 10.241</ref>
-| MagSus = −30.2·10<sup>−6</sup> cm<sup>3</sup>/mol<ref>Haynes, 4.135</ref>
+| Solubility = 360 г/1000 г бацӀцӀадаб лъел T = 25 °C температураялда<ref name="crc" />
+| Solvent1 = аммиак
+| Solubility1 = 21.5 г/Л  (T = ?){{Clarify|date = June 2021}}
+| Solvent2 = метанол
+| Solubility2 = 14.9 г/Л (T = ?){{Clarify|date = June 2021}}
+| RefractIndex = 1.5441 (589 нм)<ref>Haynes, 10.241</ref>
+| MagSus = −30.2·10<sup>−6</sup> см<sup>3</sup>/мол<ref>Haynes, 4.135</ref>
 }}
 | Section3 = {{Chembox Structure
 | Structure_ref =<ref>Haynes, 4.148</ref>
