@@ -1,0 +1,121 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477162807
+| ImageFile = Potassium chloride.jpg
+| ImageFile1 = Potassium-chloride-3D-ionic.png
+| IUPACName = Калиялъул хлорид
+| OtherNames = [[Силвит]]<br/>Muriate of potash
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 660YQ98I10
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200731
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02060
+| InChI = 1/ClH.K/h1H;/q;+1/p-1
+| InChIKey = WCUXLLCKKVVCTQ-REWHXWOFAZ
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00761
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 32588
+| SMILES = [Cl-].[K+]
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/ClH.K/h1H;/q;+1/p-1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WCUXLLCKKVVCTQ-UHFFFAOYSA-M
+| CASNo = 7447-40-7
+| CASNo_Ref = {{cascite|correct|CAS}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4707
+| PubChem = 4873
+| RTECS = TS8050000
+}}
+|Section2={{Chembox Properties
+| Formula = KCl
+| MolarMass = 74.555 g·mol<sup>−1</sup>
+| Appearance = white crystalline solid
+| Odor = махӀ гьечӀеб
+| Density = 1.984 g/cm<sup>3</sup>
+| Solubility = 27.77 g/100mL (0&nbsp;°C) <br> 33.97 g/100mL (20&nbsp;°C) <br> 54.02 g/100mL (100&nbsp;°C)
+| SolubleOther = Билъула [[глицерол]]алъулӀ, [[алкали]]язулӀ <br> Slightly soluble in [[ethanol|alcohol]] Insoluble in [[diethyl ether|ether]]<ref>{{cite web | url = http://www.inchem.org/documents/pims/pharm/potasscl.htm | title = Potassium chloride (PIM 430) | at = 3.3.1 Properties of the substance | publisher = [[International Programme on Chemical Safety]] | access-date = 2011-01-17 }}</ref>
+| Solvent1 = Этанол
+| Solubility1 = 0.288 g/L (25 °C)<ref>{{cite web |title=periodic-table-of-elements.org |url=https://periodic-table-of-elements.org/SOLUBILITY/potassium_chloride |access-date=4 October 2019 |format=website shows values in g/100ml}}</ref>
+| MeltingPtC = 770
+| MeltingPt_notes =
+| BoilingPtC = 1420
+| RefractIndex = 1.4902 (589 nm)
+| pKa = ~7
+| MagSus = &minus;39.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+}}
+|Section3={{Chembox Structure
+| CrystalStruct = [[Cubic crystal system#Rock-salt structure|face centered cubic]]
+| SpaceGroup = Fm{{overline|3}}m, No. 225
+| LattConst_a = 629.2 pm<ref>{{cite book|author1=D.B. Sirdeshmukh |author2=L. Sirdeshmukh |author3=K.G. Subhadra |title =Alkali Halides: A Handbook of Physical Properties}}</ref>
+| Coordination = Octahedral (K<sup>+</sup>)<br />Octahedral (Cl<sup>−</sup>)
+}}
+|Section5={{Chembox Thermochemistry
+| DeltaHf = −436&nbsp;kJ·mol<sup>−1</sup><ref name=b1>{{cite book| author = Zumdahl, Steven S.|title =Chemical Principles 6th Ed.| publisher = Houghton Mifflin Company| year = 2009| isbn = 978-0-618-94690-7|page=A22}}</ref>
+| Entropy = 83&nbsp;J·mol<sup>−1</sup>·K<sup>−1</sup><ref name=b1/>
+ }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = A12
+| ATCCode_suffix = BA01
+| ATC_Supplemental = {{ATC|B05|XA01}}
+| AdminRoutes = Oral, IV, IM
+| Bioavail = 
+| Excretion = Renal: 90%; Fecal: 10%<ref>{{cite web | url=https://pubchem.ncbi.nlm.nih.gov/compound/4873 | title=Compound Summary for CID 4873 |website=Pubchem.ncbi.nlm.nih.gov|access-date=17 October 2015}}</ref>
+| HalfLife = 
+| Metabolism = 
+| ProteinBound = 
+| Dependence_liability = 
+| Addiction_liability = 
+  }}
+|Section7={{Chembox Hazards
+| ExternalSDS = [http://www.inchem.org/documents/icsc/icsc/eics1450.htm ICSC 1450]
+| FlashPt = Non-flammable
+| NFPA-H = 1
+| NFPA-F = 0
+| NFPA-R = 0
+| NFPA-S =
+| LD50 = 2600 mg/kg (oral, rat)<ref>{{cite web|url=http://chem.sis.nlm.nih.gov/chemidplus/rn/7447-40-7|title=ChemIDplus - 7447-40-7 - WCUXLLCKKVVCTQ-UHFFFAOYSA-M - Potassium chloride [USP:JAN] - Similar structures search, synonyms, formulas, resource links, and other chemical information.|first=Michael|last=Chambers|website=Chem.sis.nlm.nih.gov|access-date=22 December 2017}}</ref>
+}}
+|Section8={{Chembox Related
+| OtherAnions = [[Potassium fluoride]]<br/>[[Potassium bromide]]<br/>[[Potassium iodide]]
+| OtherCations = [[Lithium chloride]]<br/>[[Sodium chloride]]<br/>[[Rubidium chloride]]<br/>[[Caesium chloride]]<br/>[[Ammonium chloride]]
+| OtherCompounds = [[Potassium chlorate]]<br/>[[Potassium perchlorate]]
+}}
+}}
+'''Калиялъул хлорид''' ('''KCl''', яги '''калиялъул цӀам''') ккола [[металлазул гьалогенидал|гьалогенияб]] [[ЦӀам (химия)|цӀам]] [[калий|калиялдасаги]] [[хлор|хлоралдасаги]] гӀуцӀараб.
+
+==МугъчӀваял==
+{{Reflist}}
+
+==ТӀадеги цӀалиялъе==
+*{{RubberBible86th}} <!--Specify page. The citation was the 71st ed. Does the 86th ed. contain the appropriate verification -->
+*{{Greenwood&Earnshaw1st}} <!--Specify page -->
+
+== КъватӀисел регӀелал ==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/potassium%20chloride | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Potassium chloride }}
+
+{{Potassium compounds}}
+{{Chlorides}}
+{{Mineral supplements}}
+{{Molecules detected in outer space}}
+{{Salt topics}}
+{{Portal bar | Medicine}}
+
+{{Authority control}}
+
+[[Category:Алкали металлазул хлоридал]]
+[[Category:Хлоридал]]
+[[Category:Dietary minerals]]
+123456789
+[[Category:Inorganic fertilizers]]
+[[Category:Lethal injection components]]
+[[Category:Металлазул гьалогенидал]]
+[[Category:Potash]]
+[[Category:Potassium compounds]]
+[[Category:World Health Organization essential medicines]]
+[[Category:E-number additives]]
+[[Category:Rock salt crystal structure]]
