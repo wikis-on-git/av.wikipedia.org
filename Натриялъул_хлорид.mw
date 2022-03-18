@@ -52,28 +52,28 @@
 | MeltingPt_ref=<ref name=crc/>
 | BoilingPtC = 1465
 | BoilingPt_ref=<ref name=crc/>
-| Solubility = 360 г/1000 г бацӀцӀадаб лъел T = 25 °C температураялда<ref name="crc" />
-| Solvent1 = аммиак
-| Solubility1 = 21.5 г/Л  (T = ?){{Clarify|date = June 2021}}
-| Solvent2 = метанол
-| Solubility2 = 14.9 г/Л (T = ?){{Clarify|date = June 2021}}
+| Solubility = 360 г/1000 г бацӀцӀадаб лъелӀ T = 25 °C температураялда<ref name="crc" />
+| Solvent1 = Аммиак
+| Solubility1 = 21.5 г/г  (T = ?){{Clarify|date = June 2021}}
+| Solvent2 = Метанол
+| Solubility2 = 14.9 г/г (T = ?){{Clarify|date = June 2021}}
 | RefractIndex = 1.5441 (589 нм)<ref>Haynes, 10.241</ref>
 | MagSus = −30.2·10<sup>−6</sup> см<sup>3</sup>/мол<ref>Haynes, 4.135</ref>
 }}
 | Section3 = {{Chembox Structure
 | Structure_ref =<ref>Haynes, 4.148</ref>
-| CrystalStruct = Face-centered cubic <br>(''see text''), [[Pearson symbol|cF8]]
+| CrystalStruct = Face-centered cubic <br>(''ралагье тексталде''), [[Пирсонил симбол|cF8]]
 | SpaceGroup = Fm{{overline|3}}m  (No. 225)
 | LattConst_a = 564.02 pm
 | UnitCellFormulas = 4
-| Coordination = octahedral at Na<sup>+</sup><br />octahedral at Cl<sup>−</sup>
+| Coordination = Na-ялда октагьедралияб<sup>+</sup><br />octahedral at Cl-алда октагьедралияб<sup>−</sup>
 }}
 | Section4 = 
 | Section5 = {{Chembox Thermochemistry
 | Thermochemistry_ref =<ref>Haynes, 5.8</ref>
-| DeltaHf = −411.120 kJ/mol
-| Entropy = 72.10 J/(K·mol)
-| HeatCapacity = 50.5 J/(K·mol)
+| DeltaHf = −411.120 кДж/мол
+| Entropy = 72.10 Дж/(К·мол)
+| HeatCapacity = 50.5 Дж/(К·мол)
 }}
 | Section6 = {{Chembox Pharmacology
 | ATCCode_prefix = A12
