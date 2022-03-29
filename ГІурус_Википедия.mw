@@ -1,0 +1,573 @@
+{{Википедиялъул бутӀа}}
+
+'''ГІуру́с Википе́дия''' ({{lang-ru|Ру́сская Википедия}}<ref>Консенсуса об официальном названии проекта нет, употребляются различные варианты именования. См. [[Википедия:Опросы/Название русского раздела]]. Встречаются варианты: ''русская «Википедия»'', ''«Русская Википедия»'', ''Википедия на русском языке'', ''русскоязычный раздел Википедии'', ''РуВика'', ''РуВики'', ''ru-wiki''.</ref><ref>Вокруг названия или слова ''Википедия'' могут присутствовать или отсутствовать кавычки. С одной стороны, названия печатных изданий, в том числе энциклопедий, принято давать в кавычках, с другой — имена общественных движений, учреждений культуры указываются без кавычек ({{Книга:Справочник издателя и автора|ссылка часть=http://diamondsteel.ru/useful/handbook/3.html|часть=Названия (употребление прописных букв, кавычек; слитное, дефисное, раздельное написание)}}).</ref>) — [[гІурус мацІ]]алда бугеб энциклопедиялъул цо бутІа. Гьаб заманаялде щвезегІан гьениб хъван буго {{NUMBEROF|ARTICLES|{{wikidata|P424|ru|plain=1|from={{{from|}}}}}|N}} макъала. АнцӀго бищун кӀудиял Википедиялъул бутӀаязда гъорье уна<ref>Используется [[:ru:MediaWiki|MediaWiki]] с рядом расширений. Подробности об используемой версии MediaWiki и установленных расширениях можно посмотреть на странице [[:ru:Служебная:Версия|Служебная:Версия]]</ref>.
+
+== Тарих ==
+[[Файл:Most popular edition of Wikipedia by country.svg|мини|ГIуру Википедия бищунго машгьураб пачалихъал (хъахIилаб кьералде)]]
+БутIа гIуцIана [[2001 сон]]алъул 11 маялъ. 
+
+<p align="center">
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:canvas value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:1000 height:600
+PlotArea = left:50 bottom:60 top:30 right:20
+DateFormat = x.y
+Period = from:0 till:1695000
+TimeAxis = orientation:vertical
+AlignBars = late
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:10000 start:0
+BackgroundColors = canvas:canvas
+
+BarData=
+  bar:12.02 text:
+  bar:01.03 text:2003
+  bar:02.03 text:  
+  bar:03.03 text:
+  bar:04.03 text:  
+  bar:05.03 text:
+  bar:06.03 text:
+  bar:07.03 text:  
+  bar:08.03 text:  
+  bar:09.03 text:
+  bar:10.03 text:  
+  bar:11.03 text:
+  bar:12.03 text:
+  bar:01.04 text:2004
+  bar:02.04 text:  
+  bar:03.04 text:
+  bar:04.04 text:  
+  bar:05.04 text:
+  bar:06.04 text:
+  bar:07.04 text:
+  bar:08.04 text:
+  bar:09.04 text:
+  bar:10.04 text:
+  bar:11.04 text:
+  bar:12.04 text:
+  bar:01.05 text:2005
+  bar:02.05 text:
+  bar:03.05 text:
+  bar:04.05 text:
+  bar:05.05 text:
+  bar:06.05 text:
+  bar:07.05 text:
+  bar:08.05 text:
+  bar:09.05 text:
+  bar:10.05 text:
+  bar:11.05 text:
+  bar:12.05 text:
+  bar:01.06 text:2006
+  bar:02.06 text:
+  bar:03.06 text:
+  bar:04.06 text:
+  bar:05.06 text:
+  bar:06.06 text:
+  bar:07.06 text:
+  bar:08.06 text:
+  bar:09.06 text:
+  bar:10.06 text:
+  bar:11.06 text:
+  bar:12.06 text:
+  bar:01.07 text:2007
+  bar:02.07 text:
+  bar:03.07 text:
+  bar:04.07 text:
+  bar:05.07 text:
+  bar:06.07 text:
+  bar:07.07 text:
+  bar:08.07 text:
+  bar:09.07 text:
+  bar:10.07 text:
+  bar:11.07 text:
+  bar:12.07 text:
+  bar:01.08 text:2008
+  bar:02.08 text:
+  bar:03.08 text:
+  bar:04.08 text:
+  bar:05.08 text:
+  bar:06.08 text:
+  bar:07.08 text:
+  bar:08.08 text:
+  bar:09.08 text:
+  bar:10.08 text:
+  bar:11.08 text:
+  bar:12.08 text:
+  bar:01.09 text:2009
+  bar:02.09 text:
+  bar:03.09 text:
+  bar:04.09 text:
+  bar:05.09 text:
+  bar:06.09 text:
+  bar:07.09 text:
+  bar:08.09 text:
+  bar:09.09 text:
+  bar:10.09 text:
+  bar:11.09 text:
+  bar:12.09 text:
+  bar:01.10 text:2010
+  bar:02.10 text:
+  bar:03.10 text:
+  bar:04.10 text:
+  bar:05.10 text:
+  bar:06.10 text:
+  bar:07.10 text:
+  bar:08.10 text:
+  bar:09.10 text:
+  bar:10.10 text:
+  bar:11.10 text:
+  bar:12.10 text:
+  bar:01.11 text:2011
+  bar:02.11 text:
+  bar:03.11 text:
+  bar:04.11 text:
+  bar:05.11 text:
+  bar:06.11 text:
+  bar:07.11 text:
+  bar:08.11 text:
+  bar:09.11 text:
+  bar:10.11 text:
+  bar:11.11 text:
+  bar:12.11 text:
+  bar:01.12 text:2012
+  bar:02.12 text:
+  bar:03.12 text:
+  bar:04.12 text:
+  bar:05.12 text:
+  bar:06.12 text:
+  bar:07.12 text:
+  bar:08.12 text:
+  bar:09.12 text:
+  bar:10.12 text:
+  bar:11.12 text:
+  bar:12.12 text:
+  bar:01.13 text:2013
+  bar:02.13 text:
+  bar:03.13 text:
+  bar:04.13 text:
+  bar:05.13 text:
+  bar:06.13 text:
+  bar:07.13 text:
+  bar:08.13 text:
+  bar:09.13 text:
+  bar:10.13 text:
+  bar:11.13 text:
+  bar:12.13 text:
+  bar:01.14 text:2014
+  bar:02.14 text:
+  bar:03.14 text:
+  bar:04.14 text:
+  bar:05.14 text:
+  bar:06.14 text:
+  bar:07.14 text:
+  bar:08.14 text:
+  bar:09.14 text:
+  bar:10.14 text:
+  bar:11.14 text:
+  bar:12.14 text:
+  bar:01.15 text:2015
+  bar:02.15 text:
+  bar:03.15 text:
+  bar:04.15 text:
+  bar:05.15 text:
+  bar:06.15 text:
+  bar:07.15 text:
+  bar:08.15 text:
+  bar:09.15 text:
+  bar:10.15 text:
+  bar:11.15 text:
+  bar:12.15 text:
+  bar:01.16 text:2016
+  bar:02.16 text:
+  bar:03.16 text:
+  bar:04.16 text:
+  bar:05.16 text:
+  bar:06.16 text:
+  bar:07.16 text:
+  bar:08.16 text:
+  bar:09.16 text:
+  bar:10.16 text:
+  bar:11.16 text:
+  bar:12.16 text:
+  bar:01.17 text:2017
+  bar:02.17 text:
+  bar:03.17 text:
+  bar:04.17 text:
+  bar:05.17 text:
+  bar:06.17 text:
+  bar:07.17 text:
+  bar:08.17 text:
+  bar:09.17 text:
+  bar:10.17 text:
+  bar:11.17 text:
+  bar:12.17 text:
+  bar:01.18 text:2018
+  bar:02.18 text:
+  bar:03.18 text:
+  bar:04.18 text:
+  bar:05.18 text:
+  bar:06.18 text:
+  bar:07.18 text:
+  bar:08.18 text:
+  bar:09.18 text:
+  bar:10.18 text:
+  bar:11.18 text:
+  bar:12.18 text:
+  bar:01.19 text:2019
+  bar:02.19 text:
+  bar:03.19 text:
+  bar:04.19 text:
+  bar:05.19 text:
+  bar:06.19 text:
+  bar:07.19 text:
+  bar:08.19 text:
+  bar:09.19 text:
+  bar:10.19 text:
+  bar:11.19 text:
+  bar:12.19 text:
+  bar:01.20 text:2020
+  bar:02.20 text:
+  bar:03.20 text:
+  bar:04.20 text:
+  bar:05.20 text:
+  bar:06.20 text:
+  bar:07.20 text:
+  bar:08.20 text:
+  bar:09.20 text:
+  bar:10.20 text:
+  bar:11.20 text:
+  bar:12.20 text:
+  bar:01.21 text:2021
+PlotData=
+  color:barra width:10 align:left
+  bar:12.02 from:0 till:7
+  bar:01.03 from:0 till:49
+  bar:02.03 from:0 till:87
+  bar:03.03 from:0 till:121
+  bar:04.03 from:0 till:131
+  bar:05.03 from:0 till:163
+  bar:06.03 from:0 till:286
+  bar:07.03 from:0 till:383
+  bar:08.03 from:0 till:536
+  bar:09.03 from:0 till:677
+  bar:10.03 from:0 till:930
+  bar:11.03 from:0 till:1000
+  bar:12.03 from:0 till:1100
+  bar:01.04 from:0 till:1200
+  bar:02.04 from:0 till:1400
+  bar:03.04 from:0 till:1700
+  bar:04.04 from:0 till:1900
+  bar:05.04 from:0 till:2200
+  bar:06.04 from:0 till:3000
+  bar:07.04 from:0 till:4500
+  bar:08.04 from:0 till:4800
+  bar:09.04 from:0 till:5400
+  bar:10.04 from:0 till:6400
+  bar:11.04 from:0 till:7500
+  bar:12.04 from:0 till:8300
+  bar:01.05 from:0 till:9500
+  bar:02.05 from:0 till:11000
+  bar:03.05 from:0 till:12000
+  bar:04.05 from:0 till:14000
+  bar:05.05 from:0 till:16000
+  bar:06.05 from:0 till:19000
+  bar:07.05 from:0 till:21000
+  bar:08.05 from:0 till:26000
+  bar:09.05 from:0 till:30000
+  bar:10.05 from:0 till:33000
+  bar:11.05 from:0 till:36000
+  bar:12.05 from:0 till:39000
+  bar:01.06 from:0 till:47000
+  bar:02.06 from:0 till:51000
+  bar:03.06 from:0 till:56000
+  bar:04.06 from:0 till:63000
+  bar:05.06 from:0 till:67000
+  bar:06.06 from:0 till:73000
+  bar:07.06 from:0 till:86000
+  bar:08.06 from:0 till:91000
+  bar:09.06 from:0 till:97000
+  bar:10.06 from:0 till:103000
+  bar:11.06 from:0 till:108000
+  bar:12.06 from:0 till:113000
+  bar:01.07 from:0 till:119000
+  bar:02.07 from:0 till:130000
+  bar:03.07 from:0 till:137000
+  bar:04.07 from:0 till:160000
+  bar:05.07 from:0 till:166000
+  bar:06.07 from:0 till:175000
+  bar:07.07 from:0 till:183000
+  bar:08.07 from:0 till:190000
+  bar:09.07 from:0 till:197000
+  bar:10.07 from:0 till:204000
+  bar:11.07 from:0 till:211000
+  bar:12.07 from:0 till:217000
+  bar:01.08 from:0 till:223000
+  bar:02.08 from:0 till:230000
+  bar:03.08 from:0 till:237000
+  bar:04.08 from:0 till:253000
+  bar:05.08 from:0 till:266000
+  bar:06.08 from:0 till:286000
+  bar:07.08 from:0 till:295000
+  bar:08.08 from:0 till:304000
+  bar:09.08 from:0 till:312000
+  bar:10.08 from:0 till:319000
+  bar:11.08 from:0 till:328000
+  bar:12.08 from:0 till:335000
+  bar:01.09 from:0 till:344000
+  bar:02.09 from:0 till:356000
+  bar:03.09 from:0 till:365000
+  bar:04.09 from:0 till:375000
+  bar:05.09 from:0 till:383000
+  bar:06.09 from:0 till:395000
+  bar:07.09 from:0 till:405000
+  bar:08.09 from:0 till:419000
+  bar:09.09 from:0 till:428000
+  bar:10.09 from:0 till:438000
+  bar:11.09 from:0 till:449000
+  bar:12.09 from:0 till:463000
+  bar:01.10 from:0 till:476000
+  bar:02.10 from:0 till:489000
+  bar:03.10 from:0 till:501000
+  bar:04.10 from:0 till:514000
+  bar:05.10 from:0 till:530000
+  bar:06.10 from:0 till:543000
+  bar:07.10 from:0 till:555000
+  bar:08.10 from:0 till:567000
+  bar:09.10 from:0 till:581000
+  bar:10.10 from:0 till:597000
+  bar:11.10 from:0 till:610000
+  bar:12.10 from:0 till:625000
+  bar:01.11 from:0 till:642000
+  bar:02.11 from:0 till:655000
+  bar:03.11 from:0 till:677000
+  bar:04.11 from:0 till:694000
+  bar:05.11 from:0 till:705000
+  bar:06.11 from:0 till:716000
+  bar:07.11 from:0 till:729000
+  bar:08.11 from:0 till:741000
+  bar:09.11 from:0 till:761000
+  bar:10.11 from:0 till:771000
+  bar:11.11 from:0 till:782000
+  bar:12.11 from:0 till:796000
+  bar:01.12 from:0 till:807000
+  bar:02.12 from:0 till:817000
+  bar:03.12 from:0 till:828000
+  bar:04.12 from:0 till:840000
+  bar:05.12 from:0 till:850000
+  bar:06.12 from:0 till:862000
+  bar:07.12 from:0 till:881419 	
+  bar:08.12 from:0 till:881419 	
+  bar:09.12 from:0 till:894677
+  bar:10.12 from:0 till:910430
+  bar:11.12 from:0 till:921790
+  bar:12.12 from:0 till:933861
+  bar:01.13 from:0 till:946702 	
+  bar:02.13 from:0 till:960555 	
+  bar:03.13 from:0 till:973855
+  bar:04.13 from:0 till:985838
+  bar:05.13 from:0 till:996324 	
+  bar:06.13 from:0 till:1008239
+  bar:07.13 from:0 till:1020262
+  bar:08.13 from:0 till:1030745 	
+  bar:09.13 from:0 till:1039934
+  bar:10.13 from:0 till:1048773
+  bar:11.13 from:0 till:1057119
+  bar:12.13 from:0 till:1066286
+  bar:01.14 from:0 till:1075893	
+  bar:02.14 from:0 till:1085226	
+  bar:03.14 from:0 till:1093569
+  bar:04.14 from:0 till:1101143
+  bar:05.14 from:0 till:1109304
+  bar:06.14 from:0 till:1117181
+  bar:07.14 from:0 till:1124590
+  bar:08.14 from:0 till:1134684
+  bar:09.14 from:0 till:1143021
+  bar:10.14 from:0 till:1151530
+  bar:11.14 from:0 till:1159302
+  bar:12.14 from:0 till:1167340
+  bar:01.15 from:0 till:1174755
+  bar:02.15 from:0 till:1185780
+  bar:03.15 from:0 till:1194427
+  bar:04.15 from:0 till:1208883
+  bar:05.15 from:0 till:1216938
+  bar:06.15 from:0 till:1225392
+  bar:07.15 from:0 till:1233428
+  bar:08.15 from:0 till:1241866
+  bar:09.15 from:0 till:1249921
+  bar:10.15 from:0 till:1256822
+  bar:11.15 from:0 till:1264144
+  bar:12.15 from:0 till:1271350
+  bar:01.16 from:0 till:1278092
+  bar:02.16 from:0 till:1286425
+  bar:03.16 from:0 till:1292944
+  bar:04.16 from:0 till:1300600
+  bar:05.16 from:0 till:1307644
+  bar:06.16 from:0 till:1314478
+  bar:07.16 from:0 till:1324205
+  bar:08.16 from:0 till:1331267
+  bar:09.16 from:0 till:1338606
+  bar:10.16 from:0 till:1344925
+  bar:11.16 from:0 till:1350869
+  bar:12.16 from:0 till:1356764
+  bar:01.17 from:0 till:1362650
+  bar:02.17 from:0 till:1370020
+  bar:03.17 from:0 till:1376988
+  bar:04.17 from:0 till:1384401
+  bar:05.17 from:0 till:1391213
+  bar:06.17 from:0 till:1397406
+  bar:07.17 from:0 till:1404325
+  bar:08.17 from:0 till:1411199
+  bar:09.17 from:0 till:1417836
+  bar:10.17 from:0 till:1423828
+  bar:11.17 from:0 till:1431074	
+  bar:12.17 from:0 till:1437314
+  bar:01.18 from:0 till:1443519
+  bar:02.18 from:0 till:1450689
+  bar:03.18 from:0 till:1456465
+  bar:04.18 from:0 till:1463561
+  bar:05.18 from:0 till:1470034
+  bar:06.18 from:0 till:1475653
+  bar:07.18 from:0 till:1481127
+  bar:08.18 from:0 till:1486525	
+  bar:09.18 from:0 till:1493807
+  bar:10.18 from:0 till:1499836
+  bar:11.18 from:0 till:1506376
+  bar:12.18 from:0 till:1512403	
+  bar:01.19 from:0 till:1518885
+  bar:02.19 from:0 till:1524717	
+  bar:03.19 from:0 till:1531015
+  bar:04.19 from:0 till:1537328
+  bar:05.19 from:0 till:1541403
+  bar:06.19 from:0 till:1546920
+  bar:07.19 from:0 till:1552798
+  bar:08.19 from:0 till:1558749
+  bar:09.19 from:0 till:1565255
+  bar:10.19 from:0 till:1571190
+  bar:11.19 from:0 till:1576226
+  bar:12.19 from:0 till:1581518
+  bar:01.20 from:0 till:1587328
+  bar:02.20 from:0 till:1594273	
+  bar:03.20 from:0 till:1600809
+  bar:04.20 from:0 till:1609586
+  bar:05.20 from:0 till:1619057	
+  bar:06.20 from:0 till:1631157
+  bar:07.20 from:0 till:1639698
+  bar:08.20 from:0 till:1648352	
+  bar:09.20 from:0 till:1656786
+  bar:10.20 from:0 till:1664655
+  bar:11.20 from:0 till:1672489
+  bar:12.20 from:0 till:1680249
+  bar:01.21 from:0 till:1687268
+PlotData=
+  bar:01.03 at:49      fontsize:S text:
+  bar:05.03 at:163     fontsize:S text:163     shift:(-10,5)
+  bar:09.03 at:677     fontsize:S text:
+  bar:01.04 at:1200    fontsize:S text:1200    shift:(-10,5)
+  bar:05.04 at:2200    fontsize:S text:
+  bar:09.04 at:5400    fontsize:S text:
+  bar:01.05 at:9500    fontsize:S text:9500    shift:(-10,5)
+  bar:05.05 at:16000   fontsize:S text:
+  bar:09.05 at:30000   fontsize:S text:30000   shift:(-10,5)
+  bar:01.06 at:47000   fontsize:S text:
+  bar:05.06 at:67000   fontsize:S text:
+  bar:09.06 at:97000   fontsize:S text:
+  bar:01.07 at:119000  fontsize:S text:119000  shift:(-10,5)
+  bar:05.07 at:166000  fontsize:S text:
+  bar:09.07 at:197000  fontsize:S text:
+  bar:01.08 at:223000  fontsize:S text:
+  bar:05.08 at:266000  fontsize:S text:266000  shift:(-10,5)
+  bar:09.08 at:312000  fontsize:S text:
+  bar:01.09 at:344000  fontsize:S text:
+  bar:05.09 at:383000  fontsize:S text:
+  bar:09.09 at:428000  fontsize:S text:
+  bar:01.10 at:476000  fontsize:S text:476000  shift:(-10,5)
+  bar:05.10 at:530000  fontsize:S text:
+  bar:09.10 at:581000  fontsize:S text:
+  bar:01.11 at:642000  fontsize:S text:
+  bar:05.11 at:705000  fontsize:S text:
+  bar:09.11 at:761000  fontsize:S text:
+  bar:01.12 at:807000  fontsize:S text:807000  shift:(-10,5)
+  bar:05.12 at:850000  fontsize:S text:
+  bar:09.12 at:894000  fontsize:S text:
+  bar:01.13 at:946000  fontsize:S text:
+  bar:05.13 at:996000  fontsize:S text:
+  bar:09.13 at:1040000  fontsize:S text:
+  bar:01.14 at:1075000  fontsize:S text:
+  bar:05.14 at:1109000  fontsize:S text:1109000  shift:(-10,5)
+  bar:09.14 at:1143000  fontsize:S text:
+  bar:01.15 at:1175000  fontsize:S text:
+  bar:05.15 at:1217000  fontsize:S text:
+  bar:09.15 at:1250000  fontsize:S text:
+  bar:01.16 at:1280000  fontsize:S text:
+  bar:05.16 at:1310000  fontsize:S text:
+  bar:09.16 at:1340000  fontsize:S text:
+  bar:01.17 at:1362000  fontsize:S text:
+  bar:05.17 at:1391000  fontsize:S text:1391000  shift:(-10,5)
+  bar:09.17 at:1418000  fontsize:S text:
+  bar:01.18 at:1443000  fontsize:S text:
+  bar:05.18 at:1470000  fontsize:S text:
+  bar:09.18 at:1494000  fontsize:S text:
+  bar:01.19 at:1519000  fontsize:S text:
+  bar:05.19 at:1541000  fontsize:S text:
+  bar:09.19 at:1565000  fontsize:S text:
+  bar:01.20 at:1587000  fontsize:S text:
+  bar:05.20 at:1619000  fontsize:S text:
+  bar:09.20 at:1657000  fontsize:S text:
+  bar:01.21 at:1687000  fontsize:S text:1687000  shift:(-10,5)
+TextData=
+  fontsize:S pos:(350,20)
+  text:МоцIалъул байбихьуда ГIурус Википедиялда макъалабазул къадар
+</timeline>
+
+== Гь. балагье ==
+* [[:ru:Википедия:Список первых статей русской википедии|ГIурус Википедиялъул тIоцересел макъалабазул сияхI]]
+* [[:ru:Википедия:История русскоязычного раздела|ГIурус Википедиялъул тарих]]{{ref-ru}}
+* [[:ru:Логотип Википедии|Википедиялъул логотип]]
+* [[:ru:Википедия:Размер в томах|Размер в томах]]
+* [[:ru:Википедия:Викимедиа Россия|Викимедиа Россия]]
+* [[:ru:Некоммерческое партнёрство «Викимедиа РУ»|Некоммерческое партнёрство «Викимедиа РУ»]] 
+
+== РегӀелал ==
+{{Навигация}}
+* [http://meta.wikimedia.org/wiki/List_of_Wikipedias_by_sample_of_articles List of Wikipedias by sample of articles]
+* [https://av.wikipedia.org/wiki/Википедия:Википедиязул_сияхI Википедиязул сияхI]
+* {{ll|ru||ГІурус Википедия}}
+* [http://stats.wikimedia.org/RU/TablesWikipediaRU.htm Tables Wikipedia : RU : 2002—2018]
+* [[stats:wikimedia/squids/SquidReportPageViewsPerCountryTrends.htm#Russia|Wikipedia Page Views Per Country: 2009—2013]]
+* [[stats:EN/ReportCardTopWikis.htm#lang ru|Report Card Top Wikis: 2002—2018]]
+
+== Адабият ==
+'''ТІахьал'''
+* {{Книга|ref=Крижановский |ссылка=https://nauchkor.ru/pubs/rabota-v-viki-srede-na-primere-russkoy-vikipedii-5690f7f35f1be74d9400018e |автор=Крижановский А. А. |заглавие=Работа в вики-среде на примере русской "Википедии": учебное пособие для студентов и преподавателей вузов |год=2015 |язык=ru |место=Петрозаводск |издательство=Изд-во ПетрГУ |isbn=978-5-8021-2506-9}}{{ref-ru}}
+* {{Книга |ref=Левкина |ссылка=https://search.rsl.ru/ru/record/01009435907 |автор=Левкина Л. И. |заглавие=Социально-историческая роль сообществ: монография |год=2016 |язык=ru |место=М. |издательство=Русайнс |страницы=123- |страниц=180 |isbn=978-5-4365-1221-1}}{{ref-ru}}
+* {{Книга |автор=Байков В. Д. , Байков Д. В. , Крылова Е. В. |заглавие=Википедия объяснит всё, YouTube покажет всё: практическое пособие |год=2018 |место=М. |издательство=ДМК Пресс |страниц=234 |isbn=978-5-97060-588-2}}{{ref-ru}}
+
+'''ГІелмиял макъалаби'''
+* <!-- 5 цит. на 2021-07-03 -->{{Макъала |ссылка=https://cyberleninka.ru/article/n/psihologicheskiy-analiz-prakticheskogo-opyta-razrabotki-onlayn-entsiklopedii-vikipediya |автор=Брызгалин Е. А., Войскунский А. Е., Козловский С. А. |заглавие=Психологический анализ практического опыта разработки онлайн-энциклопедии "Википедия" |год=2019 |язык=ru |издание=Сибирский психологический журнал |выпуск=73 |страницы=17–39 |issn=2411-0809 |doi=10.17223/17267080/73/2}}{{ref-ru}}
+* {{Статья |ссылка=https://doi.org/10.33186/1027-3689-2017-7-30-41 |автор=Земскова А.И. |заглавие=Библиотеки и Википедия. Часть 1. Возможности сотрудничества публичных, вузовских и научных библиотек с Википедией |год=2017 |язык=ru |издание=Научные и технические библиотеки |номер=7 |страницы=30—41 |issn=2686-8601 |doi=10.33186/1027-3689-2017-7-30-41}}{{ref-ru}}
+* <!-- 3 цит. на 2021-07-03 -->{{Статья |ссылка=https://elibrary.ru/item.asp?id=18954073 |автор=Зимина Л. В. |заглавие="Википедия": Институт коллаборативного редактирования |год=2-12 |язык=ru |издание=Известия высших учебных заведений. Проблемы полиграфии и издательского дела |номер=3 |страницы=94—102 |issn=2072-6775}}{{ref-ru}}
+* <!-- 9 цит. на 2021-07-03 -->{{Статья |ссылка=https://cyberleninka.ru/article/n/lurkomorie-vs-vikipediya-neformalno-vs-formalno-1 |автор=Дементьев В В. |заглавие=«Луркоморье» vs. «Википедия» = «Неформально» vs. «Формально»? |год=2015 |язык=ru |издание=Жанры речи |номер=1(11) |страницы=137—151 |issn=2311-0759}}{{ref-ru}}
+
+'''Цогидаб'''
+* ''Черняк Е. Л., Миркин Б. Г.'' [http://www.dialog-21.ru/digests/dialog2013/materials/pdf/ChernyakEL.pdf Автоматическое достраивание таксономии на русском языке на основе ресурсов википедии]. — {{М}}: 2013.{{ref-ru}}
+* {{публикация|статья|автор=Смит Л.|заглавие=Почему миллионная страничка в русской Википедии — повод для торжества|ссылка=https://inosmi.ru/russia/20130515/208991055.html|архив=http://www.peeep.us/d38a42c3|архив дата=2014-01-14|оригинал=Why Wikipedia’s Millionth Russian Page is Worth Celebrating|оригинал ссылка=http://simulacrum.cc/2013/05/11/why-wikipedias-millionth-russian-page-is-worth-celebrating/|оригинал архив=http://www.peeep.us/4b7842e0|оригинал архив дата=2014-01-30|ответственный=Луи Смит|издание=[[ИноСМИ.ру]]|год=2013|месяц=5|день=15|ref=Смит}}{{ref-ru}}
+* [http://www.msses.ru/about/news/4402/ Как складывался образ довоенной сталинской эпохи в русской Википедии]{{ref-ru}}
+* [https://www.rfi.fr/ru/подкасты/интервью/20210511-русской-википедии-20-лет-как-она-устроена-кто-ее-создает-и-как-разрешаются-войны-правок Русской Википедии — 20 лет: как она устроена, кто её создает и как разрешаются «войны правок»]. Интервью [[Международное французское радио|RFI]] с [[Козловский, Станислав Александрович|Станиславом Козловским]], 2021 г.{{ref-ru}}
+
+== ХӀужаби ==
+{{ХӀужаби}}
+
+{{Россиялъул Википедиял}}
+[[Категория:Россиялъул Википедиял]]
+[[Категория:Рунет]]
+[[Категория:2001 соналъ раккарал сайтал]]
+[[Категория:ГӀурус мацӀалда сайтал]]
+[[Категория:ГӀурус мацӀалда энциклопедиял|Википедия]]
+[[Категория:Википедиялъул бутӀаби]]
+[[Категория:Славяниял Википедиял]]
+[[Категория:ГӀурус Википедия|*]]
