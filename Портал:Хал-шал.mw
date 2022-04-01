@@ -1,28 +1,28 @@
 <templatestyles src="Халип:Портал/styles-overview.css" />
 {{Index box}}
 <div class="mobile-table-fix>
-{{Проект:Порталал/Гъоркьгьумерал}}
+{{Проект:Порталал/Закладкаби}}
 </div>
-{{/intro-box-header}}
+{{{{FULLPAGENAME}}/intro-box-header}}
 Гьаб гьумералда бакӀарун буго Википедиялъул [[ВП:Порталал|порталазул]] сияхӀ.
 {{box-footer|}}
 
 <div class="fix-mobile-block-width" style="float:left; width:64%;">
-{{/box-header|Авар Википедиялъул порталал|{{FULLPAGENAME}}/Хал-шал}}
+{{{{FULLPAGENAME}}/box-header|Авар Википедиялъул порталал|{{FULLPAGENAME}}/Хал-шал}}
 {{{{FULLPAGENAME}}/Хал-шал}}
 {{box-footer|}}
 </div>
 
 <div class="fix-mobile-block-width" style="float:right; width:35%">
-{{/box-header|Ахирисеб тӀасбищараб портал|{{FULLPAGENAME}}/Ахирисеб тӀасбищараб портал|bg=#d5fdf4}}
-<center>{{{{FULLPAGENAME}}/Последний избранный портал}}</center>
+{{{{FULLPAGENAME}}/box-header|Ахирисеб тӀасбищараб портал|{{FULLPAGENAME}}/Ахирисеб тӀасбищараб портал|bg=#d5fdf4}}
+<center>{{{{FULLPAGENAME}}/Ахирисеб тӀасбищараб портал}}</center>
 {{box-footer|[[Википедия:ТӀасрищарал порталазул сияхӀалде кандидат|Кандидатураби]]}}
 
-{{/box-header|ГӀахьалчагӀазе халалъе|{{FULLPAGENAME}}/ГӀахьалчагӀазе халалъе}}
+{{{{FULLPAGENAME}}/box-header|ГӀахьалчагӀазе халалъе|{{FULLPAGENAME}}/ГӀахьалчагӀазе халалъе}}
 {{{{FULLPAGENAME}}/ГӀахьалчагӀазе халалъе}}
 {{box-footer|}}
 
-{{/box-header|ЦӀиял порталал|{{FULLPAGENAME}}/ЦӀиял порталал|bg=#d5fdf4}}
+{{{{FULLPAGENAME}}/box-header|ЦӀиял порталал|{{FULLPAGENAME}}/ЦӀиял порталал|bg=#d5fdf4}}
 {{{{FULLPAGENAME}}/ЦӀиял порталал}}
 {{box-footer|}}
 </div></div>
