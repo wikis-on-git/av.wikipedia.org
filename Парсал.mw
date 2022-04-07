@@ -1,7 +1,7 @@
 {{Этникияб къокъа
 |статус               =
 |цІар               = Парсал
-|familycolor               =
+|familycolor               = 
 |рахьдал мацІалда               = '''فارس''' (''фарсал'')<ref>''С. И. Ожегов, Н. Ю. Шведова''. [dic.academic.ru/dic.nsf/ogegova/158346 Толковый словарь Ожегова]. 1949—1992.</ref><ref name="соврэнциклоп2000">[dic.academic.ru/dic.nsf/enc1p/36566 Современная энциклопедия]. 2000.</ref>
 |байрахъ               =
 |сурат2               =
@@ -28,7 +28,6 @@
 |гІаммаб3               =
 |гІаммаб3_ref               =
 |халкъ_бакІ               = 
-{{Байрахъ|Афгъанистан}}: 577 000<ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/AF|title=Persian in Afghanistan|access-date=2017-06-03|archive-date=2015-09-23|archive-url=https://web.archive.org/web/20150923175825/http://joshuaproject.net/people_groups/14371/AF|deadlink=no}}</ref><br>
 {{Байрахъ|ЦГӀИ}}: 455 000<ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/AE|title=Persian in United Arab Emirates|access-date=2015-09-23|archive-date=2015-09-23|archive-url=https://web.archive.org/web/20150923181409/http://joshuaproject.net/people_groups/14371/AE|deadlink=no}}</ref><br>
 {{Байрахъ|ГӀиракъ}}: 419 000<ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/IZ|title=Persian in Iraq|access-date=2015-09-23|archive-date=2015-09-23|archive-url=https://web.archive.org/web/20150923183403/http://joshuaproject.net/people_groups/14371/IZ|deadlink=no}}</ref><br>
 {{Байрахъ|АЦШ}}: 336 000<ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/US|title=Persian in United States|access-date=2015-09-23|archive-date=2015-09-23|archive-url=https://web.archive.org/web/20150923180947/http://joshuaproject.net/people_groups/14371/US|deadlink=no}}</ref><br>
@@ -61,17 +60,17 @@
 {{Байрахъ|Хъазахъистан}}: 3200<ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/KZ|title=Persian in Kazakhstan|access-date=2015-09-23|archive-date=2015-09-25|archive-url=https://web.archive.org/web/20150925113028/http://joshuaproject.net/people_groups/14371/KZ|deadlink=no}}</ref><br>
 {{Байрахъ|ЦӀияб Зеландия}}: 3200<ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/NZ|title=Persian in New Zealand|access-date=2015-09-23|archive-date=2015-09-25|archive-url=https://web.archive.org/web/20150925122402/http://joshuaproject.net/people_groups/14371/NZ|deadlink=no}}</ref>
 |икълимал               =
-|пачалихъ1               = {{Байрахъ|Иран}}
-|халкъ1               = 50 003 000
+|region1               = {{Байрахъ|Иран}}
+|pop1               = 50 003 000
 |ref1               = <ref name="Iran population">Central Intelligence Agency ('''CIA''') The World Factbook: [https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html Iran population] {{Wayback|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html |date=20120203093100 }}: … Ethnic groups: Persian 61 %, Azeri 16 %, Kurd 10 %, Lur 6 %, Baloch 2 %, Arab 2 %, Turkmen and Turkic tribes 2 %, other 1 % (2008 est.) … Population: 78,868,711 (July 2012 est.) … Languages: Persian (official) 53 %, Azeri Turkic and Turkic dialects 18 %, Kurdish 10 %, Gilaki and Mazandarani 7 %, Luri 6 %, Balochi 2 %, Arabic 2 %, other 2 % (2008 est.) … Religions: Muslim (official) 98 % (Shia 89 %, Sunni 9 %), other (includes Zoroastrian, Jewish, Christian, and Baha’i) 2 %.</ref>
 |пач1_икълим1               =
 |пачалихъ2               = {{Байрахъ|Турция}}
 |халкъ2               = 624 000
 |ref2               =  <ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/TU|title=Persian in Turkey|access-date=2015-09-23|archive-date=2019-10-09|archive-url=https://web.archive.org/web/20191009123825/https://joshuaproject.net/people_groups/14371/TU|deadlink=no}}</ref>
 |пач2_икълим1               =
-|пачалихъ3               =
-|халкъ3               =
-|ref3               =
+|пачалихъ3               = {{Байрахъ|Афгъанистан}} 
+|халкъ3               = 577 000
+|ref3               = <ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/AF|title=Persian in Afghanistan|access-date=2017-06-03|archive-date=2015-09-23|archive-url=https://web.archive.org/web/20150923175825/http://joshuaproject.net/people_groups/14371/AF|deadlink=no}}</ref>
 |пач3_икълим1               =
 |пачалихъ4               =
 |халкъ4               =
@@ -255,7 +254,7 @@ Beautiful silk rug by Mohammad Seirafian, Isfahan, Iran.JPG|{{iw|Исфагьа�
 {{Навигация}}
 * {{cite web |url=http://www.ethnologue.com/show_language.asp?code=pes |work=Ethnologue |title=Персы, Иранцы |access-date=2019-11-09 |archive-date=2013-02-14 |archive-url=https://web.archive.org/web/20130214071218/http://www.ethnologue.com/show_language.asp?code=pes |deadlink=no }}
 
-{{ВС}}
+{{КЪР}}
 {{Ираниял миллатал}}
 {{Парсал}}
 {{Ираналъул миллатал}}
