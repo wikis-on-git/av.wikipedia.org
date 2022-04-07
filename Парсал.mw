@@ -111,7 +111,7 @@
 |region20           = {{Байрахъ|Швеция}} [[Швеция]]
 |pop20              = 41 000
 |ref20              = <ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/SW|title=Persian in Sweden|access-date=2015-09-23|archive-date=2015-09-25|archive-url=https://web.archive.org/web/20150925100141/http://joshuaproject.net/people_groups/14371/SW|deadlink=no}}</ref>
-|region21           = {{Байрахъ|Узбекистан}} [[Узбекистан]]
+|region21           = {{ПачБайрахъ|Узбекистан}}
 |pop21              = 38 000
 |ref21              = <ref>{{cite web|url=http://joshuaproject.net/people_groups/14371/UZ|title=Persian in Uzbekistan|access-date=2015-09-23|archive-date=2015-07-10|archive-url=https://web.archive.org/web/20150710101553/http://joshuaproject.net/people_groups/14371/UZ|deadlink=no}}</ref>
 |region22           = {{Байрахъ|Россия}} [[Россия]]
@@ -128,7 +128,7 @@
 |fam4               =
 |fam5               =
 |name               =
-|гІагарал           = [[тажикал]], [[бахтиарал]], [[гиланал]], [[лурал]], [[талышал]], [[татал]]
+|гІагарал           = [[тажикал]], <code><nowiki>[[бахтиарал]]</nowiki></code>, [[гиланал]], [[лурал]], [[талышал]], [[татал]]
 |map                =
 |mapsize            =
 |mapalt             =
