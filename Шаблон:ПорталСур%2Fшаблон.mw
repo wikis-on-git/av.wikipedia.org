@@ -1,0 +1,3 @@
+<includeonly>[[Файл:{{{image}}}|link={{{link|}}}|{{#if:{{{width|}}}|{{{width}}}|{{#if:{{{size|}}}|{{{size}}}|50}}}}x{{#if:{{{height|}}}|{{{height}}}|{{#if:{{{size|}}}|{{{size}}}|50}}}}px|alt=П:]]{{#ifeq:{{NAMESPACE}}{{BASEPAGENAME}}|{{ns:10}}:ПорталСур|[[Категория:Википедия:Шаблонал:Порталазул иконкаби|{{SUBPAGENAME}}]]}}</includeonly><noinclude>{{doc}}
+
+</noinclude>
