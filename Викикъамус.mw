@@ -1,0 +1,227 @@
+{{сайталъул карточка
+|websitename = Викикъамус
+|оригинальное название = {{lang-en|Wiktionary}}
+|url = https://www.wiktionary.org/
+|logo = Wiktionary-logo-ru-2013.png
+|commercial = Нет
+|языки = 170
+|location = [[Майами]] 
+|type = [[Къамус|Интернетияб къамус]]
+|reg = Ихтиярияб
+|owner = [[Фонд Викимедиа]]
+|author = [[Уэйлс, Джимми|Джимми Уэйлс]]
+|alexa = {{Рейтинг Alexa|wiktionary.org|549|название=Викисловарь|дата=2017-09-09|динамика=вниз}}
+}}
+
+'''Викикъамус''' ({{lang-en|Wiktionary}}) — эркенго цӀезабулеб гӀемерфункциялъулаб [[къамус]] ва [[тезаурус]] [[вики-мотор|вики-моторалъул]] аслуялда бугеб. [[Фонд Викимедиа|«Викимедиа» фондалъул]] проектаздаса цояб.
+
+ТӀоцебе баккана ингилис мацӀалда [[12 декабр]]алъ [[2002 сон]]алъ.
+
+== ХІужаби ==
+{{хІужаби}}
+
+== Адабият ==
+{{refbegin|2}}
+* {{статья
+|автор =Крижановский А.
+|заглавие =Преобразование структуры словарной статьи Викисловаря в таблицы и отношения реляционной базы данных
+|оригинал =
+|ссылка =http://mathem.krc.karelia.ru/publ.php?id=18513&plang=r
+|тип =препринт
+|год =2010
+|ref =Крижановский, Преобразование
+}}
+* {{статья
+|автор =Крижановский А.
+|заглавие =Сравнение тезаурусов Русского и Английского Викисловарей, преобразованных в машиночитаемый формат
+|оригинал =
+|ссылка =http://mathem.krc.karelia.ru/publ.php?id=18512&plang=r
+|тип =препринт
+|год =2010
+|ref =Крижановский, Сравнение
+}}
+* {{книга
+ |автор         = Крижановский А.
+ |часть         = Оценка использования корпусов и электронных библиотек в Русском Викисловаре
+ |ссылка часть  = http://mathem.krc.karelia.ru/publ.php?id=13359&plang=r
+ |заглавие      = Труды международной конференции «Корпусная лингвистика–2011»
+ |место         = СПб.
+ |издательство  = С.-Петербургский гос. университет, Филологический факультет
+ |год           = 2011
+ |страницы      = 217—222
+ |страниц       = 348
+ |isbn          = 978-5-8465-0005-5
+ |ref =Крижановский
+}}
+* {{книга
+ |автор         = Смирнов А. В., Круглов В. М., Крижановский А. А., Луговая Н. Б., Карпов А. А., Кипяткова И. С.
+ |часть         = Количественный анализ лексики русского WordNet и викисловарей
+ |ссылка часть  = http://mathem.krc.karelia.ru/publ.php?id=10626&plang=r
+ |заглавие      = Труды СПИИРАН
+ |ответственный=
+ |издание=
+ |место         = СПб.
+ |издательство  = 
+ |год           = 2012
+ |том           = 23
+ |страницы      = 231–253
+ |страниц       = 
+ |серия         = 
+ |isbn          = 
+ |ref =Смирнов и др.
+}}
+* {{книга
+ |автор         = Chesley P., Vincent B., Li Xu, Srihari R. K.
+ |часть         = Using verbs and adjectives to automatically classify blog sentiment
+ |ссылка часть  = http://www.aaai.org/Papers/Symposia/Spring/2006/SS-06-03/SS06-03-005.pdf
+ |заглавие      = Training
+ |год           = 2006
+ |страницы      = 233—235
+ |том           = 580
+ |ref =Chesley et al
+}}
+* {{статья
+ |автор =Hellmann S., Brekle J., Auer S.
+ |заглавие =Leveraging the Crowdsourcing of Lexical Resources for Bootstrapping a Linguistic Data Cloud
+ |ссылка =http://svn.aksw.org/papers/2012/JIST_Wiktionary/public.pdf
+ |тип = Proc. Joint Int. Semantic Technology Conference (JIST), Dec 2-4
+ |место =Nara, Japan
+ |год =2012
+ |страницы =
+ |ref =Hellmann et al
+}}
+* {{книга
+ |автор         = Hellmann S., Auer S.
+ |часть         = Towards Web-Scale Collaborative Knowledge Extraction
+ |ссылка часть  = http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf
+ |заглавие      = The People’s Web Meets NLP
+ |ссылка        = 
+ |ответственный = Gurevych, Iryna; Kim, Jungi
+ |место         = 
+ |издательство  = Springer
+ |год           = 2013
+ |страницы      = 287—313
+ |страниц       = 378
+ |серия         = Theory and Applications of Natural Language Processing
+ |isbn          = 978-3-642-35084-9
+ |ref =Hellmann and Auer
+}}
+* {{статья
+ |заглавие         = Wiki-ly supervised part-of-speech tagging
+ |ссылка             = http://newdesign.aclweb.org/anthology/D/D12/D12-1127.pdf
+ |автор               = Li S., Graça J. V., Taskar B.
+ |издательство = Association for Computational Linguistics
+ |тип                   = Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning
+ |место               = Jeju Island, Korea
+ |год                   = 2012
+ |страницы         = 1389—1398
+ |ref                      = Li et al
+ |deadlink                 = да
+ |archiveurl               = https://web.archive.org/web/20130522135201/http://newdesign.aclweb.org/anthology/D/D12/D12-1127.pdf
+ |archivedate              = 2013-05-22
+}}
+* {{книга
+ |автор         = Lin F., Krizhanovsky A.
+ |часть         = Multilingual ontology matching based on Wiktionary data accessible via SPARQL endpoint
+ |ссылка часть  = http://arxiv.org/abs/1109.0732
+ |заглавие      = Proc. of the 13th Russian Conference on Digital Libraries RCDL’2011. October 19-22, Voronezh, Russia
+ |год           = 2011
+ |страницы      = 19—26
+ |ref =Lin and Krizhanovsky
+}}
+* {{книга
+ |автор         = McFate C., Forbus K.
+ |часть         = NULEX: An Open-License Broad Coverage Lexicon
+ |ссылка часть  = http://www.aclweb.org/anthology/P/P11/P11-2063.pdf
+ |заглавие      = The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Conference, 19-24 June, 2011, Portland, Oregon, USA - Short Papers
+ |издательство  = The Association for Computer Linguistics
+ |год           = 2011
+ |страницы      = 363—367
+ |isbn          = 978-1-932432-88-6
+ |ref =McFate and Forbus
+}}
+* {{книга
+ |автор         = Medero J. and Ostendorf M.
+ |часть         = Analysis of vocabulary difficulty using wiktionary
+ |ссылка часть  = http://www.eee.bham.ac.uk/SLaTE2009/papers%5CSLaTE2009-41-v2.pdf
+ |заглавие      = Proc. SLaTE Workshop
+ |год           = 2009
+ |ref =Medero and Ostendorf
+}}
+* {{статья
+ |автор       = Meyer C. M. and Gurevych I.
+ |заглавие = Worth its Weight in Gold or Yet Another Resource - A Comparative Study of Wiktionary, OpenThesaurus and GermaNet
+ |оригинал = 
+ |ссылка     = http://www.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2010/cicling2010-meyer-lsrcomparison.pdf
+ |издание   = 
+ |тип           = Proc. 11th International Conference on Intelligent Text Processing and Computational Linguistics,
+ |место       = Iasi, Romania
+ |год           = 2010
+ |страницы = 38—49
+ |ref              = Meyer and Gurevych
+ |archiveurl       = https://web.archive.org/web/20171201182237/https://www.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2010/cicling2010-meyer-lsrcomparison.pdf
+ |archivedate      = 2017-12-01
+}}
+* {{книга
+ |автор         = Meyer C. M. and Gurevych I.
+ |часть         = OntoWiktionary – Constructing an Ontology from the Collaborative Online Dictionary Wiktionary
+ |ссылка часть  = http://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2012/igi-saod2011-meyer-ontowiktionary.pdf
+ |заглавие      = Semi-Automatic Ontology Development: Processes and Resources
+ |ответственный = M. T. Pazienza and A. Stellato
+ |издательство  = IGI Global
+ |год           = 2012
+ |страницы      = 131—161
+ |isbn          = 978-1-4666-0188-8
+ |ref =Meyer and Gurevych
+}}
+* {{книга
+ |автор         = Otte P., Tyers F. M.
+ |часть         = Rapid rule-based machine translation between Dutch and Afrikaans
+ |ссылка часть  = http://www.mt-archive.info/EAMT-2011-Otte.pdf
+ |заглавие      = EAMT 2011: proc. of the 15th conference of the European Association for Machine Translation
+ |ссылка        = 
+ |ответственный = Mikel L. Forcada, Heidi Depraetere, Vincent Vandeghinste
+ |место         = Leuven, Belgium
+ |издательство  = 
+ |год           = 2011
+ |страницы      = 153—160
+ |страниц       = 
+ |серия         = 
+ |isbn          = 
+ |ref =Otte and Tyers
+}}
+* {{книга
+ |автор         = Schlippe T., Ochs S., Schultz T.
+ |часть         = Grapheme-to-phoneme model generation for Indo-European languages
+ |ссылка часть  = http://csl.ira.uka.de/~schlippe/pubs/ICASSP2012-Schlippe_G2PModelGenerationIndoEuropean.pdf
+ |заглавие      = In Proceedings of The 37th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2012), Kyoto, Japan, 25-30 March
+ |год           = 2012
+ |страницы      = 4801—4804
+ |ref =Schlippe et al.
+}}
+* {{статья
+|автор =Zesch T., Müller C., Gurevych I.
+|заглавие =Extracting Lexical Semantic Knowledge from Wikipedia and Wiktionary.
+|оригинал =
+|ссылка =http://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2008/lrec08_camera_ready.pdf
+|издание =
+|тип = Proc. of the 6th International Conference on Language Resources and Evaluation
+|место =Marrakech, Morocco
+|год =2008
+|страницы =
+|ref =Zesch et al
+}}
+{{refend}}
+
+== РегӀелал ==
+{{Навигация
+|Викикъамус = Викисловарь
+}}
+* [https://www.wiktionary.org/ Wiktionary]
+* [[wikt:|ГӀурус Викикъамус]]
+{{КЪР}}
+{{Фонд Викимедиа}}
+
+[[Категория:Викимедиалъул проектал]]
+[[Категория:Электрониял къамусал]]
+[[Категория:Вики-проектал]]
